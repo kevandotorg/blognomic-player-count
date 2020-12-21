@@ -5,6 +5,8 @@ $month = 6;
 
 $allplayers = array();
 
+print "Month,Active Players,New Players,Proposals,Names\n";
+
 while ($year<2021)
 {
         $ch = curl_init();
