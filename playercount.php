@@ -23,7 +23,10 @@ while ($year<2021)
 
         natcasesort($players);
 
-        $row = "$year-".sprintf('%02d', $month).",".sizeof($players).",\"";
+        $proposals = substr_count($archive,'">Proposal:');
+
+        $row = "$year-".sprintf('%02d', $month).",".sizeof($players).",$proposals,\"";
+
         foreach ($players as $player)
         {
                 $row .= $player.", ";
