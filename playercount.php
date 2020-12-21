@@ -3,6 +3,8 @@
 $year = 2005;
 $month = 6;
 
+$allplayers = array();
+
 while ($year<2021)
 {
         $ch = curl_init();
@@ -15,18 +17,20 @@ while ($year<2021)
         preg_match_all("/posted by <a href=\"\/member\/\d+\">([^<]+)<\/a>/",$archive,$matches);
 
         $players = array();
+        $new = 0;
         foreach($matches[1] as $name)
         {
                 if(!in_array($name, $players))
                 { array_push($players,$name); }
+                if(!in_array($name, $allplayers))
+                { array_push($allplayers,$name); $new++; }
         }
 
         natcasesort($players);
 
         $proposals = substr_count($archive,'">Proposal:');
 
-        $row = "$year-".sprintf('%02d', $month).",".sizeof($players).",$proposals,\"";
-
+        $row = "$year-".sprintf('%02d', $month).",".sizeof($players).",$new,$proposals,\"";
         foreach ($players as $player)
         {
                 $row .= $player.", ";
@@ -37,5 +41,6 @@ while ($year<2021)
         $month++;
         if ($month==13) { $month = 1; $year++; }
 }
+
 
 ?>
