@@ -23,7 +23,7 @@ while ($year<2021)
 
         natcasesort($players);
 
-        $row = "$year-$month,".sizeof($players).",\"";
+        $row = "$year-".sprintf('%02d', $month).",".sizeof($players).",\"";
         foreach ($players as $player)
         {
                 $row .= $player.", ";
