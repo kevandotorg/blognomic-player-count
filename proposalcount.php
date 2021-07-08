@@ -97,7 +97,10 @@ function whichDynasty($propdate)
 	foreach ($enddates as $enddate)
 	{
 		if (strtotime($propdate) > strtotime($enddate))
-		{ $dynasty++; }
+		{
+			$dynasty++;
+			if ($dynasty == 180) { $dynasty++; } // skip the Second Switch
+		}
 	}
 	
 	return $dynasty;
