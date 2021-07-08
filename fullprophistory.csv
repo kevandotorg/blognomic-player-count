@@ -9272,6 +9272,7 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "Sphinx should be able to play along as well","card","31 May  2017 06:07:00","Failed","card","01 Jun 2017  15:52:59",33,7,148
 "A Fair Hint","card","31 May  2017 15:34:00","Failed","card","01 Jun 2017  15:54:08",24,11,148
 "Debt","Cuddlebeam","31 May  2017 17:38:00","Failed","card","01 Jun 2017  15:55:04",22,7,148
+"Keep your Core Warm","pokes","01 Jun  2017 00:33:00","Enacted","card","01 Jun 2017  15:56:31",15,12,148
 "Cleaning Up the Expedition Manual","duck","01 Jun  2017 10:56:00","Failed","Kevan","02 Jun 2017  10:40:07",23,14,148
 "Incentives for Charting the Antarctica","duck","01 Jun  2017 12:18:00","Failed","Kevan","02 Jun 2017  10:41:11",22,12,148
 "Cuthulu Victory!","card","01 Jun  2017 16:27:00","Enacted","Kevan","03 Jun 2017  10:22:58",41,13,148
@@ -12525,8 +12526,21 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "Richardo levels up","ais523","26 Jun  2021 07:36:00","Failed","Josh","28 Jun 2021  07:58:11",48,11,189
 "The Duracell Bunny","Josh","26 Jun  2021 08:57:00","Enacted","Josh","28 Jun 2021  07:58:38",47,11,189
 "Gathering Dust","Kevan","26 Jun  2021 09:34:00","Enacted","Josh","28 Jun 2021  08:00:13",46,14,189
-"cornerstone clarity clause","lemonfanta","26 Jun  2021 23:25:00","Open","Jumble","",-1,5,189
-"The Bloodsucker Proxy","Josh","27 Jun  2021 09:45:00","Open","Jumble","",-1,9,189
-"Step Into My Parlour","Kevan","27 Jun  2021 17:46:00","Open","Jumble","",-1,7,189
-"Tepesh","Josh","28 Jun  2021 08:03:00","Open","Kevan","",-1,0,189
+"cornerstone clarity clause","lemonfanta","26 Jun  2021 23:25:00","Enacted","Brendan","28 Jun 2021  22:04:26",46,7,189
+"The Bloodsucker Proxy","Josh","27 Jun  2021 09:45:00","Failed","Brendan","28 Jun 2021  22:29:03",36,13,189
+"Step Into My Parlour","Kevan","27 Jun  2021 17:46:00","Enacted","Brendan","29 Jun 2021  18:25:55",48,11,189
+"Tepesh","Josh","28 Jun  2021 08:03:00","Enacted","Josh","30 Jun 2021  08:33:25",48,19,189
+"Atomic Age [Core] [Appendix]","Clucky","28 Jun  2021 15:53:00","Failed","Josh","30 Jun 2021  09:10:50",41,20,189
+"Inversion of Power","Jumble","28 Jun  2021 20:27:00","Failed","Josh","30 Jun 2021  09:11:23",36,15,189
+"“We helped patch up Richardo’s wounds. He was suffering from an undefined injury.”","ais523","28 Jun  2021 22:40:00","Enacted","Josh","30 Jun 2021  09:11:52",34,6,189
+"You can’t seal us away that easily","ais523","29 Jun  2021 05:59:00","Enacted","Kevan","30 Jun 2021  10:26:12",28,9,189
+"Angel of Music","Josh","29 Jun  2021 19:50:00","Enacted","Kevan","30 Jun 2021  10:29:09",14,9,189
+"Little Devils","Clucky","29 Jun  2021 21:57:00","Enacted","Brendan","30 Jun 2021  17:27:31",19,8,189
+"Tepesh Mode","Josh","30 Jun  2021 08:45:00","Enacted","Josh","02 Jul 2021  12:24:02",51,10,189
+"[Core][Appendix] Defining slotlessness","ais523","30 Jun  2021 14:13:00","Failed","Josh","02 Jul 2021  12:26:38",46,18,189
+"Angel of Music","Clucky","30 Jun  2021 16:14:00","Enacted","Josh","02 Jul 2021  12:27:05",44,10,189
+"Rubber Fangs","Kevan","30 Jun  2021 17:20:00","Failed","Josh","02 Jul 2021  17:48:54",48,16,189
+"Shadowy Benefactors","Brendan","30 Jun  2021 19:15:00","Failed","Josh","02 Jul 2021  17:49:37",46,16,189
+"The Ever-Changing Crypt","lemonfanta","30 Jun  2021 23:22:00","Enacted","Josh","02 Jul 2021  17:50:11",42,7,189
+"Sprucing up a bit","lemonfanta","01 Jul  2021 00:11:00","Enacted","Josh","02 Jul 2021  17:51:12",41,6,189
 
