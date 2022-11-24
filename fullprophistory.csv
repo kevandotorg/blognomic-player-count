@@ -13629,5 +13629,287 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "A new place and a new face","SingularByte","06 Jul  2022 12:15:00","Vetoed","?","08 Jul 2022  14:01:06",49,12,197
 "Cold Turkey","Kevan","06 Jul  2022 18:19:00","Enacted","Kevan","09 Jul 2022  07:27:34",61,8,197
 "What We Owe To Each Other","Josh","07 Jul  2022 11:58:00","Enacted","Josh","09 Jul 2022  11:58:04",48,7,197
-"Mind Gems","Kevan","07 Jul  2022 17:41:00","Open","-","",-1,7,197
-"Keep the Beat","Jumble","09 Jul  2022 00:12:00","Open","-","",-1,2,197
+"Mind Gems","Kevan","07 Jul  2022 17:41:00","Vetoed","Josh","10 Jul 2022  16:35:19",70,7,197
+"Keep the Beat","Jumble","09 Jul  2022 00:12:00","Vetoed","Josh","10 Jul 2022  16:35:29",40,2,197
+"Basic Mechanics","Josh","10 Jul  2022 16:34:00","Enacted","Kevan","11 Jul 2022  06:42:48",14,9,197
+"Judging","lendunistus","10 Jul  2022 16:52:00","Failed","Kevan","11 Jul 2022  06:43:32",13,6,197
+"Bot Bouts","Josh","10 Jul  2022 17:15:00","Enacted","Kevan","11 Jul 2022  06:54:07",13,7,197
+"Start Your Engines","Kevan","10 Jul  2022 17:41:00","Enacted","Kevan","11 Jul 2022  17:28:35",23,11,197
+"Wowing the crowd","SingularByte","10 Jul  2022 18:27:00","Enacted","Kevan","11 Jul 2022  17:32:46",23,8,197
+"Scrapheap Challenge","Kevan","10 Jul  2022 22:25:00","Enacted","Kevan","11 Jul 2022  17:34:31",19,6,197
+"Big Flipper","Josh","11 Jul  2022 08:32:00","Enacted","?","12 Jul 2022  05:19:35",20,11,197
+"Giving everyone a turn","SingularByte","11 Jul  2022 11:53:00","Enacted","Kevan","12 Jul 2022  14:45:12",26,5,197
+"Ready Or Not","Josh","11 Jul  2022 12:00:00","Enacted","Kevan","12 Jul 2022  15:03:53",27,9,197
+"Halt and Catch Fire","Kevan","11 Jul  2022 17:34:00","Enacted","Kevan","12 Jul 2022  15:04:51",21,7,197
+"I’m drivin’ here!","SingularByte","12 Jul  2022 04:32:00","Failed","SingularByte","13 Jul 2022  05:55:04",25,11,197
+"Why? Why not?","Trapdoorspyder","12 Jul  2022 05:34:00","Enacted","SingularByte","13 Jul 2022  05:56:16",24,10,197
+"Front Toward Enemy","Kevan","12 Jul  2022 08:02:00","Enacted","SingularByte","13 Jul 2022  05:59:25",21,10,197
+"Shake it off","thundershrike","12 Jul  2022 15:02:00","Failed","Kevan","13 Jul 2022  16:35:13",25,9,197
+"Why Must We Fight?","Kevan","12 Jul  2022 15:10:00","Enacted","Kevan","13 Jul 2022  16:50:30",25,6,197
+"Garbage in, Garbage out","thundershrike","12 Jul  2022 16:17:00","Enacted","SingularByte","14 Jul 2022  03:26:35",35,8,197
+"What-a-Boutery","Josh","12 Jul  2022 19:59:00","Enacted","SingularByte","14 Jul 2022  03:32:27",31,7,197
+"Up to Scratch","SingularByte","13 Jul  2022 06:22:00","Enacted","SingularByte","14 Jul 2022  03:44:54",21,10,197
+"Ring out","SingularByte","13 Jul  2022 07:00:00","Enacted","SingularByte","14 Jul 2022  03:52:07",20,6,197
+"Out of Range Error","Kevan","13 Jul  2022 08:37:00","Enacted","SingularByte","14 Jul 2022  03:59:00",19,11,197
+"Gosh darn sellouts","lendunistus","13 Jul  2022 15:11:00","Failed","SingularByte","14 Jul 2022  04:03:51",12,11,197
+"Incentives","Josh","13 Jul  2022 15:51:00","Enacted","Brendan","14 Jul 2022  17:20:11",25,5,197
+"Any Old Iron","Kevan","13 Jul  2022 17:11:00","Enacted","SingularByte","15 Jul 2022  04:17:24",35,10,197
+"MOre tRIggErs!","Trapdoorspyder","13 Jul  2022 23:13:00","Enacted","SingularByte","15 Jul 2022  04:19:11",29,9,197
+"More weapons to the pile","SingularByte","14 Jul  2022 04:51:00","Enacted","SingularByte","15 Jul 2022  04:22:16",23,12,197
+"Trade-ins","SingularByte","14 Jul  2022 08:21:00","Enacted","SingularByte","15 Jul 2022  04:27:13",20,7,197
+"Set in Stone","Josh","14 Jul  2022 08:45:00","Enacted","SingularByte","15 Jul 2022  04:29:58",19,10,197
+"A Hush Descends","Kevan","14 Jul  2022 09:17:00","Failed","Kevan","15 Jul 2022  10:19:57",25,11,197
+"Anti-Lockout Mechanism","Jumble","14 Jul  2022 14:16:00","Enacted","Kevan","15 Jul 2022  13:55:36",23,12,197
+"Hall of Frame","Brendan","14 Jul  2022 16:22:00","Failed","Josh","16 Jul 2022  17:04:23",48,10,197
+"Time to cap off","Raven1207","14 Jul  2022 16:44:00","Enacted","Josh","16 Jul 2022  17:06:36",48,13,197
+"On a Short Fuse","SingularByte","15 Jul  2022 04:52:00","Failed","Josh","16 Jul 2022  17:07:40",36,3,197
+"Minute to Win It","Kevan","15 Jul  2022 07:33:00","Enacted","Josh","16 Jul 2022  17:08:08",33,10,197
+"System Shock","Josh","15 Jul  2022 08:10:00","Failed","?","16 Jul 2022  17:09:11",32,7,197
+"Privacy Screen","Josh","15 Jul  2022 08:21:00","Enacted","Josh","16 Jul 2022  17:09:45",32,7,197
+"It’s Just A Jump To The Left","Kevan","15 Jul  2022 10:20:00","Enacted","Josh","16 Jul 2022  17:10:29",30,8,197
+"Opening Shop","thundershrike","15 Jul  2022 15:49:00","Enacted","?","17 Jul 2022  06:28:45",38,10,197
+"Junkers","Snisbo","16 Jul  2022 01:48:00","Enacted","?","17 Jul 2022  06:38:57",28,9,197
+"Daily Docket","Josh","16 Jul  2022 20:06:00","Enacted","SingularByte","18 Jul 2022  09:07:47",37,10,197
+"Hey, it can still spin in circles pointlessly!","Jumble","16 Jul  2022 20:28:00","Enacted","SingularByte","18 Jul 2022  09:10:43",36,8,197
+"The Great Clean-up","SingularByte","17 Jul  2022 08:35:00","Failed","Josh","19 Jul 2022  16:00:16",55,13,197
+"Underlay Underlay Arena","Josh","17 Jul  2022 08:45:00","Enacted","Josh","19 Jul 2022  16:00:38",55,15,197
+"Your Name In Lights","Josh","18 Jul  2022 10:23:00","Enacted","Josh","20 Jul 2022  10:55:06",48,22,197
+"Flip-Loop-Break","Jumble","18 Jul  2022 16:25:00","Failed","Josh","20 Jul 2022  10:59:33",42,3,197
+"If you swing around enough, it might work","lendunistus","19 Jul  2022 12:48:00","Enacted","SingularByte","21 Jul 2022  13:37:06",48,11,197
+"Car Park, Out Back, Ten Minutes","Josh","19 Jul  2022 16:03:00","Failed","SingularByte","21 Jul 2022  13:39:32",45,17,197
+"Evasive action","SingularByte","20 Jul  2022 12:26:00","Failed","SingularByte","22 Jul 2022  13:06:50",48,3,197
+"Blast Off","SingularByte","20 Jul  2022 12:37:00","Failed","SingularByte","22 Jul 2022  13:08:21",48,7,197
+"New Drops","Josh","20 Jul  2022 17:29:00","Enacted","Brendan","22 Jul 2022  17:37:22",48,7,197
+"Elimination Round","Josh","22 Jul  2022 08:23:00","Failed","SingularByte","24 Jul 2022  07:24:48",47,13,197
+"Gonna be the very best","SingularByte","22 Jul  2022 13:12:00","Failed","SingularByte","24 Jul 2022  07:25:46",42,13,197
+"Infinite Range Automotives","lendunistus","22 Jul  2022 19:28:00","Enacted","SingularByte","24 Jul 2022  07:26:59",35,12,197
+"Shove clarity","Josh","23 Jul  2022 09:27:00","Enacted","Josh","25 Jul 2022  16:19:14",54,3,197
+"Foodpandaing","Chiiika","23 Jul  2022 18:00:00","Vetoed","Josh","25 Jul 2022  16:20:44",46,6,197
+"Cut The Livestream","Jumble","23 Jul  2022 20:40:00","Enacted","Jumble","25 Jul 2022  20:57:54",48,6,197
+"The house always loses","Brendan","24 Jul  2022 17:01:00","Failed","Josh","26 Jul 2022  17:44:32",48,6,197
+"Don’t tar all bots with the same brush","SingularByte","24 Jul  2022 17:30:00","Enacted","Josh","26 Jul 2022  17:44:53",48,8,197
+"Making the bot your own","SingularByte","25 Jul  2022 09:36:00","Failed","SingularByte","27 Jul 2022  12:27:55",50,13,197
+"Bye Bye Pass","Josh","26 Jul  2022 09:47:00","Enacted","Josh","27 Jul 2022  12:44:10",26,10,197
+"Chika Technologies LTD Sponsorship","Chiiika","26 Jul  2022 10:37:00","Enacted","Josh","27 Jul 2022  12:46:45",26,10,197
+"Gaffer Tape Bodge","Josh","26 Jul  2022 11:32:00","Enacted","Josh","27 Jul 2022  12:48:05",25,8,197
+"Aren’t workshops typically used to repair things?","Snisbo","26 Jul  2022 16:24:00","Enacted","Josh","27 Jul 2022  12:48:54",20,14,197
+"Snap-on Systems","Snisbo","26 Jul  2022 16:48:00","Failed","Josh","27 Jul 2022  12:50:08",20,4,197
+"Repairing the Repair Wrench [Appendix]","Brendan","26 Jul  2022 23:18:00","Failed","Josh","27 Jul 2022  12:50:27",13,5,197
+"Systemagic","Josh","27 Jul  2022 12:50:00","Failed","SingularByte","29 Jul 2022  04:31:34",39,12,197
+"Economy pass","Josh","27 Jul  2022 13:23:00","Failed","SingularByte","29 Jul 2022  07:52:12",42,11,197
+"Conservation of Momentum","Chiiika","27 Jul  2022 16:34:00","Failed","Josh","01 Aug 2022  16:12:49",119,9,197
+"Better Fireworks","Chiiika","27 Jul  2022 16:48:00","Enacted","SingularByte","29 Jul 2022  19:14:07",50,9,197
+"Economy Fail","Brendan","27 Jul  2022 22:49:00","Enacted","SingularByte","29 Jul 2022  19:15:56",44,6,197
+"Dodgy mechanics","SingularByte","28 Jul  2022 04:14:00","Failed","SingularByte","29 Jul 2022  19:18:06",39,12,197
+"Flipped Metal","lendunistus","28 Jul  2022 08:13:00","Enacted","SingularByte","29 Jul 2022  19:18:58",35,8,197
+"Evading a repeal","SingularByte","28 Jul  2022 11:46:00","Enacted","Josh","30 Jul 2022  17:31:11",53,9,197
+"Less Predictable Booms","Josh","29 Jul  2022 13:01:00","Enacted","Josh","31 Jul 2022  13:36:34",48,12,197
+"Diverting the bypass","SingularByte","29 Jul  2022 20:33:00","Enacted","Brendan","31 Jul 2022  23:41:23",51,5,197
+"The Flamethrower Buff Josh Was Asking For","lendunistus","31 Jul  2022 08:01:00","Enacted","Brendan","01 Aug 2022  16:29:19",32,9,197
+"Resolving everything","SingularByte","31 Jul  2022 08:16:00","Enacted","Brendan","01 Aug 2022  16:31:35",32,9,197
+"Why Doesn’t It Just Fall Off?","lendunistus","31 Jul  2022 18:21:00","Failed","Brendan","02 Aug 2022  18:49:22",48,7,197
+"Hook, Line and Sinker","Josh","01 Aug  2022 11:57:00","Enacted","Josh","03 Aug 2022  14:24:44",50,3,197
+"Fixing a little bug","Trapdoorspyder","01 Aug  2022 15:20:00","Failed","Josh","03 Aug 2022  17:45:39",50,15,197
+"Bruise Banner","Josh","01 Aug  2022 20:39:00","Failed","Brendan","03 Aug 2022  18:34:55",45,7,197
+"Nerf Spikes","Brendan","01 Aug  2022 21:57:00","Enacted","Brendan","03 Aug 2022  18:36:25",44,9,197
+"Nerf Scripts","Brendan","01 Aug  2022 22:11:00","Failed","Brendan","03 Aug 2022  18:42:37",44,8,197
+"Haves and Have Nots","Josh","03 Aug  2022 17:45:00","Enacted","Brendan","04 Aug 2022  15:33:17",21,6,197
+"Half Magic","Brendan","03 Aug  2022 18:59:00","Enacted","Brendan","05 Aug 2022  19:07:52",48,9,197
+"Diagnostic Debugging","Maldor","03 Aug  2022 19:28:00","Failed","Brendan","05 Aug 2022  19:32:10",48,11,197
+"Sfida","Josh","03 Aug  2022 20:00:00","Enacted","Brendan","05 Aug 2022  22:18:31",50,3,197
+"Status Symbiote","Brendan","03 Aug  2022 21:22:00","Enacted","Brendan","05 Aug 2022  22:20:16",48,7,197
+"Pumped Up Kicks","Josh","05 Aug  2022 07:42:00","Enacted","?","07 Aug 2022  04:31:21",44,13,197
+"Tattlebots","Brendan","05 Aug  2022 19:14:00","Failed","Josh","07 Aug 2022  19:38:34",48,7,197
+"Taunting, but better","Maldor","05 Aug  2022 23:17:00","Enacted","?","08 Aug 2022  01:47:06",50,3,197
+"Welcome to the Little Leagues!","Trapdoorspyder","06 Aug  2022 06:54:00","Failed","Josh","08 Aug 2022  08:22:24",49,8,197
+"I CALL FOUL!","Trapdoorspyder","06 Aug  2022 22:00:00","Enacted","Josh","08 Aug 2022  08:23:04",34,6,197
+"How To Get Softlocked by RNG","lendunistus","07 Aug  2022 11:09:00","Enacted","Josh","08 Aug 2022  15:14:21",28,6,197
+"More reactions","Maldor","07 Aug  2022 17:10:00","Enacted","Brendan","09 Aug 2022  23:29:55",54,4,197
+"Winners at War","Josh","08 Aug  2022 08:56:00","Enacted","Josh","10 Aug 2022  09:24:06",48,11,197
+"Sooner or Ablater","Josh","08 Aug  2022 13:50:00","Enacted","Josh","10 Aug 2022  13:51:21",48,6,197
+"[Core] Play Fair!","Trapdoorspyder","08 Aug  2022 14:05:00","Failed","Josh","10 Aug 2022  14:33:10",48,12,197
+"Brand new energy saving techniques!","Trapdoorspyder","08 Aug  2022 14:47:00","Enacted","Josh","10 Aug 2022  15:24:55",48,5,197
+"Final Countdown","Josh","10 Aug  2022 15:10:00","Enacted","SingularByte","11 Aug 2022  07:01:11",15,11,197
+"Time skip","SingularByte","10 Aug  2022 16:53:00","Enacted","Brendan","12 Aug 2022  18:00:58",49,10,197
+"Cost of doing repairs","Maldor","10 Aug  2022 18:58:00","Illegal","Josh","10 Aug 2022  19:24:24",0,3,197
+"The cost of repairs but I got everything this time","Maldor","10 Aug  2022 19:22:00","Failed","Brendan","12 Aug 2022  20:14:51",48,12,197
+"GPC","Brendan","10 Aug  2022 22:08:00","Enacted","Brendan","12 Aug 2022  22:19:31",48,8,197
+"Part recall","SingularByte","11 Aug  2022 07:08:00","Failed","Josh","13 Aug 2022  07:38:12",48,11,197
+"Galvanised Sprocket","Josh","11 Aug  2022 07:39:00","Enacted","Josh","13 Aug 2022  07:40:35",48,5,197
+"POS","Brendan","11 Aug  2022 15:26:00","Enacted","Josh","13 Aug 2022  16:09:53",48,9,197
+"Quicker endgame","Josh","11 Aug  2022 16:57:00","Enacted","Josh","13 Aug 2022  19:12:23",50,5,197
+"Meaningful Mist","Josh","13 Aug  2022 07:42:00","Enacted","SingularByte","15 Aug 2022  05:48:51",46,10,197
+"Needs More Turing Completeness","Habanero","13 Aug  2022 19:31:00","Failed","SingularByte","15 Aug 2022  05:50:48",34,2,197
+"Needs Less Halting Problem","Habanero","14 Aug  2022 01:21:00","Failed","SingularByte","16 Aug 2022  05:10:29",51,6,197
+"Vanishing Point","Josh","14 Aug  2022 15:29:00","Enacted","Brendan","16 Aug 2022  17:20:10",49,7,197
+"Formalised Disputes","SingularByte","14 Aug  2022 16:35:00","Enacted","Brendan","16 Aug 2022  17:23:52",48,5,197
+"The Bots Attain Sentience","Josh","15 Aug  2022 08:12:00","Enacted","Josh","17 Aug 2022  08:34:27",48,11,197
+"Let’s Buff Spikes","Brendan","15 Aug  2022 18:20:00","Failed","Brendan","17 Aug 2022  18:44:16",48,11,197
+"Double Blind","Habanero","16 Aug  2022 18:51:00","Enacted","Brendan","18 Aug 2022  22:30:08",51,8,197
+"Little corks","Josh","17 Aug  2022 08:38:00","Failed","Josh","19 Aug 2022  09:37:01",48,15,197
+"Bottling It","Brendan","18 Aug  2022 22:33:00","Enacted","Brendan","21 Aug 2022  00:34:45",50,12,197
+"Smarter subroutines","SingularByte","19 Aug  2022 06:42:00","Enacted","Josh","21 Aug 2022  08:01:21",49,4,197
+"Modularization Regulation","Habanero","19 Aug  2022 17:14:00","Enacted","Josh","21 Aug 2022  20:32:23",51,7,197
+"You May Have Already Won","Josh","20 Aug  2022 08:42:00","Failed","Josh","21 Aug 2022  20:33:09",35,3,197
+"Fighting Fund","Josh","20 Aug  2022 21:24:00","Enacted","Brendan","22 Aug 2022  18:23:11",44,7,197
+"Stimulus Check","lendunistus","21 Aug  2022 06:25:00","Enacted","Josh","23 Aug 2022  08:47:07",50,7,197
+"Round 2 Headache","Josh","22 Aug  2022 07:38:00","Enacted","SingularByte","24 Aug 2022  07:52:00",48,6,197
+"Hire more mechanics","SingularByte","22 Aug  2022 07:49:00","Enacted","SingularByte","24 Aug 2022  07:53:20",48,6,197
+"Blank cheque","SingularByte","22 Aug  2022 11:28:00","Failed","SingularByte","24 Aug 2022  07:57:22",44,7,197
+"Ineffective","Josh","22 Aug  2022 19:36:00","Enacted","SingularByte","24 Aug 2022  07:59:01",36,10,197
+"No More Arbitrary Code Execution","Habanero","23 Aug  2022 17:30:00","Failed","SingularByte","24 Aug 2022  08:00:49",14,3,197
+"TASBot, Schmasbot","Brendan","23 Aug  2022 18:07:00","Enacted","SingularByte","25 Aug 2022  04:05:28",33,4,197
+"Nitpicks","Maldor","23 Aug  2022 18:38:00","Failed","SingularByte","25 Aug 2022  04:09:41",33,9,197
+"Tournament balance changes","SingularByte","24 Aug  2022 07:54:00","Failed","SingularByte","26 Aug 2022  04:59:13",45,12,197
+"Weights Are Not The Only Heavy Thing","Brendan","24 Aug  2022 17:10:00","Failed","Brendan","26 Aug 2022  13:24:59",44,10,197
+"Imperfectly Debalanced","Habanero","25 Aug  2022 12:11:00","Enacted","SingularByte","27 Aug 2022  13:30:22",49,13,197
+"Some of the bits","Josh","25 Aug  2022 13:38:00","Enacted","SingularByte","27 Aug 2022  13:49:38",48,15,197
+"Noblesse Ablege","Josh","25 Aug  2022 13:41:00","Enacted","SingularByte","27 Aug 2022  13:52:51",48,6,197
+"Boing","Habanero","25 Aug  2022 18:13:00","Enacted","Brendan","27 Aug 2022  18:29:49",48,4,197
+"Planned Reschedule","SingularByte","28 Aug  2022 03:30:00","Failed","SingularByte","30 Aug 2022  05:06:47",49,6,197
+"Exit Criteria","Josh","29 Aug  2022 10:27:00","Enacted","Josh","30 Aug 2022  10:50:04",24,6,197
+"Tiers for Fears","Josh","29 Aug  2022 20:51:00","Enacted","Josh","30 Aug 2022  20:58:30",24,5,197
+"One of the world’s certainties","SingularByte","01 Sep  2022 15:56:00","Enacted","SingularByte","02 Sep 2022  04:11:34",12,16,197
+"Bestiary of Best Buds","SingularByte","01 Sep  2022 15:58:00","Enacted","SingularByte","02 Sep 2022  04:15:08",12,9,197
+"What are we working with here?","Trapdoorspyder","01 Sep  2022 16:20:00","Enacted","SingularByte","02 Sep 2022  04:31:21",12,11,197
+"That one video game I really liked","lendunistus","01 Sep  2022 17:44:00","Failed","Josh","02 Sep 2022  10:35:28",16,14,197
+"Keeps","Trapdoorspyder","01 Sep  2022 18:24:00","Enacted","SingularByte","02 Sep 2022  11:34:56",17,8,197
+"Specialized Species","Habanero","01 Sep  2022 19:02:00","Enacted","SingularByte","02 Sep 2022  19:40:48",24,13,197
+"There Can Be Only One [Special Case]","Brendan","01 Sep  2022 19:53:00","Enacted","SingularByte","02 Sep 2022  19:46:27",23,9,197
+"Heirarchy","Bucky","01 Sep  2022 23:37:00","Enacted","SingularByte","02 Sep 2022  19:48:52",20,11,197
+"A different metric","SingularByte","02 Sep  2022 07:49:00","Enacted","SingularByte","02 Sep 2022  20:02:02",12,8,197
+"Only somewhat present","Josh","02 Sep  2022 08:45:00","Enacted","SingularByte","03 Sep 2022  14:48:51",30,14,197
+"Clarified Tax Laws","SingularByte","02 Sep  2022 10:25:00","Enacted","SingularByte","03 Sep 2022  14:52:25",28,7,197
+"Direct Player Interactions","Josh","02 Sep  2022 14:34:00","Failed","Josh","03 Sep 2022  16:42:27",26,13,197
+"The Metropolis","Bucky","02 Sep  2022 14:55:00","Failed","SingularByte","04 Sep 2022  18:30:23",51,17,197
+"Infrastructured","Habanero","02 Sep  2022 18:57:00","Enacted","SingularByte","04 Sep 2022  18:59:15",48,10,197
+"But I don’t wanna!","Trapdoorspyder","02 Sep  2022 19:39:00","Failed","SingularByte","04 Sep 2022  19:03:13",47,10,197
+"The Utopia We All Want","Bucky","02 Sep  2022 20:33:00","Failed","SingularByte","04 Sep 2022  22:02:35",49,12,197
+"A mere trinket","SingularByte","03 Sep  2022 05:01:00","Enacted","SingularByte","04 Sep 2022  22:05:09",41,10,197
+"Hard work or hardly working","SingularByte","04 Sep  2022 02:41:00","Enacted","SingularByte","06 Sep 2022  04:31:19",49,4,197
+"Individual migrant tracking","Bucky","04 Sep  2022 21:47:00","Enacted","?","07 Sep 2022  02:48:29",53,8,197
+"Lazy Barons","Habanero","05 Sep  2022 02:04:00","Failed","?","07 Sep 2022  02:52:45",48,6,197
+"That’s Not a Plank You Idiot, That’s a Log","Habanero","05 Sep  2022 03:35:00","Enacted","SingularByte","07 Sep 2022  06:04:42",50,3,197
+"Quadruplication","Bucky","06 Sep  2022 19:16:00","Enacted","Bucky","08 Sep 2022  22:05:51",50,7,197
+"[Special Case] Fixing Bounties","SingularByte","07 Sep  2022 06:26:00","Enacted","Bucky","09 Sep 2022  03:15:56",44,9,197
+"Short attention span","SingularByte","07 Sep  2022 15:07:00","Enacted","SingularByte","09 Sep 2022  16:16:10",49,7,197
+"Draw from the Discard","Bucky","08 Sep  2022 02:15:00","Enacted","SingularByte","10 Sep 2022  07:50:13",53,7,197
+"War Or Peace","SingularByte","09 Sep  2022 05:25:00","Enacted","SingularByte","11 Sep 2022  04:20:01",46,8,197
+"Designated Invaders","Bucky","10 Sep  2022 20:58:00","Enacted","SingularByte","13 Sep 2022  06:30:50",57,4,197
+"Barons of Nothing","thundershrike","11 Sep  2022 01:41:00","Failed","SingularByte","13 Sep 2022  06:39:43",52,9,197
+"Our Foes","SingularByte","11 Sep  2022 04:47:00","Enacted","SingularByte","13 Sep 2022  06:40:57",49,7,197
+"[Special Case] Split the Bounty","Bucky","12 Sep  2022 20:48:00","Enacted","Bucky","15 Sep 2022  18:50:28",70,8,197
+"Migrant Mobility","Bucky","13 Sep  2022 20:10:00","Enacted","SingularByte","16 Sep 2022  10:38:51",62,7,197
+"Loyalty Earned","Bucky","16 Sep  2022 20:51:00","Enacted","SingularByte","18 Sep 2022  07:42:27",34,4,197
+"The Feeling’s Mutual","Habanero","17 Sep  2022 03:05:00","Enacted","SingularByte","19 Sep 2022  06:29:29",51,4,197
+"Check the Signet","Bucky","18 Sep  2022 18:50:00","Enacted","?","20 Sep 2022  20:47:56",49,5,197
+"Siege ya later, alligator!","Trapdoorspyder","21 Sep  2022 02:23:00","Failed","?","21 Sep 2022  13:49:18",11,5,197
+"Siege the day!","Trapdoorspyder","21 Sep  2022 13:25:00","Enacted","SingularByte","24 Sep 2022  05:00:08",63,4,197
+"Custom Door Knockers","Bucky","21 Sep  2022 22:31:00","Enacted","SingularByte","24 Sep 2022  05:04:18",54,7,197
+"A Metropolis Crumbles to Dust","SingularByte","26 Sep  2022 06:02:00","Failed","Bucky","28 Sep 2022  06:19:25",48,3,197
+"Pipelined Labouring","Bucky","26 Sep  2022 16:59:00","Enacted","Bucky","29 Sep 2022  22:20:43",77,3,197
+"Quickstart kit","Bucky","26 Sep  2022 17:15:00","Enacted","?","29 Sep 2022  23:46:54",78,3,197
+"Valuable Bounties [Special Case]","Trapdoorspyder","27 Sep  2022 00:04:00","Failed","?","01 Oct 2022  13:48:45",109,9,197
+"Hovels","Bucky","30 Sep  2022 04:46:00","Enacted","Bucky","04 Oct 2022  00:37:36",91,4,197
+"Jail and Jailbreak","Bucky","30 Sep  2022 21:14:00","Failed","Bucky","05 Oct 2022  19:12:01",117,2,197
+"There is no hope left","Trapdoorspyder","04 Oct  2022 20:15:00","Failed","Bucky","06 Oct 2022  20:41:47",48,8,197
+"A Grim Victory","Trapdoorspyder","04 Oct  2022 20:24:00","Failed","Bucky","06 Oct 2022  21:38:17",49,4,197
+"The End is Nigh","Habanero","05 Oct  2022 03:27:00","Failed","Bucky","07 Oct 2022  05:29:26",50,5,197
+"Very Simple Siegecraft","Bucky","05 Oct  2022 19:13:00","Failed","Bucky","08 Oct 2022  21:03:38",73,3,197
+"Simpler Siege Weaponry","Bucky","07 Oct  2022 16:09:00","Enacted","Bucky","10 Oct 2022  16:08:33",71,3,197
+"Claiming Allegiance","Bucky","09 Oct  2022 05:30:00","Enacted","Bucky","11 Oct 2022  05:59:53",48,2,197
+"Crust","Josh","10 Oct  2022 07:49:00","Enacted","Bucky","11 Oct 2022  06:01:32",22,12,197
+"A Lovely Pizza-Pie","Josh","10 Oct  2022 07:57:00","Enacted","Bucky","11 Oct 2022  06:05:31",22,6,197
+"[Special Case] Cases Too Rare","Bucky","10 Oct  2022 17:24:00","Failed","Josh","12 Oct 2022  12:03:52",42,13,197
+"Da Rubber Ducky","Trapdoorspyder","11 Oct  2022 23:51:00","Enacted","?","12 Oct 2022  18:58:23",19,14,197
+"The Life of the Parties","Trapdoorspyder","11 Oct  2022 23:53:00","Enacted","?","12 Oct 2022  19:08:01",19,13,197
+"Assault with a Foam Weapon","Snisbo","12 Oct  2022 00:02:00","Failed","TyGuy6","13 Oct 2022  20:49:12",44,18,197
+"Party-nym","Snisbo","12 Oct  2022 00:10:00","Enacted","TyGuy6","13 Oct 2022  20:54:31",44,8,197
+"A","Jumble","12 Oct  2022 02:49:00","Failed","TyGuy6","13 Oct 2022  21:15:59",42,18,197
+"Hands Full","Bucky","12 Oct  2022 02:56:00","Enacted","?","13 Oct 2022  21:21:12",42,11,197
+"Name change","Madrid","12 Oct  2022 07:00:00","Enacted","TyGuy6","13 Oct 2022  21:26:25",38,11,197
+"Location-Based Menace","Josh","12 Oct  2022 07:37:00","Enacted","TyGuy6","13 Oct 2022  21:41:26",38,10,197
+"Dismantle","Josh","12 Oct  2022 08:25:00","Failed","Josh","14 Oct 2022  09:09:37",48,21,197
+"Namespace [Appendix]","Bucky","12 Oct  2022 16:26:00","Failed","Bucky","14 Oct 2022  17:06:30",48,13,197
+"What Happens at the Party…","Habanero","12 Oct  2022 16:28:00","Enacted","Bucky","15 Oct 2022  05:14:08",60,8,197
+"Don’t Tire Yourself","lendunistus","13 Oct  2022 17:48:00","Enacted","?","15 Oct 2022  07:53:21",38,9,197
+"Completion","Bucky","13 Oct  2022 21:55:00","Enacted","?","15 Oct 2022  13:10:31",39,10,197
+"Flipping Awesome","Madrid","14 Oct  2022 08:31:47","Failed","?","15 Oct 2022  13:11:19",28,10,197
+"Being a Ninja is a real party foul","Josh","14 Oct  2022 09:17:00","Enacted","?","15 Oct 2022  13:13:06",27,7,197
+"A Throne of Pyrite","Madrid","14 Oct  2022 09:17:44","Failed","?","15 Oct 2022  13:14:04",27,8,197
+"Anti-Aliasing Aggregate Actions [Appendix]","Bucky","14 Oct  2022 17:06:00","Failed","Bucky","16 Oct 2022  21:30:27",52,16,197
+"Ruleset reorder","Josh","15 Oct  2022 13:55:00","Enacted","Josh","17 Oct 2022  15:43:38",49,10,197
+"No Endgame Slogs","Madrid","15 Oct  2022 14:12:00","Failed","Josh","17 Oct 2022  15:45:55",49,11,197
+"Captain Overboard","Bucky","15 Oct  2022 19:07:00","Enacted","Josh","17 Oct 2022  15:46:40",44,16,197
+"Gambling is Fun","lendunistus","16 Oct  2022 09:54:00","Enacted","Josh","18 Oct 2022  10:51:14",48,15,197
+"Bullseye!!!!","Snisbo","16 Oct  2022 21:19:00","Enacted","Josh","18 Oct 2022  10:53:18",37,10,197
+"Readability woo","Snisbo","16 Oct  2022 21:23:00","Enacted","Josh","19 Oct 2022  15:41:03",66,9,197
+"The Host Should Have Fun, Too","Bucky","16 Oct  2022 21:31:00","Enacted","Josh","19 Oct 2022  15:41:36",66,11,197
+"Energy Dump","Madrid","17 Oct  2022 13:02:00","Failed","Josh","19 Oct 2022  15:43:22",50,5,197
+"Party Pooling","Bucky","17 Oct  2022 17:51:00","Enacted","?","20 Oct 2022  04:03:14",58,6,197
+"Let the People Have their Music","Axemabaro","17 Oct  2022 20:00:00","Enacted","?","20 Oct 2022  04:05:35",56,10,197
+"Point Score Confusion","Bucky","19 Oct  2022 16:06:00","Enacted","Bucky","21 Oct 2022  05:09:36",37,7,197
+"The loudest party on the block","Trapdoorspyder","20 Oct  2022 14:31:00","Enacted","?","22 Oct 2022  17:54:01",51,9,197
+"Game Balancing Guideline","Bucky","20 Oct  2022 17:11:00","Enacted","?","22 Oct 2022  17:56:43",48,8,197
+"One Party Limit","Bucky","21 Oct  2022 05:11:00","Enacted","?","23 Oct 2022  15:39:59",58,3,197
+"Duck Transfer Protocols","Bucky","22 Oct  2022 17:59:00","Enacted","Bucky","24 Oct 2022  22:53:15",52,5,197
+"No non-party tricks allowed.","Trapdoorspyder","22 Oct  2022 18:41:00","Enacted","Bucky","25 Oct 2022  18:42:11",72,8,197
+"Extra Spicy Proposals","Bucky","23 Oct  2022 20:47:00","Enacted","?","26 Oct 2022  05:18:27",56,7,197
+"Energized","snail","24 Oct  2022 00:20:00","Failed","?","26 Oct 2022  05:19:56",52,8,197
+"Jams Jam","Bucky","25 Oct  2022 05:38:00","Enacted","Bucky","27 Oct 2022  15:25:26",57,4,197
+"Limited Energizing","snail","25 Oct  2022 23:08:00","Enacted","Bucky","28 Oct 2022  02:15:40",51,4,197
+"Definitely not bribing people to be more active.","Trapdoorspyder","26 Oct  2022 21:07:00","Enacted","Bucky","28 Oct 2022  23:29:37",50,9,197
+"Throw Another Shrimp","Josh","26 Oct  2022 21:10:00","Enacted","?","29 Oct 2022  15:48:05",66,3,197
+"Filching","Bucky","26 Oct  2022 22:09:00","Enacted","?","29 Oct 2022  15:53:41",65,3,197
+"Don’t Snatch My Prize","Bucky","27 Oct  2022 16:19:00","Enacted","Bucky","30 Oct 2022  04:46:22",60,1,197
+"The party shall go on (longer)","Trapdoorspyder","29 Oct  2022 00:39:00","Enacted","Bucky","01 Nov 2022  01:39:20",73,3,197
+"Systemic Party Tricks","Bucky","29 Oct  2022 23:58:00","Enacted","Bucky","01 Nov 2022  17:51:21",65,4,197
+"Beginning the End","Bucky","01 Nov  2022 01:33:00","Enacted","Bucky","03 Nov 2022  00:00:26",46,5,197
+"Your Kitchen is not My Kitchen","Bucky","02 Nov  2022 20:36:00","Failed","Bucky","05 Nov 2022  04:13:12",55,4,197
+"Lining Up","Bucky","05 Nov  2022 04:07:00","Enacted","Kevan","06 Nov 2022  09:27:59",29,8,197
+"Stamping your Tickets","Bucky","05 Nov  2022 05:17:00","Enacted","Kevan","06 Nov 2022  09:29:02",28,7,197
+"Fun For All The Family [Core] [Special Case] [Appendix]","Kevan","05 Nov  2022 10:13:00","Enacted","Kevan","06 Nov 2022  09:31:19",23,10,197
+"Hait And See","Josh","05 Nov  2022 10:14:00","Failed","Kevan","06 Nov 2022  09:31:58",23,12,197
+"New Hires for Guiding New Guests and Retirement.","Benbot","05 Nov  2022 17:37:00","Failed","Bucky","07 Nov 2022  17:44:17",48,12,197
+"Clarify when Visitors are allowed to walk to an attraction","JonathanDark","05 Nov  2022 18:12:00","Failed","Bucky","07 Nov 2022  18:25:14",48,5,197
+"Add rules about other Visitors actions during Atomic Action","JonathanDark","05 Nov  2022 20:00:00","Failed","Bucky","07 Nov 2022  19:54:21",47,11,197
+"The Fun of the Fair","Kevan","06 Nov  2022 10:02:00","Failed","Kevan","08 Nov 2022  10:06:24",48,12,197
+"Too Excited To Sleep [Special Case]","Kevan","06 Nov  2022 12:35:00","Enacted","Kevan","08 Nov 2022  16:39:46",52,14,197
+"Red Light Green Light","Bucky","06 Nov  2022 21:01:00","Enacted","Bucky","08 Nov 2022  22:33:12",49,6,197
+"Win By Stamp Collecting","Bucky","06 Nov  2022 21:25:00","Failed","Bucky","08 Nov 2022  22:36:51",49,9,197
+"Stamping It Up","Habanero","07 Nov  2022 02:22:00","Illegal","?","07 Nov 2022  09:48:52",7,8,197
+"Stamping It Up, Again","Habanero","07 Nov  2022 03:44:00","Enacted","Kevan","09 Nov 2022  08:20:32",52,6,197
+"Fuel for the Fight","Josh","07 Nov  2022 12:12:00","Failed","Kevan","09 Nov 2022  12:31:36",48,10,197
+"Bathroom Break","JonathanDark","07 Nov  2022 23:33:00","Enacted","TyGuy6","10 Nov 2022  05:11:09",53,7,197
+"No Relation","Kevan","08 Nov  2022 10:35:00","Failed","TyGuy6","10 Nov 2022  05:13:22",42,11,197
+"There’s Always Money in the Brisket Stand","Kevan","08 Nov  2022 18:14:00","Enacted","?","11 Nov 2022  17:34:31",71,8,197
+"Dunker’s Dilemma","Bucky","09 Nov  2022 17:47:00","Vetoed","Bucky","11 Nov 2022  18:24:21",48,5,197
+"Hot Restart [Appendix] [Special Case]","Bucky","09 Nov  2022 21:09:00","Failed","Kevan","11 Nov 2022  22:44:02",49,4,197
+"Hold My Beer","Kevan","10 Nov  2022 09:52:00","Enacted","Kevan","12 Nov 2022  10:12:06",48,3,197
+"Itemization","JonathanDark","11 Nov  2022 18:05:00","Vetoed","Kevan","12 Nov 2022  10:13:05",16,6,197
+"Roaming Robot","Bucky","12 Nov  2022 02:03:00","Enacted","Kevan","14 Nov 2022  10:11:49",56,5,197
+"Re-Itemization","JonathanDark","12 Nov  2022 08:16:00","Enacted","Kevan","14 Nov 2022  10:30:56",50,3,197
+"Zzz","Kevan","12 Nov  2022 10:49:00","Failed","Kevan","14 Nov 2022  10:51:14",48,9,197
+"Activity Flag Zed","Bucky","12 Nov  2022 18:43:00","Enacted","Bucky","14 Nov 2022  19:25:35",48,4,197
+"Roll Up, Roll Up","Kevan","13 Nov  2022 11:26:00","Enacted","Kevan","15 Nov 2022  11:35:51",48,6,197
+"Reverse Fortune Telling","Benbot","13 Nov  2022 20:54:00","Failed","Kevan","15 Nov 2022  11:36:52",38,4,197
+"Plaza Puppet Performance","JonathanDark","14 Nov  2022 15:27:00","Failed","Kevan","15 Nov 2022  11:37:32",20,11,197
+"Some Competition","Bucky","14 Nov  2022 19:10:00","Enacted","Bucky","16 Nov 2022  22:39:58",51,4,197
+"Idle Visitor Quick Fix","Bucky","14 Nov  2022 22:53:00","Enacted","Kevan","17 Nov 2022  08:50:17",57,3,197
+"Elbow Room","Kevan","15 Nov  2022 12:10:00","Enacted","Kevan","17 Nov 2022  12:57:14",48,2,197
+"Forearmed","Kevan","15 Nov  2022 18:26:00","Enacted","Kevan","17 Nov 2022  18:34:12",48,9,197
+"Cracking the Whip","Bucky","16 Nov  2022 22:50:00","Failed","Kevan","17 Nov 2022  18:34:45",19,5,197
+"The Mento Has Become The Manatee","Josh","17 Nov  2022 11:12:00","Failed","Kevan","19 Nov 2022  11:20:12",48,11,197
+"Dormantle [Special Case]","Kevan","17 Nov  2022 13:19:00","Failed","Kevan","19 Nov 2022  14:44:23",49,9,197
+"It’s a Small World","Kevan","17 Nov  2022 18:43:00","Failed","Kevan","19 Nov 2022  14:53:57",44,9,197
+"Not All Stamps are Equal","Bucky","18 Nov  2022 16:54:00","Enacted","Bucky","20 Nov 2022  19:39:06",50,2,197
+"The Sound of the Crowd [Special Case]","Kevan","19 Nov  2022 14:51:00","Enacted","Bucky","21 Nov 2022  01:25:20",34,4,197
+"Robot Friendship","Bucky","19 Nov  2022 19:50:00","Enacted","Bucky","21 Nov 2022  20:02:52",48,9,197
+"I’m Hungry!","JonathanDark","19 Nov  2022 22:32:00","Enacted","Kevan","22 Nov 2022  09:16:02",58,7,197
+"Ill-Timed Bad Times","Kevan","21 Nov  2022 14:17:00","Failed","Kevan","22 Nov 2022  09:16:35",18,15,197
+"Good Times Apart","Bucky","21 Nov  2022 17:55:00","Enacted","Kevan","23 Nov 2022  16:48:51",46,8,197
+"It’s No Picnic","Kevan","22 Nov  2022 16:55:00","Open","-","",-1,12,197
+"Bounties of Fun!","Benbot","22 Nov  2022 18:18:18","Open","-","",-1,9,197
+"Rebooting the Bot","Kevan","23 Nov  2022 13:39:00","Open","-","",-1,6,197
+"Ninety Pine Chests","Josh","23 Nov  2022 14:41:00","Open","-","",-1,13,197
+"Popularity Contest","Bucky","24 Nov  2022 00:40:00","Open","-","",-1,4,197
