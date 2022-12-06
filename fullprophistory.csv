@@ -13908,8 +13908,23 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "I’m Hungry!","JonathanDark","19 Nov  2022 22:32:00","Enacted","Kevan","22 Nov 2022  09:16:02",58,7,208
 "Ill-Timed Bad Times","Kevan","21 Nov  2022 14:17:00","Failed","Kevan","22 Nov 2022  09:16:35",18,15,208
 "Good Times Apart","Bucky","21 Nov  2022 17:55:00","Enacted","Kevan","23 Nov 2022  16:48:51",46,8,208
-"It’s No Picnic","Kevan","22 Nov  2022 16:55:00","Open","-","",-1,12,208
-"Bounties of Fun!","Benbot","22 Nov  2022 18:18:18","Open","-","",-1,9,208
-"Rebooting the Bot","Kevan","23 Nov  2022 13:39:00","Open","-","",-1,6,208
-"Ninety Pine Chests","Josh","23 Nov  2022 14:41:00","Open","-","",-1,13,208
-"Popularity Contest","Bucky","24 Nov  2022 00:40:00","Open","-","",-1,6,208
+"It’s No Picnic","Kevan","22 Nov  2022 16:55:00","Failed","Bucky","24 Nov 2022  18:14:07",49,12,208
+"Bounties of Fun!","Benbot","22 Nov  2022 18:18:00","Failed","Bucky","24 Nov 2022  18:31:57",48,10,208
+"Rebooting the Bot","Kevan","23 Nov  2022 13:39:00","Failed","Kevan","25 Nov 2022  14:30:11",48,8,208
+"Ninety Pine Chests","Josh","23 Nov  2022 14:41:00","Failed","Kevan","25 Nov 2022  14:47:32",48,13,208
+"Popularity Contest","Bucky","24 Nov  2022 00:40:00","Failed","Kevan","25 Nov 2022  14:48:30",38,11,208
+"QA Timing Refinements","Bucky","24 Nov  2022 18:14:00","Enacted","Bucky","25 Nov 2022  19:36:43",25,4,208
+"Uneasy Lies the Head [Special Case]","Kevan","25 Nov  2022 10:03:00","Enacted","Kevan","26 Nov 2022  15:48:03",29,4,208
+"Solving the Bot Trap","Bucky","25 Nov  2022 17:35:00","Enacted","Bucky","27 Nov 2022  22:12:43",52,8,208
+"Shiny Follower","Bucky","25 Nov  2022 19:49:00","Enacted","Bucky","27 Nov 2022  22:17:19",50,6,208
+"You Humans Do This For Fun?","Kevan","26 Nov  2022 16:05:00","Enacted","Kevan","28 Nov 2022  16:06:43",48,8,208
+"Dinner is served","JonathanDark","26 Nov  2022 23:24:00","Enacted","Kevan","28 Nov 2022  16:09:28",40,5,208
+"Geodesic Showdown","Bucky","28 Nov  2022 02:47:00","Enacted","Kevan","30 Nov 2022  09:23:49",54,2,208
+"The Wrong Side of Midnight","Bucky","28 Nov  2022 18:40:00","Enacted","Kevan","30 Nov 2022  09:33:04",38,4,208
+"Thank You For Your Visit","Kevan","29 Nov  2022 11:12:00","Enacted","Kevan","01 Dec 2022  11:38:58",48,13,208
+"Waterproof Mantle [Core] [Special Case]","Kevan","29 Nov  2022 11:28:00","Failed","Kevan","01 Dec 2022  11:39:27",48,11,208
+"[Core] Minimal Quorum Quandry fix","Bucky","30 Nov  2022 23:51:00","Enacted","Bucky","01 Dec 2022  18:07:09",18,5,208
+"Explicit Fence Post","Bucky","01 Dec  2022 18:08:00","Enacted","Bucky","02 Dec 2022  22:00:36",27,4,208
+"[Appendix] Tagging Isn’t Subjective","Bucky","04 Dec  2022 00:01:00","Failed","Kevan","04 Dec 2022  19:39:48",19,5,208
+"Silent Night","Josh","04 Dec  2022 12:00:00","Open","-","",-1,14,208
+"[Appendix] Nothing is Subjective","Bucky","04 Dec  2022 19:08:00","Open","-","",-1,8,208
