@@ -14202,8 +14202,8 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "This Electric Stream","Kevan","04 Mar  2023 15:10:00","Enacted","?","06 Mar 2023  02:21:20",35,7,212
 "Press R to Restart [Special Case]","Kevan","04 Mar  2023 19:27:00","Enacted","?","06 Mar 2023  02:24:07",30,6,212
 "Power Meter","JonathanDark","04 Mar  2023 19:50:00","Enacted","?","06 Mar 2023  02:26:21",30,6,212
-"Showboating?","Misty","05 Mar  2023 02:30:00","Failed","?","06 Mar 2023  19:54:48",41,19,212
-"Memory Corruption","Misty","05 Mar  2023 02:59:00","Enacted","SingularByte","07 Mar 2023  08:20:40",53,9,212
+"Showboating?","Lulu","05 Mar  2023 02:30:00","Failed","?","06 Mar 2023  19:54:48",41,19,212
+"Memory Corruption","Lulu","05 Mar  2023 02:59:00","Enacted","SingularByte","07 Mar 2023  08:20:40",53,9,212
 "Powering Up the Grue","JonathanDark","05 Mar  2023 14:12:00","Enacted","Kevan","07 Mar 2023  14:55:04",48,7,212
 "Brown Paper Package Manager [Appendix]","Brendan","05 Mar  2023 15:13:00","Failed","Kevan","07 Mar 2023  15:15:31",48,15,212
 "Don’t look down","Josh","06 Mar  2023 01:05:00","Failed","Kevan","07 Mar 2023  15:16:09",38,7,212
@@ -14219,11 +14219,11 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "Computational Watches","Habanero","09 Mar  2023 03:47:00","Failed","SingularByte","11 Mar 2023  06:52:11",51,10,212
 "Variety is the spice of life","SingularByte","09 Mar  2023 06:25:00","Enacted","SingularByte","11 Mar 2023  06:53:02",48,7,212
 "CPU Temperature","Kevan","09 Mar  2023 10:15:00","Enacted","SingularByte","11 Mar 2023  06:56:38",44,6,212
-"Write To Disk","Misty","09 Mar  2023 13:42:00","Enacted","SingularByte","11 Mar 2023  07:02:18",41,10,212
+"Write To Disk","Lulu","09 Mar  2023 13:42:00","Enacted","SingularByte","11 Mar 2023  07:02:18",41,10,212
 "Situational Awareness","JonathanDark","10 Mar  2023 14:22:00","Enacted","SingularByte","11 Mar 2023  16:44:43",26,6,212
 "They fell off the back of a virtual truck","SingularByte","11 Mar  2023 07:22:00","Enacted","SingularByte","12 Mar 2023  12:12:32",28,5,212
-"It’s a game of Tag, after all","Misty","11 Mar  2023 14:17:00","Failed","SingularByte","12 Mar 2023  17:35:00",27,18,212
-"Garbage Collection","Misty","11 Mar  2023 15:39:00","Failed","SingularByte","12 Mar 2023  17:36:04",25,8,212
+"It’s a game of Tag, after all","Lulu","11 Mar  2023 14:17:00","Failed","SingularByte","12 Mar 2023  17:35:00",27,18,212
+"Garbage Collection","Lulu","11 Mar  2023 15:39:00","Failed","SingularByte","12 Mar 2023  17:36:04",25,8,212
 "Narcissism","SingularByte","12 Mar  2023 11:38:00","Failed","Kevan","14 Mar 2023  11:47:34",48,8,212
 "Hotfix","SingularByte","12 Mar  2023 17:20:00","Enacted","Kevan","14 Mar 2023  11:48:38",42,4,212
 "Underclocking","Habanero","12 Mar  2023 17:34:00","Enacted","Kevan","14 Mar 2023  11:49:59",42,4,212
@@ -14246,13 +14246,500 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "Whodunnit","lendunistus","24 Mar  2023 05:46:00","Enacted","SingularByte","25 Mar 2023  05:46:16",24,3,212
 "Grue Houdini and assorted fixes","SingularByte","24 Mar  2023 08:40:00","Enacted","SingularByte","26 Mar 2023  12:40:47",52,3,212
 "Overclocking","JonathanDark","24 Mar  2023 12:46:00","Enacted","SingularByte","26 Mar 2023  12:46:55",48,4,212
-"Digital Shame (Ghost)","Misty","26 Mar  2023 12:56:00","Enacted","SingularByte","27 Mar 2023  14:26:17",25,6,212
+"Digital Shame (Ghost)","Lulu","26 Mar  2023 12:56:00","Enacted","SingularByte","27 Mar 2023  14:26:17",25,6,212
 "Going out with a bang","SingularByte","27 Mar  2023 08:21:00","Vetoed","?","29 Mar 2023  00:55:32",40,4,212
-"Anti-Anti-Climax","Misty","28 Mar  2023 00:49:00","Enacted","?","29 Mar 2023  00:57:03",24,6,212
+"Anti-Anti-Climax","Lulu","28 Mar  2023 00:49:00","Enacted","?","29 Mar 2023  00:57:03",24,6,212
 "Occupy the Grid","JonathanDark","28 Mar  2023 16:08:00","Enacted","SingularByte","29 Mar 2023  16:23:34",24,6,212
-"Building a Building","Misty","30 Mar  2023 12:08:00","Enacted","?","31 Mar 2023  00:28:06",12,9,213
+"Building a Building","Lulu","30 Mar  2023 12:08:00","Enacted","?","31 Mar 2023  00:28:06",12,9,213
 "Your child has fallen into a quarry","Josh","30 Mar  2023 13:10:00","Enacted","SingularByte","31 Mar 2023  06:43:34",17,12,213
-"Nobody Breathe","Kevan","30 Mar  2023 17:48:00","Open","-","",-1,8,213
-"Renovation","JonathanDark","30 Mar  2023 18:59:00","Open","-","",-1,5,213
-"Hanoi Halting Problem","Brendan","30 Mar  2023 19:16:00","Open","-","",-1,12,213
-"Consolidated Paperwork","SingularByte","31 Mar  2023 07:23:00","Open","-","",-1,2,213
+"Nobody Breathe","Kevan","30 Mar  2023 17:48:00","Enacted","Kevan","31 Mar 2023  16:56:14",23,10,213
+"Renovation","JonathanDark","30 Mar  2023 18:59:00","Enacted","Brendan","31 Mar 2023  18:39:03",23,10,213
+"Hanoi Halting Problem","Brendan","30 Mar  2023 19:16:00","Enacted","Brendan","31 Mar 2023  18:39:58",23,13,213
+"Consolidated Paperwork","SingularByte","31 Mar  2023 07:23:00","Enacted","Kevan","01 Apr 2023  07:03:09",23,13,213
+"Workplace Safety","JonathanDark","31 Mar  2023 15:52:00","Enacted","Kevan","02 Apr 2023  10:39:24",42,9,213
+"This Way Up","Kevan","31 Mar  2023 16:16:00","Enacted","Kevan","02 Apr 2023  10:42:49",42,9,213
+"Hands Off!","Lulu","31 Mar  2023 17:11:00","Failed","Kevan","02 Apr 2023  11:11:57",42,8,213
+"Tea Break","Kevan","31 Mar  2023 17:33:00","Enacted","Kevan","02 Apr 2023  11:12:28",41,8,213
+"Local 213","Brendan","31 Mar  2023 18:09:00","Failed","Kevan","02 Apr 2023  11:13:16",41,12,213
+"Accidents Can Happen","jjm3x3","31 Mar  2023 20:23:00","Failed","Kevan","02 Apr 2023  11:13:51",38,8,213
+"Putting Time In Blocks","Lulu","31 Mar  2023 23:06:00","Enacted","Kevan","02 Apr 2023  11:15:46",36,13,213
+"Underlay, Underlay, A Rebar, A Rebar","Josh","01 Apr  2023 11:08:00","Enacted","?","03 Apr 2023  13:27:57",50,9,213
+"That Guy Who Topples Your Tower For No Reason","lendunistus","01 Apr  2023 13:18:00","Enacted","?","03 Apr 2023  13:31:48",48,11,213
+"Block Grant","Brendan","01 Apr  2023 14:23:00","Enacted","?","03 Apr 2023  13:35:28",47,9,213
+"The Safety Dance","JonathanDark","01 Apr  2023 15:06:00","Enacted","?","03 Apr 2023  13:37:22",46,7,213
+"Proposal: Just a Warning","jjm3x3","02 Apr  2023 03:13:00","Failed","?","03 Apr 2023  13:40:34",34,10,213
+"The Stonecrusher 5000","Kevan","02 Apr  2023 10:50:00","Enacted","Kevan","04 Apr 2023  11:09:55",48,12,213
+"Trigger Fingers","lendunistus","02 Apr  2023 11:54:00","Enacted","?","04 Apr 2023  11:16:00",47,6,213
+"Block Chains","Lulu","02 Apr  2023 12:34:00","Enacted","Kevan","04 Apr 2023  12:39:04",48,10,213
+"If you hand them nothing they’ll definitely notice","Lulu","02 Apr  2023 12:54:00","Enacted","Kevan","04 Apr 2023  12:40:06",47,8,213
+"Epoch Time","JonathanDark","02 Apr  2023 16:21:00","Enacted","Kevan","04 Apr 2023  12:41:09",44,9,213
+"Stacks on Stacks","Josh","03 Apr  2023 09:04:00","Enacted","Kevan","05 Apr 2023  07:57:49",46,9,213
+"Building Goes Up","Kevan","03 Apr  2023 09:12:00","Enacted","Kevan","05 Apr 2023  09:13:53",48,9,213
+"We Only Hire Licensed Professionals","JonathanDark","03 Apr  2023 15:42:00","Enacted","Kevan","05 Apr 2023  16:10:38",48,7,213
+"Balancing Act","JonathanDark","04 Apr  2023 12:45:00","Enacted","Kevan","06 Apr 2023  14:04:35",49,13,213
+"Buttressing","Kevan","04 Apr  2023 14:08:00","Enacted","Kevan","06 Apr 2023  14:22:23",48,11,213
+"Mind the Gap","Kevan","05 Apr  2023 09:15:00","Enacted","Brendan","07 Apr 2023  14:25:05",53,6,213
+"Stability Now Half Off!","JonathanDark","06 Apr  2023 12:49:00","Enacted","Brendan","07 Apr 2023  14:30:42",25,7,213
+"Unstable Elements","JonathanDark","07 Apr  2023 06:43:00","Failed","Brendan","09 Apr 2023  04:41:50",45,10,213
+"Tense and Tensibility","Brendan","07 Apr  2023 21:30:00","Enacted","Brendan","10 Apr 2023  04:40:24",55,6,213
+"Upskilling","jjm3x3","07 Apr  2023 22:40:00","Enacted","Brendan","10 Apr 2023  04:41:31",54,6,213
+"Shift Bell","Kevan","08 Apr  2023 12:06:00","Enacted","Kevan","10 Apr 2023  13:44:42",49,10,213
+"Slightly Unstable Elements","JonathanDark","08 Apr  2023 22:48:00","Enacted","Kevan","10 Apr 2023  11:09:05",36,5,213
+"Mojanga","Brendan","09 Apr  2023 04:43:00","Enacted","Kevan","10 Apr 2023  11:10:25",30,5,213
+"Reinforcements","JonathanDark","10 Apr  2023 13:12:00","Enacted","Kevan","11 Apr 2023  11:24:19",22,5,213
+"The Weakest Link","JonathanDark","10 Apr  2023 15:24:00","Enacted","Kevan","11 Apr 2023  16:38:42",25,6,213
+"High Risk High Reward","jjm3x3","10 Apr  2023 16:34:00","Failed","Kevan","12 Apr 2023  13:52:52",45,10,213
+"Wibble Quibble","Brendan","10 Apr  2023 22:26:00","Enacted","Kevan","12 Apr 2023  13:56:33",39,10,213
+"Nudge Unit","Kevan","11 Apr  2023 11:41:00","Enacted","Kevan","12 Apr 2023  14:39:59",26,5,213
+"Top Performer","JonathanDark","11 Apr  2023 15:12:00","Failed","Kevan","12 Apr 2023  14:42:08",23,7,213
+"No Hat, No Boots, No Job","Kevan","11 Apr  2023 16:54:00","Enacted","Kevan","13 Apr 2023  16:59:23",48,5,213
+"Experts in their field","JonathanDark","12 Apr  2023 12:41:00","Failed","Brendan","13 Apr 2023  23:12:20",34,15,213
+"Quality Assurance Assurance","Lulu","12 Apr  2023 14:30:00","Enacted","Brendan","13 Apr 2023  23:24:55",32,8,213
+"Raise the Roof","Lulu","12 Apr  2023 14:48:00","Enacted","Brendan","13 Apr 2023  23:27:29",32,5,213
+"He who is without jin","Brendan","12 Apr  2023 15:14:00","Failed","Kevan","14 Apr 2023  15:41:48",48,9,213
+"Disaster Roulette","Taiga","12 Apr  2023 15:53:00","Enacted","Kevan","14 Apr 2023  15:44:13",47,10,213
+"Board of Review Board Reviewers","Kevan","13 Apr  2023 18:42:00","Enacted","Brendan","16 Apr 2023  16:03:39",69,8,213
+"School of Hard Blocks","Brendan","13 Apr  2023 23:29:00","Enacted","Brendan","16 Apr 2023  16:05:42",64,7,213
+"Risk Management","JonathanDark","14 Apr  2023 13:06:00","Failed","Brendan","16 Apr 2023  16:06:33",51,7,213
+"No Active Engineer Left Behind","JonathanDark","14 Apr  2023 19:44:00","Enacted","Kevan","17 Apr 2023  08:26:59",60,7,213
+"Safety Dance","Brendan","15 Apr  2023 16:27:00","Enacted","Brendan","17 Apr 2023  20:30:47",52,7,213
+"New Frameworks","Lulu","15 Apr  2023 16:33:00","Failed","Brendan","17 Apr 2023  20:33:32",52,5,213
+"Are You Shakesperienced?","Brendan","16 Apr  2023 16:08:00","Enacted","Brendan","18 Apr 2023  19:03:01",50,8,213
+"Accidents Will Happen","Kevan","16 Apr  2023 18:32:00","Enacted","Brendan","18 Apr 2023  19:05:31",48,6,213
+"Critical Condition Chaos","Taiga","16 Apr  2023 18:48:00","Enacted","Brendan","18 Apr 2023  19:06:33",48,6,213
+"Job Done","Kevan","17 Apr  2023 11:21:00","Enacted","Brendan","18 Apr 2023  19:08:57",31,9,213
+"Explosive Devices","JonathanDark","17 Apr  2023 12:49:00","Enacted","Brendan","19 Apr 2023  22:30:35",57,7,213
+"Schmearthquake","Brendan","17 Apr  2023 21:41:00","Enacted","Brendan","19 Apr 2023  22:33:51",48,9,213
+"Safe as Houses","Josh","18 Apr  2023 09:41:00","Failed","Kevan","20 Apr 2023  10:41:20",49,9,213
+"The Weaknd","Josh","18 Apr  2023 09:45:00","Failed","Kevan","20 Apr 2023  10:42:07",48,7,213
+"A Job Well Done","JonathanDark","18 Apr  2023 12:43:00","Enacted","Kevan","20 Apr 2023  10:43:23",46,7,213
+"Safe as Modern Houses","Taiga","19 Apr  2023 03:22:00","Failed","Kevan","20 Apr 2023  10:44:52",31,3,213
+"Building Blocks of Safety","Taiga","20 Apr  2023 13:43:00","Failed","Kevan","21 Apr 2023  08:04:45",18,6,213
+"Premature Inspection","Taiga","20 Apr  2023 14:46:00","Enacted","Kevan","21 Apr 2023  08:06:24",17,4,213
+"We already had a pretty good win condition actually","Brendan","20 Apr  2023 16:46:00","Enacted","Kevan","21 Apr 2023  08:09:26",15,8,213
+"Fool’s Gold","Taiga","21 Apr  2023 08:37:00","Enacted","Kevan","23 Apr 2023  10:20:39",49,8,213
+"Yellow Pages","Taiga","21 Apr  2023 08:42:00","Failed","Kevan","23 Apr 2023  10:25:29",49,10,213
+"A1 Loophole Repair [Appendix]","Kevan","21 Apr  2023 10:50:00","Enacted","Kevan","23 Apr 2023  10:26:49",47,10,213
+"Risky Business","JonathanDark","21 Apr  2023 15:49:00","Enacted","Kevan","24 Apr 2023  08:43:57",64,8,213
+"Work Permit","JonathanDark","22 Apr  2023 15:11:00","Enacted","Kevan","24 Apr 2023  08:53:24",41,8,213
+"Zero As A Limit [Appendix]","Kevan","22 Apr  2023 18:53:00","Failed","Kevan","24 Apr 2023  20:46:41",49,24,213
+"Accidents Are Illusions","Taiga","23 Apr  2023 11:53:00","Enacted","Josh","25 Apr 2023  20:50:55",56,10,213
+"Merriam-Webster is not helpful here [Appendix]","Brendan","23 Apr  2023 14:09:00","Failed","Josh","25 Apr 2023  20:52:19",54,8,213
+"Knowing when it’s time to Move On","JonathanDark","24 Apr  2023 12:41:00","Enacted","Josh","25 Apr 2023  20:53:14",32,5,213
+"Across the Board","Kevan","24 Apr  2023 17:35:00","Enacted","Josh","25 Apr 2023  20:54:58",27,6,213
+"Inferior Decorator","Brendan","24 Apr  2023 21:02:00","Enacted","Josh","25 Apr 2023  20:56:08",23,5,213
+"Access All Areas","Kevan","26 Apr  2023 07:43:00","Enacted","Kevan","28 Apr 2023  08:29:33",48,21,213
+"Rubber Stamped","Kevan","26 Apr  2023 15:54:00","Enacted","Kevan","28 Apr 2023  08:30:50",40,8,213
+"[Appendix] Race Condition","JonathanDark","26 Apr  2023 17:36:00","Failed","Kevan","28 Apr 2023  08:47:08",39,9,213
+"Safety Last","Kevan","28 Apr  2023 17:08:00","Failed","Josh","30 Apr 2023  19:39:27",50,17,213
+"The Finish Line","Josh","29 Apr  2023 14:26:00","Failed","Josh","01 May 2023  14:58:02",48,10,213
+"Construction Site Cleanup","Taiga","30 Apr  2023 06:01:00","Failed","Kevan","02 May 2023  08:39:43",50,10,213
+"The definition of insanity","Josh","30 Apr  2023 13:41:00","Failed","Josh","02 May 2023  09:26:21",43,4,213
+"The Manatee Has Become The Mento","Josh","02 May  2023 08:58:00","Failed","Kevan","04 May 2023  18:17:45",57,15,213
+"Opening bid","Josh","02 May  2023 10:22:00","Vetoed","Josh","04 May 2023  09:10:21",46,25,213
+"Closing bid","redtara","02 May  2023 11:10:00","Vetoed","Josh","04 May 2023  09:11:25",46,19,213
+"No Explosives Allowed On Site","JonathanDark","02 May  2023 16:05:00","Enacted","Josh","04 May 2023  12:09:31",44,15,213
+"Third Bid","Kevan","03 May  2023 08:00:00","Vetoed","Josh","04 May 2023  12:10:56",28,17,214
+"The Tr4th Lies in the Biddle","redtara","03 May  2023 11:57:00","Vetoed","Josh","04 May 2023  12:11:28",24,18,214
+"Failed Ultimatum","Lulu","03 May  2023 20:12:00","Enacted","?","04 May 2023  21:45:32",25,24,214
+"Don’t trust anyone over (mumbling noises)","Brendan","03 May  2023 20:23:00","Failed","?","04 May 2023  21:47:45",25,7,214
+"Unflip the Table","Bucky","04 May  2023 00:05:00","Failed","?","04 May 2023  21:48:58",21,12,214
+"Let’s Play Jenga While We Argue","Bucky","04 May  2023 16:01:00","Failed","?","04 May 2023  21:49:52",5,7,214
+"We are all City Architects now","redtara","04 May  2023 21:52:00","Enacted","Brendan","05 May 2023  20:43:09",22,10,214
+"Goodbye","Lulu","04 May  2023 22:04:00","Failed","Brendan","05 May 2023  20:46:12",22,17,214
+"Infernal Desire Machines","Josh","04 May  2023 22:09:00","Enacted","Brendan","05 May 2023  20:56:05",22,10,214
+"Time to Settle Down","JonathanDark","04 May  2023 22:25:00","Enacted","Kevan","06 May 2023  07:28:26",33,17,214
+"Conglomerons","Josh","05 May  2023 07:03:00","Enacted","Kevan","06 May 2023  07:29:59",24,9,214
+"A Jenga Block Under The Sofa","Kevan","05 May  2023 07:50:00","Enacted","Kevan","06 May 2023  07:30:55",23,12,214
+"Zoning In","Kevan","05 May  2023 09:51:00","Enacted","Kevan","06 May 2023  07:32:08",21,11,214
+"[Core] Morbid jokes hit a little too close to home at the moment otherwise this title would be one","redtara","05 May  2023 10:40:00","Enacted","Kevan","06 May 2023  07:33:19",20,7,214
+"[Appendix] The End Game","JonathanDark","05 May  2023 13:02:00","Failed","Kevan","07 May 2023  16:51:40",51,19,214
+"Get a job","SingularByte","05 May  2023 19:16:00","Enacted","Kevan","07 May 2023  21:09:19",49,8,214
+"Let People Go Places","Bucky","05 May  2023 19:35:00","Failed","Kevan","07 May 2023  21:10:08",49,12,214
+"Veep [Special Case]","Brendan","05 May  2023 20:40:00","Failed","Kevan","07 May 2023  21:11:23",48,14,214
+"Where the Suburbs Met Utopia","Kevan","06 May  2023 09:09:00","Enacted","SingularByte","08 May 2023  09:12:28",48,6,214
+"Let’s get down to business (to defeat the Huns)","Josh","06 May  2023 09:19:00","Enacted","SingularByte","08 May 2023  09:22:15",48,19,214
+"Proposal: Cleaning Up","summai","06 May  2023 10:21:00","Enacted","SingularByte","08 May 2023  09:24:43",47,13,214
+"The Confederated City States of BlogNomica","redtara","06 May  2023 13:15:00","Enacted","redtara","08 May 2023  13:25:09",48,12,214
+"All Roads Lead to Scamsville","SingularByte","06 May  2023 14:26:00","Enacted","SingularByte","08 May 2023  14:15:24",47,10,214
+"If it’s not from the ruleset region of blognomic it’s called a “sparkling guideline”","redtara","06 May  2023 19:40:00","Enacted","redtara","08 May 2023  20:10:54",48,20,214
+"Short Term Veep","Bucky","07 May  2023 04:10:00","Failed","Bucky","09 May 2023  04:21:01",48,17,214
+"Surprisingly feisty huns","Josh","07 May  2023 09:55:00","Enacted","Josh","09 May 2023  10:37:43",48,9,214
+"Working for a living","JonathanDark","07 May  2023 15:17:00","Enacted","Kevan","09 May 2023  17:17:23",50,8,214
+"From Each According to Their Ability","JonathanDark","07 May  2023 18:43:00","Enacted","Kevan","09 May 2023  19:48:21",49,12,214
+"Stagnant Industry","SingularByte","08 May  2023 07:37:00","Enacted","SingularByte","10 May 2023  07:48:40",48,9,214
+"Expand the Red Tape","SingularByte","08 May  2023 14:33:00","Failed","Bucky","10 May 2023  17:48:16",51,15,214
+"Blaze the Trails","Bucky","08 May  2023 15:58:00","Failed","Kevan","10 May 2023  17:50:44",49,10,214
+"Managed Decline [Core]","Kevan","09 May  2023 11:45:00","Failed","SingularByte","11 May 2023  12:19:08",48,17,214
+"Traveling","summai","09 May  2023 12:27:00","Failed","?","11 May 2023  12:34:16",48,20,214
+"Suspenders","Josh","09 May  2023 14:05:00","Failed","Josh","11 May 2023  16:52:33",50,20,214
+"Regional Culture","JonathanDark","09 May  2023 17:26:00","Enacted","Josh","11 May 2023  21:19:41",51,12,214
+"UnRARe [Special Case]","Brendan","10 May  2023 00:10:00","Enacted","SingularByte","12 May 2023  03:50:18",51,7,214
+"Opening Trade","SingularByte","10 May  2023 08:50:00","Enacted","Kevan","12 May 2023  08:22:04",47,8,214
+"Local Government Dynasty","Josh","10 May  2023 09:33:00","Enacted","Kevan","14 May 2023  08:32:14",94,20,214
+"Taking Care of Regional Business","JonathanDark","10 May  2023 15:49:00","Enacted","SingularByte","12 May 2023  16:08:51",48,6,214
+"[Core] [Appendix] Ruleset tracking","redtara","11 May  2023 11:59:00","Enacted","Josh","13 May 2023  17:40:39",53,17,214
+"Closing the Orphanage","SingularByte","12 May  2023 06:49:00","Enacted","SingularByte","14 May 2023  08:28:17",49,7,214
+"Let’s Get Down To Regional Business (To Defeat The Hun Region)","Josh","12 May  2023 08:09:00","Enacted","SingularByte","14 May 2023  08:30:59",48,5,214
+"Small Print [Core] [Appendix]","Kevan","12 May  2023 08:39:00","Failed","Josh","14 May 2023  16:03:52",55,10,214
+"Symmetry Breaker","Bucky","12 May  2023 16:07:00","Failed","Josh","14 May 2023  16:10:26",48,5,214
+"The jjm3x3 Memorial","Bucky","12 May  2023 16:27:00","Enacted","SingularByte","14 May 2023  16:41:06",48,8,214
+"Idle Hands are the Devil’s Playthings","JonathanDark","12 May  2023 16:47:00","Enacted","SingularByte","14 May 2023  16:47:12",48,10,214
+"Burgher monopoly","redtara","12 May  2023 22:42:00","Enacted","SingularByte","15 May 2023  04:45:46",54,5,214
+"Majority vote","redtara","13 May  2023 20:42:00","Failed","?","15 May 2023  21:53:25",49,17,214
+"Running for Office (after building that office building)","SingularByte","14 May  2023 08:20:00","Enacted","SingularByte","16 May 2023  09:22:53",49,5,214
+"Bananexit","Kevan","14 May  2023 12:09:00","Failed","Kevan","16 May 2023  09:29:45",45,9,214
+"Gerrymandering","SingularByte","14 May  2023 18:02:00","Enacted","Bucky","17 May 2023  00:25:05",54,4,214
+"The Art of Portmanteau","Bucky","14 May  2023 22:36:00","Failed","Bucky","17 May 2023  05:00:04",54,7,214
+"Maximum Effort","JonathanDark","15 May  2023 12:59:00","Enacted","Kevan","17 May 2023  07:46:49",42,10,214
+"Individual Voices Matter","summai","15 May  2023 17:44:00","Failed","SingularByte","17 May 2023  18:46:24",49,9,214
+"Minority rules","redtara","15 May  2023 21:35:00","Failed","Kevan","18 May 2023  07:55:23",58,25,214
+"Let’s go","redtara","15 May  2023 21:51:00","Failed","Kevan","18 May 2023  07:55:56",58,6,214
+"FORx99","Bucky","16 May  2023 17:26:00","Enacted","Bucky","18 May 2023  19:40:06",50,9,214
+"So, what is it that you do here?","JonathanDark","17 May  2023 12:57:00","Enacted","Bucky","19 May 2023  16:53:06",51,1,214
+"Includo","Josh","17 May  2023 15:59:00","Failed","Bucky","20 May 2023  16:08:09",72,7,214
+"[Special Case] Bag Em and Tag Em","JonathanDark","17 May  2023 21:58:00","Failed","Josh","20 May 2023  22:21:36",72,6,214
+"Abandon All Hope","JonathanDark","19 May  2023 17:29:00","Enacted","Josh","22 May 2023  08:40:32",63,2,214
+"Incoherent","Josh","20 May  2023 22:23:00","Failed","Josh","22 May 2023  11:52:45",37,9,214
+"Monumental Achievement","JonathanDark","22 May  2023 13:38:00","Enacted","Josh","24 May 2023  20:03:52",54,14,214
+"Emigration","Bucky","23 May  2023 17:02:00","Enacted","Josh","25 May 2023  20:13:35",51,6,214
+"Extremely Fun Game","redtara","23 May  2023 22:25:00","Failed","Josh","25 May 2023  20:19:35",45,6,214
+"You do realise this means War","JonathanDark","24 May  2023 12:39:00","Failed","?","25 May 2023  22:56:39",34,4,214
+"True Victory is the People We Met","Bucky","24 May  2023 18:26:00","Failed","?","25 May 2023  22:57:10",28,9,214
+"Quorate","Josh","25 May  2023 17:26:00","Enacted","Josh","26 May 2023  09:55:53",16,8,214
+"Redtara Maneuver","Bucky","25 May  2023 21:40:00","Failed","Bucky","28 May 2023  02:25:29",52,2,214
+"How spicy is too spicy?","redtara","25 May  2023 23:08:00","Failed","?","28 May 2023  19:38:55",68,4,214
+"You’ve Been Underserved","JonathanDark","26 May  2023 15:21:00","Failed","Bucky","28 May 2023  20:13:59",52,2,214
+"Core Proposal Counter Offer [Core]","Bucky","28 May  2023 20:14:00","Failed","Bucky","30 May 2023  17:52:17",45,4,214
+"No Pun Contended","Josh","29 May  2023 17:45:00","Enacted","Bucky","30 May 2023  17:52:30",24,6,214
+"Level Knevel","Josh","31 May  2023 20:17:00","Enacted","Josh","01 Jun 2023  10:50:51",14,16,215
+"Avs","Josh","31 May  2023 20:17:00","Enacted","Kevan","01 Jun 2023  11:30:00",15,11,215
+"[Core] The Birth of an Enactment Star","JonathanDark","31 May  2023 21:06:00","Failed","Kevan","01 Jun 2023  16:48:56",19,19,215
+"Request for Adminship","Chiiika","31 May  2023 23:49:00","Enacted","Kevan","01 Jun 2023  16:50:37",17,8,215
+"Luluization","Lulu","01 Jun  2023 00:17:00","Enacted","Kevan","01 Jun 2023  16:53:13",16,7,215
+"SUPER. HOT.","lemon","01 Jun  2023 08:00:00","Enacted","?","02 Jun 2023  00:27:54",16,15,215
+"Unwelcome Guests","lemon","01 Jun  2023 08:09:00","Enacted","?","02 Jun 2023  00:31:16",16,10,215
+"Ruleset organisation","Josh","01 Jun  2023 11:15:00","Enacted","?","02 Jun 2023  00:33:30",13,11,215
+"Still the Only Place to Get a Good Steak","Kevan","01 Jun  2023 12:20:00","Failed","?","02 Jun 2023  06:24:49",18,14,215
+"Staying Grounded","JonathanDark","01 Jun  2023 13:15:00","Enacted","?","02 Jun 2023  06:26:02",17,11,215
+"Out of Mind","Kevan","01 Jun  2023 17:55:00","Enacted","?","02 Jun 2023  06:48:53",12,8,215
+"Bug Fixin’","Trapdoorspyder","01 Jun  2023 23:14:00","Enacted","Kevan","02 Jun 2023  11:20:23",12,8,215
+"Trying to bugfix before the cheese melt thru the reality hole","Chiiika","02 Jun  2023 00:41:00","Failed","Kevan","02 Jun 2023  11:21:18",10,6,215
+"Ascension By Criteria refactor","Bucky","02 Jun  2023 00:41:00","Enacted","?","02 Jun 2023  18:42:29",18,21,215
+"Trying to bugfix before the cheese melt thru the reality hole 2.0","Chiiika","02 Jun  2023 04:49:00","Failed","?","02 Jun 2023  18:46:58",13,14,215
+"‘Anchor’ isn’t very thematic, is it?","lemon","02 Jun  2023 07:17:00","Failed","?","02 Jun 2023  19:27:49",12,11,215
+"Source Code","lemon","02 Jun  2023 08:03:00","Failed","?","04 Jun 2023  08:37:56",48,24,215
+"The Game Plays Itself","Josh","02 Jun  2023 09:24:00","Enacted","?","04 Jun 2023  10:22:38",48,19,215
+"Reaching Through the Bars","Kevan","02 Jun  2023 10:21:00","Failed","?","04 Jun 2023  10:29:43",48,19,215
+"A Symbol Idea","JonathanDark","02 Jun  2023 13:04:00","Enacted","?","04 Jun 2023  10:31:15",45,14,215
+"It Takes One To Know One","Lulu","02 Jun  2023 13:45:00","Enacted","?","04 Jun 2023  10:38:59",44,13,215
+"The Blinking Stars","Bucky","02 Jun  2023 16:26:00","Enacted","?","04 Jun 2023  10:41:58",42,9,215
+"Permission to Recurse","Chiiika","02 Jun  2023 18:34:00","Enacted","?","04 Jun 2023  10:45:08",40,9,215
+"Ascension by Agenda","Bucky","02 Jun  2023 19:04:00","Enacted","Josh","04 Jun 2023  21:12:43",50,12,215
+"Home Run","summai","02 Jun  2023 19:06:00","Failed","Josh","04 Jun 2023  21:14:10",50,15,215
+"The Search","lemon","02 Jun  2023 20:11:00","Enacted","Josh","04 Jun 2023  21:16:12",49,11,215
+"One Way Out","Josh","03 Jun  2023 09:10:00","Enacted","Josh","04 Jun 2023  21:17:32",36,12,215
+"Meeting of the Minds","JonathanDark","03 Jun  2023 15:22:00","Failed","Josh","05 Jun 2023  15:38:26",48,10,215
+"Better Than Life","Kevan","03 Jun  2023 18:30:00","Failed","?","05 Jun 2023  18:38:36",48,9,215
+"Lifted by Angels","summai","03 Jun  2023 19:32:00","Failed","?","05 Jun 2023  18:39:51",47,10,215
+"Attn: Reality Breakers Detected. Self Diagnostic and Repair Framework initiated.","Chiiika","04 Jun  2023 05:02:00","Failed","?","05 Jun 2023  18:41:54",37,6,215
+"The Existential Vacuum","Kevan","04 Jun  2023 16:29:00","Enacted","?","05 Jun 2023  18:43:02",26,8,215
+"Identity Crisis","lemon","04 Jun  2023 18:47:00","Failed","Bucky","06 Jun 2023  21:46:46",50,8,215
+"The Stars Guide Us","Josh","04 Jun  2023 21:42:00","Failed","Bucky","06 Jun 2023  21:47:33",48,4,215
+"Symbolic Gestures","JonathanDark","04 Jun  2023 21:56:00","Enacted","Bucky","07 Jun 2023  03:24:08",53,13,215
+"Reality Runaways","lemon","05 Jun  2023 03:30:00","Enacted","Kevan","07 Jun 2023  08:05:06",52,7,215
+"The Stars In Our Stars","Josh","05 Jun  2023 12:13:00","Failed","Josh","07 Jun 2023  09:26:12",45,8,215
+"Clean Slates","Bucky","05 Jun  2023 15:32:00","Enacted","Josh","07 Jun 2023  09:27:41",41,7,215
+"Tempting Fate","JonathanDark","05 Jun  2023 17:59:00","Vetoed","Josh","07 Jun 2023  09:34:41",39,12,215
+"Higher Agendas","Bucky","06 Jun  2023 04:33:00","Enacted","Kevan","07 Jun 2023  20:10:57",39,8,215
+"The Fault in Our Stars","summai","06 Jun  2023 06:34:00","Enacted","Josh","08 Jun 2023  09:03:02",50,8,215
+"Yanked","Kevan","06 Jun  2023 08:21:00","Enacted","Josh","08 Jun 2023  09:06:09",48,15,215
+"Preying on the Ignorant","summai","06 Jun  2023 16:53:00","Enacted","Kevan","08 Jun 2023  17:01:46",48,5,215
+"First Mover","Josh","07 Jun  2023 09:48:00","Enacted","Josh","09 Jun 2023  12:38:23",50,8,215
+"Distributed Neurons","Kevan","07 Jun  2023 15:30:00","Enacted","Bucky","09 Jun 2023  17:41:55",50,8,215
+"Parallel Thought","Bucky","07 Jun  2023 22:52:00","Enacted","Bucky","10 Jun 2023  21:22:36",70,5,215
+"Avatar Hunters","Josh","08 Jun  2023 09:14:00","Enacted","Josh","11 Jun 2023  20:02:57",82,5,215
+"Issuing NPC Prounoun Permits [Appendix]","Bucky","08 Jun  2023 17:06:00","Enacted","Josh","11 Jun 2023  20:03:50",74,6,215
+"Reinforcing The Wall","lemon","09 Jun  2023 06:40:00","Enacted","Josh","11 Jun 2023  20:04:54",61,10,215
+"Cloak and Dagger","lemon","09 Jun  2023 08:20:00","Enacted","Josh","11 Jun 2023  20:06:05",59,5,215
+"The Horse of Roy Rogers","Josh","09 Jun  2023 13:30:00","Enacted","Josh","11 Jun 2023  20:08:08",54,2,215
+"There Is No Spoon","JonathanDark","09 Jun  2023 14:40:00","Failed","Josh","11 Jun 2023  20:10:20",53,9,215
+"Memes are useless or flavortext","Bucky","12 Jun  2023 00:11:00","Enacted","Bucky","14 Jun 2023  01:04:42",48,6,215
+"Reading the Stars","lemon","12 Jun  2023 10:08:00","Enacted","Josh","14 Jun 2023  13:41:58",51,7,215
+"Mindjacker Hunters","Josh","12 Jun  2023 11:23:00","Enacted","Josh","14 Jun 2023  13:43:29",50,6,215
+"Psychic Ping Pfix and Potency","Bucky","12 Jun  2023 17:16:00","Enacted","Bucky","15 Jun 2023  03:32:10",58,8,215
+"Biblically accurate avatars","Josh","13 Jun  2023 08:27:00","Enacted","Josh","15 Jun 2023  08:58:51",48,8,215
+"Existential Growing Pains","lemon","13 Jun  2023 11:23:00","Enacted","Bucky","15 Jun 2023  16:19:45",52,8,215
+"Anchors Aweigh","JonathanDark","13 Jun  2023 13:02:00","Enacted","Josh","16 Jun 2023  08:10:50",67,6,215
+"Beneficial Ransomware","JonathanDark","14 Jun  2023 12:53:00","Enacted","Josh","16 Jun 2023  08:12:59",43,3,215
+"Smuggler’s Tricks","Bucky","14 Jun  2023 22:33:00","Enacted","Josh","16 Jun 2023  08:13:53",33,12,215
+"The Fault in The Fault in Our Stars","lemon","15 Jun  2023 08:28:00","Failed","Josh","16 Jun 2023  08:16:07",23,9,215
+"Retracting the Immutable","Bucky","15 Jun  2023 17:22:00","Failed","Bucky","17 Jun 2023  16:19:06",46,8,215
+"when life gives you lemons…","lemon","15 Jun  2023 23:32:00","Enacted","Josh","18 Jun 2023  08:15:50",56,4,215
+"Tiny fixes","Josh","16 Jun  2023 08:24:00","Enacted","Josh","18 Jun 2023  09:02:46",48,4,215
+"True Reality Tiebreaker","lemon","16 Jun  2023 22:10:00","Failed","Josh","18 Jun 2023  09:06:59",34,4,215
+"Soulcycle","Josh","17 Jun  2023 09:41:00","Enacted","Josh","18 Jun 2023  09:07:40",23,4,215
+"More Matterium Matters","Bucky","17 Jun  2023 16:12:00","Enacted","?","19 Jun 2023  02:31:28",34,4,215
+"Is this the real life? Is this just fantasy?","JonathanDark","17 Jun  2023 18:36:00","Failed","?","19 Jun 2023  02:37:43",32,7,215
+"Gotchas","Bucky","18 Jun  2023 21:24:00","Failed","?","19 Jun 2023  02:38:35",5,1,215
+"Metachronal Realignment","lemon","19 Jun  2023 02:50:00","Enacted","Bucky","20 Jun 2023  06:20:49",27,6,215
+"Explain yourself","Josh","19 Jun  2023 08:40:00","Enacted","Bucky","21 Jun 2023  02:22:04",41,5,215
+"False Portents","lemon","19 Jun  2023 08:57:00","Failed","Josh","21 Jun 2023  09:32:31",48,7,215
+"New tunnels","Josh","19 Jun  2023 09:04:00","Enacted","Josh","21 Jun 2023  09:33:33",48,7,215
+"Becoming 1337","Bucky","19 Jun  2023 20:59:00","Enacted","?","21 Jun 2023  11:06:30",38,8,215
+"Lurkers Below the Horizon","JonathanDark","20 Jun  2023 12:59:00","Enacted","Bucky","22 Jun 2023  18:52:48",53,5,215
+"Master of Memes","Josh","21 Jun  2023 09:53:00","Failed","Josh","23 Jun 2023  13:01:30",51,3,215
+"Listen Closely","lemon","21 Jun  2023 10:21:00","Enacted","Josh","23 Jun 2023  13:02:25",50,2,215
+"You May Slap It… Once","lemon","21 Jun  2023 10:43:00","Enacted","Josh","23 Jun 2023  13:03:35",50,5,215
+"Itchy triggers","Josh","21 Jun  2023 11:03:00","Enacted","Josh","23 Jun 2023  13:05:33",50,2,215
+"Tightly-packed Agenda","JonathanDark","21 Jun  2023 13:18:00","Failed","?","24 Jun 2023  07:02:14",65,2,215
+"The Last One Downstairs","Bucky","22 Jun  2023 02:00:00","Enacted","?","24 Jun 2023  07:03:01",53,4,215
+"Trigger Trouble","Bucky","22 Jun  2023 15:32:00","Enacted","?","24 Jun 2023  07:04:48",39,4,215
+"Careless Whisper","Josh","23 Jun  2023 13:09:00","Enacted","Josh","25 Jun 2023  13:37:28",48,3,215
+"Quantum Entanglement","lemon","24 Jun  2023 06:49:00","Enacted","?","25 Jun 2023  20:19:51",37,3,215
+"Taste Test","lemon","24 Jun  2023 07:16:00","Enacted","?","25 Jun 2023  20:24:54",37,2,215
+"Do Less Queen, Give Us Nothing","Josh","25 Jun  2023 19:49:00","Enacted","?","26 Jun 2023  23:08:07",27,4,215
+"Unplugged Brain","Bucky","25 Jun  2023 19:53:00","Enacted","?","26 Jun 2023  23:11:14",27,5,215
+"Cosmic Blotter","JonathanDark","26 Jun  2023 06:16:00","Failed","?","26 Jun 2023  23:13:05",16,4,215
+"Signal and Noise","lemon","26 Jun  2023 22:46:00","Enacted","?","28 Jun 2023  08:32:11",33,9,215
+"Spectrographer Crackdown","lemon","26 Jun  2023 23:04:00","Enacted","?","28 Jun 2023  08:38:24",33,4,215
+"The pinnacle of military deployment approaches the formless","Josh","27 Jun  2023 08:45:00","Enacted","Josh","29 Jun 2023  08:34:36",47,4,215
+"Too Tangled","Bucky","27 Jun  2023 21:24:00","Failed","Josh","29 Jun 2023  08:36:32",35,14,215
+"Ontological Guardians","JonathanDark","28 Jun  2023 05:36:00","Enacted","?","29 Jun 2023  09:26:00",27,7,215
+"Moves Like Jacker","Josh","28 Jun  2023 07:55:00","Failed","?","29 Jun 2023  09:28:31",25,4,215
+"Crime Pays","lemon","28 Jun  2023 08:52:00","Enacted","?","30 Jun 2023  00:06:52",39,8,215
+"Objects in Mirror Realities are Closer than they Appear","JonathanDark","28 Jun  2023 12:50:00","Enacted","?","30 Jun 2023  00:09:26",35,4,215
+"Buy One Get One Free-ish","Bucky","28 Jun  2023 22:32:00","Enacted","?","30 Jun 2023  00:11:32",25,5,215
+"Cleanup in Aisles 1, 2, and 6","lemon","29 Jun  2023 09:29:00","Enacted","?","30 Jun 2023  00:24:41",14,3,215
+"Under Their Noses","lemon","30 Jun  2023 00:19:00","Enacted","?","02 Jul 2023  01:38:39",49,3,215
+"All In","lemon","30 Jun  2023 00:46:00","Enacted","?","02 Jul 2023  02:35:50",49,4,215
+"Hacking the Gibson Reality","JonathanDark","30 Jun  2023 13:15:00","Failed","Josh","02 Jul 2023  14:55:50",49,5,215
+"It Wasn’t Me, It Was A Spinning Tower","Bucky","30 Jun  2023 18:04:00","Enacted","?","03 Jul 2023  01:15:35",55,4,215
+"Climbing the Wall","lemon","02 Jul  2023 02:31:00","Enacted","?","04 Jul 2023  04:11:57",49,5,215
+"Attendant Ascendant","Josh","02 Jul  2023 07:31:00","Enacted","?","04 Jul 2023  04:14:24",44,9,215
+"Ontological Reassignment","lemon","03 Jul  2023 01:12:00","Enacted","?","04 Jul 2023  04:18:48",27,3,215
+"Removes Like Jacker","Josh","04 Jul  2023 08:33:00","Vetoed","?","06 Jul 2023  22:44:09",62,4,215
+"Vote For Me","Bucky","04 Jul  2023 17:35:00","Vetoed","Bucky","06 Jul 2023  22:40:46",53,6,215
+"Mobile Avatars","Josh","05 Jul  2023 08:56:00","Vetoed","?","06 Jul 2023  22:44:47",37,3,215
+"Meme Leak","Bucky","05 Jul  2023 15:27:00","Vetoed","?","06 Jul 2023  22:45:25",31,1,215
+"Initialising, Phase One","lemon","06 Jul  2023 22:53:00","Enacted","Kevan","07 Jul 2023  11:01:57",12,8,216
+"Initialising, Phase Two","lemon","06 Jul  2023 22:59:00","Enacted","Kevan","08 Jul 2023  10:41:03",35,7,216
+"Initialization Keys to Happiness","Bucky","06 Jul  2023 23:34:00","Enacted","Kevan","08 Jul 2023  11:53:22",36,8,216
+"Initialising the Means of Production","JonathanDark","07 Jul  2023 00:59:00","Failed","Kevan","08 Jul 2023  11:54:24",34,8,216
+"The Key to Immutability","JonathanDark","07 Jul  2023 01:27:00","Enacted","Kevan","08 Jul 2023  11:58:22",34,4,216
+"Future Terse","Josh","07 Jul  2023 08:24:00","Enacted","Kevan","08 Jul 2023  12:04:51",27,6,216
+"Bunker Mentality","Josh","07 Jul  2023 09:19:00","Enacted","Kevan","08 Jul 2023  16:30:38",31,14,216
+"The Appliance of Alliance [Special Case]","Kevan","07 Jul  2023 15:44:00","Enacted","Kevan","08 Jul 2023  16:36:25",24,8,216
+"Unhidden Agendas","Kevan","08 Jul  2023 11:05:00","Failed","Kevan","09 Jul 2023  08:22:05",21,16,216
+"Revised Priorities","lemon","08 Jul  2023 12:17:00","Enacted","Kevan","09 Jul 2023  08:24:22",20,5,216
+"An Actual Machine Component","Bucky","08 Jul  2023 15:56:00","Failed","SingularByte","09 Jul 2023  09:39:12",17,19,216
+"Not On My Agenda","JonathanDark","08 Jul  2023 16:39:00","Enacted","SingularByte","09 Jul 2023  21:34:25",28,7,216
+"Edit Tolerance","Bucky","08 Jul  2023 18:02:00","Enacted","SingularByte","09 Jul 2023  21:36:36",27,8,216
+"A Change in Plans","JonathanDark","08 Jul  2023 19:08:00","Failed","SingularByte","09 Jul 2023  21:38:03",26,18,216
+"The Big Picture","lemon","09 Jul  2023 04:19:00","Enacted","SingularByte","09 Jul 2023  21:39:12",17,12,216
+"Rejected Punchcards","Kevan","09 Jul  2023 08:00:00","Enacted","SingularByte","09 Jul 2023  21:41:11",13,14,216
+"The Soul Of Wit","Josh","09 Jul  2023 08:43:00","Enacted","SingularByte","09 Jul 2023  21:43:31",13,9,216
+"Resource Triangle","Josh","09 Jul  2023 08:48:00","Enacted","SingularByte","09 Jul 2023  21:45:21",12,7,216
+"Out in the light","SingularByte","09 Jul  2023 09:17:09","Enacted","SingularByte","09 Jul 2023  21:47:31",12,12,216
+"Spraypaint for sale","SingularByte","09 Jul  2023 09:59:36","Enacted","SingularByte","09 Jul 2023  21:48:51",11,5,216
+"Manual Brakes","Lulu","09 Jul  2023 16:41:00","Failed","Kevan","10 Jul 2023  09:09:47",16,13,216
+"Bugs in the schematics","SingularByte","09 Jul  2023 21:54:00","Enacted","Kevan","10 Jul 2023  09:59:25",12,6,216
+"Generalized Switchboard","Bucky","09 Jul  2023 22:08:00","Enacted","SingularByte","10 Jul 2023  12:39:03",14,6,216
+"Wear and Tear","JonathanDark","10 Jul  2023 00:09:00","Enacted","?","10 Jul 2023  22:36:31",22,6,216
+"Re-allocation","Maldor","10 Jul  2023 02:36:00","Failed","?","10 Jul 2023  22:41:10",20,16,216
+"A Handful of Small Key Changes","lemon","10 Jul  2023 03:42:00","Enacted","SingularByte","11 Jul 2023  06:58:17",27,9,216
+"Expanding the Market Share","SingularByte","10 Jul  2023 07:58:59","Enacted","SingularByte","11 Jul 2023  07:01:12",23,11,216
+"Dynastic Fair Play","SingularByte","10 Jul  2023 10:00:01","Enacted","SingularByte","11 Jul 2023  07:03:54",21,12,216
+"For Want of a Cog","Kevan","10 Jul  2023 13:37:00","Enacted","SingularByte","11 Jul 2023  07:05:59",17,5,216
+"Do you have anything to declare?","JonathanDark","10 Jul  2023 17:07:00","Enacted","Kevan","11 Jul 2023  15:28:02",22,6,216
+"Time, she did as Time, she does","lemon","10 Jul  2023 23:11:00","Enacted","Kevan","11 Jul 2023  15:30:20",16,7,216
+"Public Safety","JonathanDark","11 Jul  2023 06:40:00","Enacted","Bucky","12 Jul 2023  05:52:13",23,8,216
+"We Can Fix It","SingularByte","11 Jul  2023 07:11:07","Enacted","SingularByte","12 Jul 2023  15:44:14",32,10,216
+"Environmental Storytelling","Kevan","11 Jul  2023 13:26:00","Enacted","Kevan","12 Jul 2023  15:53:52",26,10,216
+"Surge Pricing","Kevan","11 Jul  2023 15:44:00","Failed","?","13 Jul 2023  14:27:43",46,10,216
+"Settling Down","JonathanDark","11 Jul  2023 16:11:00","Failed","?","13 Jul 2023  14:28:31",46,12,216
+"Recycling Builds Character(s)","Bucky","11 Jul  2023 17:17:00","Failed","?","13 Jul 2023  14:29:51",45,21,216
+"Sabotage","SingularByte","11 Jul  2023 17:20:00","Enacted","?","13 Jul 2023  14:33:17",45,8,216
+"Perpetual Motion","lemon","11 Jul  2023 21:43:00","Enacted","?","13 Jul 2023  14:39:09",40,8,216
+"Late to the Party","lemon","11 Jul  2023 22:19:00","Enacted","?","13 Jul 2023  14:41:16",40,8,216
+"No Prior Claims","Bucky","12 Jul  2023 01:43:00","Enacted","?","13 Jul 2023  14:43:19",37,10,216
+"By Any Means Reasonably Necessary","JonathanDark","12 Jul  2023 06:12:00","Enacted","?","13 Jul 2023  14:45:57",32,7,216
+"Redraw","SingularByte","12 Jul  2023 15:47:00","Enacted","Kevan","14 Jul 2023  16:17:00",48,6,216
+"Shaking the Spraycan","Kevan","12 Jul  2023 16:11:00","Enacted","Kevan","14 Jul 2023  16:21:56",48,9,216
+"Undesirable","Lulu","13 Jul  2023 14:47:00","Enacted","Kevan","14 Jul 2023  16:23:04",25,7,216
+"Starting at the Finish Line","JonathanDark","13 Jul  2023 15:52:00","Enacted","Kevan","14 Jul 2023  16:24:57",24,6,216
+"Clarity is Key","Bucky","13 Jul  2023 16:10:00","Enacted","Kevan","14 Jul 2023  16:26:28",24,6,216
+"Redraw Expanded","SingularByte","13 Jul  2023 18:08:00","Enacted","Kevan","15 Jul 2023  16:50:45",46,6,216
+"Anarchy Is Fun","lendunistus","13 Jul  2023 18:54:00","Enacted","Kevan","15 Jul 2023  16:52:17",45,12,216
+"System of An Agenda","lendunistus","13 Jul  2023 20:06:00","Enacted","Kevan","15 Jul 2023  16:56:58",44,11,216
+"Brief Respite","Bucky","13 Jul  2023 20:11:00","Enacted","SingularByte","16 Jul 2023  06:07:26",57,11,216
+"Power Dynamics","lemon","14 Jul  2023 10:07:00","Enacted","Kevan","16 Jul 2023  16:55:52",54,8,216
+"Price Surging","lemon","14 Jul  2023 10:20:00","Enacted","Kevan","16 Jul 2023  12:25:52",50,5,216
+"Crime And","Kevan","14 Jul  2023 10:24:00","Enacted","Kevan","16 Jul 2023  12:27:21",50,10,216
+"Working for a Living","JonathanDark","14 Jul  2023 13:06:00","Failed","Kevan","16 Jul 2023  12:27:59",47,7,216
+"Economic Links","Bucky","14 Jul  2023 17:23:00","Enacted","Josh","17 Jul 2023  08:40:48",63,12,216
+"Pointing the Finger","JonathanDark","15 Jul  2023 06:42:00","Failed","Josh","17 Jul 2023  08:46:23",50,3,216
+"Like Clockwork","Kevan","15 Jul  2023 10:26:00","Enacted","Kevan","17 Jul 2023  13:53:28",51,8,216
+"It’s a bit silly","SingularByte","16 Jul  2023 06:10:00","Failed","Josh","18 Jul 2023  07:05:45",48,15,216
+"[Special Case] Necessary loopholes.","Bucky","16 Jul  2023 19:43:00","Enacted","Josh","18 Jul 2023  20:39:33",48,8,216
+"Inspire the People","lendunistus","17 Jul  2023 17:51:00","Failed","Josh","18 Jul 2023  20:40:33",26,8,216
+"Facility Quickstart.","Bucky","17 Jul  2023 21:33:00","Failed","Josh","18 Jul 2023  20:41:04",23,13,216
+"Facility Quickfix.","lemon","18 Jul  2023 02:16:00","Failed","?","18 Jul 2023  23:40:47",21,7,216
+"Disorderly Conduct","JonathanDark","18 Jul  2023 06:57:00","Failed","Kevan","19 Jul 2023  10:55:22",27,8,216
+"Functional Facilities","lemon","18 Jul  2023 10:58:00","Enacted","Kevan","19 Jul 2023  11:00:11",24,5,216
+"Push the Button, Frank","Kevan","18 Jul  2023 17:27:00","Enacted","Kevan","19 Jul 2023  12:13:51",18,9,216
+"Inspire the People, 2","lendunistus","18 Jul  2023 19:44:00","Enacted","Kevan","20 Jul 2023  15:36:25",43,6,216
+"House Arrests, Free Markets, and Faucet Fuels","lemon","18 Jul  2023 23:54:00","Enacted","Kevan","20 Jul 2023  15:39:14",39,8,216
+"Help! The Coppers Are Omniscient!","lendunistus","19 Jul  2023 14:18:00","Enacted","Kevan","20 Jul 2023  15:42:52",25,8,216
+"The Cutpurse So Bold","Kevan","19 Jul  2023 17:14:00","Enacted","Kevan","20 Jul 2023  15:44:31",22,4,216
+"Machina Ite Domum","Kevan","19 Jul  2023 17:31:00","Enacted","Kevan","20 Jul 2023  15:46:13",22,4,216
+"Amended Amendments","lemon","20 Jul  2023 01:12:00","Enacted","Kevan","20 Jul 2023  15:48:13",14,7,216
+"Backseat Driver","JonathanDark","20 Jul  2023 06:21:00","Enacted","SingularByte","22 Jul 2023  16:24:22",58,7,216
+"Make God Laugh","Josh","20 Jul  2023 09:58:00","Failed","SingularByte","22 Jul 2023  16:35:00",54,35,216
+"Please Insert 1 Valve to Continue","JonathanDark","20 Jul  2023 13:09:00","Enacted","SingularByte","22 Jul 2023  16:29:17",51,4,216
+"Facility Frenzy","Bucky","20 Jul  2023 20:52:00","Failed","?","22 Jul 2023  23:39:20",50,7,216
+"Cable Tie","Kevan","21 Jul  2023 09:52:00","Enacted","SingularByte","23 Jul 2023  07:59:38",46,7,216
+"The Activometer","Kevan","21 Jul  2023 14:57:00","Enacted","SingularByte","23 Jul 2023  08:01:42",41,8,216
+"Thursday Deadline","Bucky","22 Jul  2023 16:55:00","Enacted","?","23 Jul 2023  20:31:51",27,7,216
+"Make God Chuckle","lemon","22 Jul  2023 18:53:00","Failed","SingularByte","23 Jul 2023  20:33:37",25,13,216
+"Never Live Like Common People [Special Case]","Kevan","24 Jul  2023 09:17:00","Failed","Kevan","24 Jul 2023  18:43:38",9,5,216
+"Power to the Systems","Bucky","24 Jul  2023 15:32:00","Failed","Kevan","26 Jul 2023  13:33:38",46,4,216
+"Everybody Hates A Tourist [Special Case]","Kevan","24 Jul  2023 18:43:00","Enacted","Kevan","26 Jul 2023  17:39:04",46,5,216
+"3 v 2 v 1 is no fun [Special Case]","Bucky","25 Jul  2023 01:54:00","Failed","Kevan","26 Jul 2023  17:39:48",39,18,216
+"Putting the Fun in Function","JonathanDark","26 Jul  2023 12:49:00","Failed","Kevan","28 Jul 2023  12:58:04",48,4,216
+"Petty Crime","JonathanDark","26 Jul  2023 12:52:00","Enacted","SingularByte","28 Jul 2023  19:03:52",54,4,216
+"Less Power to the Systems","Bucky","26 Jul  2023 23:26:00","Enacted","?","29 Jul 2023  00:29:02",49,8,216
+"Cooler Power to the Systems","lemon","27 Jul  2023 15:14:00","Enacted","?","29 Jul 2023  00:33:11",33,5,216
+"12 Hour Mastery","lemon","28 Jul  2023 00:39:00","Enacted","?","29 Jul 2023  00:40:07",24,5,216
+"Mechanized Market","Bucky","28 Jul  2023 01:46:00","Enacted","SingularByte","30 Jul 2023  10:22:31",56,6,216
+"Cold Start","Kevan","28 Jul  2023 10:48:00","Enacted","SingularByte","30 Jul 2023  10:23:42",47,7,216
+"Key Punch","Kevan","28 Jul  2023 13:19:00","Failed","SingularByte","30 Jul 2023  10:28:22",45,10,216
+"Initialisation Key Resilience","SingularByte","28 Jul  2023 19:26:02","Enacted","SingularByte","30 Jul 2023  10:29:36",39,10,216
+"It’s About the Journey","lemon","29 Jul  2023 01:03:00","Enacted","SingularByte","30 Jul 2023  10:32:58",33,7,216
+"A Mind of its Own","lemon","29 Jul  2023 01:18:00","Failed","SingularByte","30 Jul 2023  18:54:07",41,9,216
+"See No Evil","JonathanDark","29 Jul  2023 02:17:00","Failed","SingularByte","30 Jul 2023  18:55:03",40,9,216
+"Mayhem in the Megasystem","JonathanDark","29 Jul  2023 02:18:00","Failed","SingularByte","30 Jul 2023  18:55:39",40,8,216
+"Unpaid Labor Ain’t Cutting It","lendunistus","29 Jul  2023 16:47:00","Enacted","SingularByte","30 Jul 2023  18:57:06",26,3,216
+"We’re All Gonna Die","lendunistus","29 Jul  2023 16:59:00","Failed","SingularByte","30 Jul 2023  18:59:18",26,8,216
+"Facility Economy","Bucky","29 Jul  2023 17:31:00","Enacted","?","31 Jul 2023  23:53:35",54,7,216
+"We Have Atomic Crimes Now","lendunistus","30 Jul  2023 20:30:00","Failed","Bucky","01 Aug 2023  01:51:33",29,7,216
+"If I Had A Hammer","Kevan","31 Jul  2023 09:28:00","Failed","Kevan","01 Aug 2023  10:43:31",25,6,216
+"You Are Here","Kevan","31 Jul  2023 11:19:00","Enacted","Kevan","01 Aug 2023  10:44:51",23,6,216
+"Can We Pass and Fix It?","lemon","31 Jul  2023 23:37:00","Enacted","Kevan","01 Aug 2023  18:04:22",18,4,216
+"Bread and Bounties","lemon","01 Aug  2023 00:28:00","Failed","Kevan","01 Aug 2023  18:04:57",17,12,216
+"Tied Cable","lendunistus","01 Aug  2023 08:27:00","Enacted","Kevan","01 Aug 2023  21:59:06",13,3,216
+"Arbitrary State Despotism","lendunistus","01 Aug  2023 08:47:00","Enacted","Kevan","01 Aug 2023  22:00:37",13,3,216
+"Zoned Out","Kevan","01 Aug  2023 10:46:00","Enacted","?","02 Aug 2023  06:24:23",19,4,216
+"Ye Cannae Change the Laws of Physics","Kevan","01 Aug  2023 15:29:00","Enacted","Kevan","02 Aug 2023  07:39:56",16,4,216
+"Steering and Salaries","lemon","02 Aug  2023 10:03:00","Failed","Kevan","02 Aug 2023  14:48:17",4,1,216
+"Purified Watercooler","Kevan","02 Aug  2023 10:28:00","Vetoed","Kevan","04 Aug 2023  09:15:21",46,6,216
+"A-Minding its Own Business","lemon","02 Aug  2023 10:28:00","Vetoed","Kevan","04 Aug 2023  09:17:13",46,2,216
+"Beadworks Golf","Kevan","02 Aug  2023 10:45:00","Vetoed","Kevan","04 Aug 2023  09:18:04",46,3,216
+"Who Said Machines Can’t Limp","lendunistus","02 Aug  2023 11:00:00","Vetoed","Kevan","04 Aug 2023  09:35:25",46,4,216
+"Automated Defenses","Bucky","02 Aug  2023 13:57:00","Vetoed","Kevan","04 Aug 2023  09:36:42",43,3,216
+"Background Resources","Bucky","02 Aug  2023 15:40:00","Vetoed","Kevan","04 Aug 2023  09:37:00",41,7,216
+"Functional Programming","JonathanDark","02 Aug  2023 16:14:00","Failed","Kevan","04 Aug 2023  09:37:04",41,10,216
+"Fifteen Minute City","Kevan","04 Aug  2023 09:20:00","Enacted","Kevan","05 Aug 2023  06:57:00",21,5,217
+"Two Roads Diverged","Kevan","04 Aug  2023 09:21:00","Enacted","Kevan","05 Aug 2023  06:59:15",21,5,217
+"Commons People, Like You","Josh","04 Aug  2023 10:52:00","Enacted","Kevan","05 Aug 2023  07:21:42",20,8,217
+"Statistical Guideposts","Bucky","04 Aug  2023 16:45:00","Enacted","Kevan","05 Aug 2023  14:29:47",21,3,217
+"Left The People On Read","lendunistus","04 Aug  2023 17:19:00","Enacted","Kevan","05 Aug 2023  18:17:49",24,8,217
+"Reinventing the Wheel","JonathanDark","04 Aug  2023 22:58:00","Enacted","Kevan","05 Aug 2023  18:20:54",19,7,217
+"Surprise Guests","JonathanDark","05 Aug  2023 05:39:00","Failed","Kevan","05 Aug 2023  18:22:03",12,5,217
+"Gathering Together","Kevan","05 Aug  2023 10:15:00","Enacted","?","06 Aug 2023  14:40:23",28,8,217
+"Grain Rats","Kevan","05 Aug  2023 10:43:00","Failed","Kevan","06 Aug 2023  14:42:34",27,8,217
+"Survival of the Wittest","lemon","05 Aug  2023 13:12:00","Enacted","Kevan","06 Aug 2023  14:48:17",25,11,217
+"Open Door Policy","Josh","05 Aug  2023 13:56:00","Enacted","Kevan","06 Aug 2023  15:18:33",25,11,217
+"Famine’s Edge","Bucky","05 Aug  2023 15:55:00","Enacted","Kevan","06 Aug 2023  15:19:51",23,6,217
+"Cloudy with a chance of Horde","JonathanDark","05 Aug  2023 19:43:00","Failed","Kevan","07 Aug 2023  07:43:30",36,9,217
+"Grain Thieves","lemon","06 Aug  2023 00:19:00","Enacted","Kevan","07 Aug 2023  07:46:52",31,3,217
+"Howdy, Partner!","JonathanDark","06 Aug  2023 05:50:00","Failed","Kevan","07 Aug 2023  07:50:35",26,4,217
+"We All Go Down Together","Josh","06 Aug  2023 08:03:00","Failed","Kevan","07 Aug 2023  07:51:23",23,8,217
+"From the Ground Up [Special Case]","Kevan","06 Aug  2023 15:14:00","Enacted","Kevan","07 Aug 2023  07:52:05",16,3,217
+"Errant Punctuation","lemon","06 Aug  2023 17:08:00","Enacted","Kevan","07 Aug 2023  08:41:26",15,7,217
+"One Thing After Another","Kevan","07 Aug  2023 09:31:00","Enacted","?","08 Aug 2023  15:39:47",30,6,217
+"The City Must Survive","lemon","07 Aug  2023 11:51:00","Enacted","?","08 Aug 2023  15:43:46",27,17,217
+"No Easy Choices","lemon","07 Aug  2023 12:27:00","Enacted","?","08 Aug 2023  16:19:28",27,7,217
+"Innovation in Action","Kevan","07 Aug  2023 16:47:00","Enacted","?","08 Aug 2023  16:25:09",23,6,217
+"Idle Rights","JonathanDark","07 Aug  2023 17:53:00","Enacted","Kevan","09 Aug 2023  08:01:09",38,8,217
+"Too Much Idle Rights","lendunistus","07 Aug  2023 19:22:00","Enacted","Kevan","09 Aug 2023  08:02:34",36,7,217
+"Wilkommen, Ingenue","Josh","08 Aug  2023 08:33:00","Enacted","Kevan","09 Aug 2023  08:05:30",23,5,217
+"Who Left the Gates Open?","JonathanDark","08 Aug  2023 15:01:00","Failed","Kevan","09 Aug 2023  08:06:31",17,8,217
+"Food Is Supposed to Get Eaten, I Think","lemon","08 Aug  2023 15:45:00","Failed","Kevan","09 Aug 2023  14:38:56",22,11,217
+"Commons Knowledge","lemon","08 Aug  2023 16:34:00","Failed","Kevan","09 Aug 2023  16:36:59",24,9,217
+"Variable Strength Population Crises","Bucky","08 Aug  2023 18:24:00","Failed","Kevan","09 Aug 2023  14:41:27",20,6,217
+"The Old Calendar","Kevan","09 Aug  2023 09:18:00","Enacted","Kevan","10 Aug 2023  07:20:54",22,3,217
+"The City Cannot See Us","Josh","09 Aug  2023 09:26:00","Failed","Josh","11 Aug 2023  09:12:01",47,10,217
+"iGather, iGovern, iDon’t Know Any More","Josh","09 Aug  2023 10:18:00","Enacted","Josh","11 Aug 2023  09:14:00",46,10,217
+"Out of Control","Kevan","09 Aug  2023 20:17:00","Enacted","Josh","11 Aug 2023  09:15:05",36,5,217
+"Point of Order","Kevan","10 Aug  2023 08:18:00","Enacted","Josh","11 Aug 2023  09:16:24",24,3,217
+"Raiding Parties are the Best Parties","JonathanDark","10 Aug  2023 15:49:00","Failed","Kevan","11 Aug 2023  15:03:59",23,9,217
+"True Dilemmas","JonathanDark","10 Aug  2023 17:02:00","Enacted","Kevan","12 Aug 2023  17:37:25",48,7,217
+"We Rowdy","Josh","11 Aug  2023 09:12:00","Enacted","Kevan","12 Aug 2023  17:48:43",32,2,217
+"Shouts to all my lost boys","Josh","11 Aug  2023 09:29:00","Enacted","Kevan","12 Aug 2023  17:53:28",32,8,217
+"Food Is Supposed to Get Eaten, Don’t You Think?","lemon","11 Aug  2023 12:35:00","Enacted","?","13 Aug 2023  11:40:05",47,8,217
+"Mistaken Forecast","lemon","11 Aug  2023 14:14:00","Enacted","Kevan","13 Aug 2023  11:58:22",45,3,217
+"Law and Order","Kevan","11 Aug  2023 15:36:00","Enacted","Kevan","13 Aug 2023  12:02:04",44,4,217
+"Tree Stump","Kevan","11 Aug  2023 16:47:00","Enacted","Kevan","13 Aug 2023  17:23:18",48,5,217
+"Can’t Reinitialise Your Way Out Of This One","lendunistus","13 Aug  2023 06:09:00","Enacted","Kevan","13 Aug 2023  18:19:21",12,3,217
+"No Time to Relax","JonathanDark","13 Aug  2023 06:11:00","Failed","Kevan","14 Aug 2023  08:14:47",26,5,217
+"No Sense in Letting Good Food Go to Waste","JonathanDark","13 Aug  2023 06:43:00","Enacted","Josh","14 Aug 2023  15:31:00",32,6,217
+"No Sense In Letting Good Energy Go to Waste","Josh","13 Aug  2023 15:22:00","Enacted","Josh","14 Aug 2023  15:32:35",24,5,217
+"Can’t Unidle Your Way Into This One","lendunistus","13 Aug  2023 16:11:00","Enacted","Josh","14 Aug 2023  15:33:38",23,6,217
+"Junction Box","Kevan","13 Aug  2023 17:42:00","Enacted","Josh","14 Aug 2023  15:34:32",21,11,217
+"Measure Twice","Kevan","14 Aug  2023 10:49:00","Enacted","Kevan","15 Aug 2023  07:39:34",20,3,217
+"Personnel Protection","JonathanDark","14 Aug  2023 12:55:00","Enacted","Kevan","16 Aug 2023  13:01:35",48,2,217
+"Into the Wastes","lemon","14 Aug  2023 15:28:00","Enacted","Kevan","16 Aug 2023  15:36:43",48,3,217
+"Desperate Times…","lemon","14 Aug  2023 15:29:00","Enacted","Kevan","16 Aug 2023  15:38:27",48,6,217
+"Food Brings People Together","JonathanDark","14 Aug  2023 15:39:00","Enacted","Kevan","16 Aug 2023  15:40:37",48,7,217
+"The Final Word [Special Case]","Kevan","14 Aug  2023 17:17:00","Enacted","Kevan","16 Aug 2023  15:41:56",46,4,217
+"Energy Crisis","lendunistus","15 Aug  2023 09:15:00","Enacted","Kevan","16 Aug 2023  15:43:08",30,5,217
+"Batteries Not Included","Kevan","16 Aug  2023 10:20:00","Enacted","Kevan","18 Aug 2023  08:38:14",46,21,217
+"The City Never Sleeps","Kevan","16 Aug  2023 17:31:00","Failed","Kevan","18 Aug 2023  08:38:55",39,8,217
+"Another Heart Has Made The Trade","Josh","17 Aug  2023 07:59:00","Enacted","Kevan","18 Aug 2023  08:40:19",24,9,217
+"Thinking Outside the Box","lemon","17 Aug  2023 09:36:00","Failed","Kevan","18 Aug 2023  10:41:43",25,11,217
+"First Things First","lemon","17 Aug  2023 10:10:00","Enacted","Kevan","19 Aug 2023  11:02:31",48,3,217
+"Caffeinated City","JonathanDark","17 Aug  2023 13:23:00","Enacted","Kevan","19 Aug 2023  10:53:14",45,14,217
+"Timely Delivery","JonathanDark","18 Aug  2023 06:51:00","Failed","Kevan","19 Aug 2023  10:54:03",28,3,217
+"Dislocation","Josh","18 Aug  2023 09:25:00","Enacted","Kevan","19 Aug 2023  10:57:07",25,6,217
+"The Shape of Things to Come","Kevan","18 Aug  2023 10:48:00","Enacted","Kevan","19 Aug 2023  10:59:34",24,2,217
+"Brought Low","Kevan","18 Aug  2023 17:07:00","Enacted","Kevan","19 Aug 2023  11:00:44",17,2,217
+"Luckpusher","Josh","18 Aug  2023 17:08:00","Enacted","Josh","20 Aug 2023  21:38:35",52,6,217
+"From the Ashes","lemon","18 Aug  2023 21:34:00","Failed","Josh","20 Aug 2023  21:39:15",48,5,217
+"Division of Labour","Kevan","19 Aug  2023 12:07:00","Enacted","Josh","20 Aug 2023  21:39:51",33,3,217
+"Papers, Please","Kevan","19 Aug  2023 12:51:00","Enacted","Josh","20 Aug 2023  21:42:18",32,7,217
+"Military Research Inconclusive","lendunistus","19 Aug  2023 19:50:00","Enacted","Josh","20 Aug 2023  21:45:19",25,4,217
+"Thinking Before the Box","lemon","20 Aug  2023 08:14:00","Enacted","Kevan","21 Aug 2023  08:24:08",24,4,217
+"The People’s Front of Judea","Josh","20 Aug  2023 09:02:00","Enacted","Kevan","22 Aug 2023  06:48:52",45,11,217
+"Power to the People","Kevan","21 Aug  2023 10:08:00","Enacted","Kevan","22 Aug 2023  06:49:22",20,4,217
+"Falling Slowly","Kevan","21 Aug  2023 10:42:00","Failed","Kevan","22 Aug 2023  06:50:43",20,7,217
+"Horseshoe Theory","Kevan","22 Aug  2023 08:10:00","Enacted","?","23 Aug 2023  06:37:53",22,3,217
+"Well Moot By Meenlight","Josh","22 Aug  2023 10:51:00","Enacted","Josh","24 Aug 2023  13:28:47",50,14,217
+"Meet and Greet","JonathanDark","22 Aug  2023 13:07:00","Enacted","Josh","24 Aug 2023  13:37:22",48,5,217
+"Ringing Endorsement","JonathanDark","22 Aug  2023 13:09:00","Failed","Josh","24 Aug 2023  13:38:58",48,7,217
+"Inevitability","lemon","22 Aug  2023 13:41:00","Enacted","?","24 Aug 2023  21:56:12",56,12,217
+"Insert Some Sort of Pun-ctuation [Appendix]","lemon","22 Aug  2023 14:14:00","Enacted","?","24 Aug 2023  22:00:07",55,3,217
+"The Anointed Ones","Josh","22 Aug  2023 15:53:00","Enacted","?","24 Aug 2023  22:01:34",54,17,217
+"The Most Toys","Kevan","23 Aug  2023 11:06:00","Failed","?","24 Aug 2023  22:05:22",34,6,217
+"Bureaucracy At Its Finest","lendunistus","24 Aug  2023 16:16:00","Enacted","Kevan","25 Aug 2023  10:02:24",17,5,217
+"In Season","lemon","24 Aug  2023 22:39:00","Enacted","Kevan","26 Aug 2023  07:01:56",32,7,217
+"Remnants of the Battery Garden","lemon","24 Aug  2023 22:46:00","Enacted","Kevan","26 Aug 2023  07:03:02",32,4,217
+"The Human Equation","JonathanDark","25 Aug  2023 06:31:00","Enacted","Kevan","26 Aug 2023  16:36:10",34,11,217
+"A Conclave Arrives Precisely When It Means To","JonathanDark","25 Aug  2023 06:33:00","Enacted","Kevan","26 Aug 2023  16:36:13",34,7,217
+"What Do Points Mean","Kevan","25 Aug  2023 10:05:00","Enacted","Kevan","26 Aug 2023  16:35:26",30,5,217
+"The Subsequence Dilemma","lendunistus","26 Aug  2023 09:14:00","Enacted","Kevan","28 Aug 2023  10:16:02",49,7,217
+"Abandon All Hope, Ye Who Are Abandoned","JonathanDark","28 Aug  2023 06:42:00","Enacted","Kevan","29 Aug 2023  17:29:00",34,5,217
+"Ties Are For Suits, Not Contests","JonathanDark","28 Aug  2023 06:44:00","Failed","Kevan","29 Aug 2023  17:29:37",34,13,217
+"Sticky Heels","Josh","28 Aug  2023 10:34:00","Enacted","Kevan","29 Aug 2023  17:30:24",30,6,217
+"Who Goes There?","Kevan","28 Aug  2023 12:07:00","Enacted","Kevan","29 Aug 2023  17:31:18",29,4,217
+"Convection","Josh","28 Aug  2023 14:52:00","Enacted","Kevan","29 Aug 2023  17:32:17",26,4,217
+"Midnight Sun","Kevan","29 Aug  2023 13:16:00","Enacted","Kevan","30 Aug 2023  08:10:24",18,5,217
+"Going Once, Going Twice","lendunistus","29 Aug  2023 16:25:00","Failed","Kevan","30 Aug 2023  08:11:22",15,6,217
+"[Appendix][Core] Let’s Talk Privately","JonathanDark","29 Aug  2023 17:49:00","Failed","Kevan","30 Aug 2023  12:16:01",18,9,217
+"Gone Conclavin’","Josh","30 Aug  2023 08:42:00","Failed","Josh","01 Sep 2023  08:43:01",48,8,217
+"Name Badges [Appendix]","Kevan","30 Aug  2023 09:05:00","Failed","Josh","01 Sep 2023  08:46:45",47,17,217
+"Private Eye","Josh","30 Aug  2023 12:36:00","Enacted","Josh","01 Sep 2023  08:47:36",44,10,217
+"The Bare Minimum","JonathanDark","31 Aug  2023 06:14:00","Failed","Josh","01 Sep 2023  08:48:32",26,6,217
+"The Bare Minimum Revisited","JonathanDark","31 Aug  2023 12:57:00","Failed","Kevan","02 Sep 2023  14:35:08",49,4,217
+"What’s Done Is Done","Kevan","01 Sep  2023 11:53:00","Enacted","Kevan","02 Sep 2023  14:37:14",26,3,217
+"Barbarians at the Gates","Josh","03 Sep  2023 10:27:00","Failed","Josh","04 Sep 2023  12:51:40",26,4,217
