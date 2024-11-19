@@ -7,7 +7,7 @@ $allplayers = array();
 
 print "Month,Active Players,New Players,Proposals,Names\n";
 
-while ($year<2021)
+while ($year<date("Y") || $month < date("n")+1)
 {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, "https://blognomic.com/$year/".sprintf('%02d', $month)."/");
