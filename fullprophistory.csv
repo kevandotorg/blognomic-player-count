@@ -14743,3 +14743,799 @@ title,proposer,postedDate,status,admin,closedDate,lifespan,comments,dynasty
 "The Bare Minimum Revisited","JonathanDark","31 Aug  2023 12:57:00","Failed","Kevan","02 Sep 2023  14:35:08",49,4,217
 "What’s Done Is Done","Kevan","01 Sep  2023 11:53:00","Enacted","Kevan","02 Sep 2023  14:37:14",26,3,217
 "Barbarians at the Gates","Josh","03 Sep  2023 10:27:00","Failed","Josh","04 Sep 2023  12:51:40",26,4,217
+"The Book Is Open","Josh","04 Sep  2023 12:34:00","Enacted","Kevan","05 Sep 2023  07:51:18",19,5,218
+"Nomich World Cup","Josh","04 Sep  2023 12:50:00","Enacted","Kevan","06 Sep 2023  08:08:40",43,7,218
+"The House Always Wins","Kevan","04 Sep  2023 14:10:00","Enacted","Kevan","06 Sep 2023  08:11:19",42,5,218
+"Taking a Dive","Kevan","04 Sep  2023 14:29:00","Enacted","Kevan","06 Sep 2023  08:36:03",42,6,218
+"The Best Better is Obviously Better than You","JonathanDark","04 Sep  2023 16:51:00","Enacted","Kevan","06 Sep 2023  08:37:44",39,5,218
+"May The Odds Be Ever In Your Favor","JonathanDark","04 Sep  2023 17:42:00","Enacted","Kevan","06 Sep 2023  08:41:50",38,5,218
+"If It Looks Like A Duck [Special Case]","Kevan","06 Sep  2023 08:28:00","Enacted","Kevan","07 Sep 2023  08:26:51",23,5,218
+"Back to the Arena","Josh","06 Sep  2023 09:28:00","Enacted","Kevan","08 Sep 2023  11:05:33",49,5,218
+"Follow the Sfida","Kevan","06 Sep  2023 12:12:00","Enacted","Kevan","08 Sep 2023  11:04:55",46,3,218
+"Once More Onto the Pitch","JonathanDark","06 Sep  2023 13:50:00","Enacted","Kevan","08 Sep 2023  14:27:45",48,5,218
+"Proposal: The Bestest Better is Obviously Betterer Than You 2","Rafter","06 Sep  2023 14:16:00","Illegal","Kevan","06 Sep 2023  16:14:13",1,1,218
+"Playing the Odds","JonathanDark","06 Sep  2023 15:13:00","Enacted","Josh","08 Sep 2023  17:50:13",50,5,218
+"No Crying","Josh","07 Sep  2023 08:32:00","Enacted","Josh","08 Sep 2023  17:52:58",33,3,218
+"A Turn of the Heel","JonathanDark","08 Sep  2023 14:40:00","Enacted","Kevan","11 Sep 2023  10:11:57",67,5,218
+"Sabremetrics","Josh","08 Sep  2023 17:48:00","Enacted","Josh","11 Sep 2023  15:37:13",69,5,218
+"The ₩1m Question","Josh","08 Sep  2023 18:25:00","Enacted","Josh","11 Sep 2023  15:40:59",69,4,218
+"Peter Piper Picked a Peck of Pickled Participants","JonathanDark","09 Sep  2023 06:14:00","Enacted","Josh","11 Sep 2023  15:42:27",57,3,218
+"Shell Game","Kevan","09 Sep  2023 10:35:00","Enacted","Josh","11 Sep 2023  15:45:47",53,4,218
+"Boxing (not that kind)","Lulu","09 Sep  2023 17:42:00","Enacted","Josh","11 Sep 2023  20:53:19",51,8,218
+"ESBN","Kevan","09 Sep  2023 18:25:00","Enacted","Josh","11 Sep 2023  20:54:13",50,6,218
+"Edge","Josh","11 Sep  2023 16:02:00","Enacted","Josh","13 Sep 2023  16:54:18",48,9,218
+"Chaining the Grimoire","Kevan","11 Sep  2023 16:42:00","Enacted","Josh","13 Sep 2023  16:57:48",48,4,218
+"Tomorrow’s proposals will be mechanical","Josh","11 Sep  2023 18:21:00","Enacted","Josh","13 Sep 2023  16:58:29",46,4,218
+"Place Your Bets!","JonathanDark","11 Sep  2023 21:32:00","Enacted","Josh","13 Sep 2023  17:00:59",43,4,218
+"I’ll Gladly Pay You Tuesday","JonathanDark","12 Sep  2023 05:38:00","Failed","Josh","13 Sep 2023  17:02:03",35,13,218
+"Proper Branding","Bucky","12 Sep  2023 18:59:00","Enacted","Josh","13 Sep 2023  17:02:54",22,5,218
+"Filling In the Timing Gaps","Bucky","13 Sep  2023 00:57:00","Enacted","Kevan","14 Sep 2023  13:23:23",36,4,218
+"A small loan of a million Readies [Special Case]","Lulu","13 Sep  2023 01:22:00","Enacted","Kevan","14 Sep 2023  13:24:38",36,7,218
+"Better Betting Bureau","Josh","13 Sep  2023 17:25:00","Enacted","Josh","16 Sep 2023  09:55:38",64,17,218
+"Approved Proposition Only","Bucky","13 Sep  2023 20:17:00","Enacted","Josh","16 Sep 2023  15:24:13",67,6,218
+"The Last One","JonathanDark","14 Sep  2023 13:08:00","Enacted","Kevan","16 Sep 2023  16:59:01",51,4,218
+"Sporting Tweaks","Bucky","14 Sep  2023 15:50:00","Enacted","?","16 Sep 2023  19:15:47",51,5,218
+"Peering Through the Window","Bucky","16 Sep  2023 15:53:00","Failed","Kevan","17 Sep 2023  17:47:14",25,3,218
+"Emergency Repairs","Bucky","16 Sep  2023 19:48:00","Enacted","Bucky","18 Sep 2023  00:22:12",28,4,218
+"Insignificant Bets","Bucky","17 Sep  2023 23:51:00","Enacted","Bucky","18 Sep 2023  22:08:20",22,4,218
+"Yellow Card","Kevan","18 Sep  2023 12:21:00","Enacted","Kevan","19 Sep 2023  13:59:18",25,12,218
+"Draw Aware Gliotti Odds","Bucky","18 Sep  2023 21:46:00","Enacted","Bucky","20 Sep 2023  21:56:55",48,4,218
+"Meddling Quids","Kevan","19 Sep  2023 08:30:00","Enacted","Kevan","21 Sep 2023  08:10:47",47,7,218
+"Closing the Box","Josh","19 Sep  2023 08:36:00","Enacted","?","21 Sep 2023  22:11:55",61,14,218
+"No-one is buying a ticket to see Burt punch Alice","Josh","22 Sep  2023 08:27:00","Enacted","Kevan","23 Sep 2023  09:46:54",25,7,218
+"What’s Past is Prologue","JonathanDark","22 Sep  2023 13:17:00","Enacted","?","24 Sep 2023  05:32:10",40,9,218
+"My Kingdom for a Space","JonathanDark","22 Sep  2023 21:49:00","Enacted","?","24 Sep 2023  05:34:53",31,3,218
+"Tote Exacta","Josh","23 Sep  2023 08:49:00","Enacted","Kevan","25 Sep 2023  10:27:20",49,2,218
+"Mary’s Toaster","Kevan","23 Sep  2023 09:52:00","Failed","Kevan","25 Sep 2023  10:29:12",48,4,218
+"Giving the Slip","Kevan","23 Sep  2023 11:42:00","Enacted","?","25 Sep 2023  13:07:45",49,8,218
+"Private Eyes","Bucky","23 Sep  2023 20:04:00","Failed","?","25 Sep 2023  21:26:36",49,7,218
+"Fine Print","Kevan","25 Sep  2023 10:33:00","Enacted","Bucky","27 Sep 2023  02:42:10",40,6,218
+"Let Josh Have His Fun","Bucky","26 Sep  2023 04:30:00","Failed","Bucky","27 Sep 2023  02:43:06",22,5,218
+"Nomich plus Nomic","Bucky","26 Sep  2023 04:34:00","Failed","Kevan","27 Sep 2023  08:13:47",27,11,218
+"UBI","Clucky","26 Sep  2023 17:41:00","Failed","Josh","28 Sep 2023  09:10:25",39,10,218
+"Eyes on the Prize","Clucky","26 Sep  2023 17:59:00","Failed","Josh","28 Sep 2023  09:14:50",39,6,218
+"This Time Next Year We’ll Be Millionaires","Josh","26 Sep  2023 20:46:00","Enacted","Josh","28 Sep 2023  09:15:43",36,7,218
+"Track Ratio","Bucky","27 Sep  2023 04:20:00","Failed","?","29 Sep 2023  05:51:01",49,6,218
+"Misc fixes","Josh","27 Sep  2023 08:29:00","Enacted","Josh","29 Sep 2023  08:57:51",48,5,218
+"Oddities of Odds","JonathanDark","27 Sep  2023 12:47:00","Failed","Josh","29 Sep 2023  08:59:21",44,15,218
+"Mary’s Scarf","Kevan","27 Sep  2023 16:36:00","Enacted","Josh","29 Sep 2023  08:59:58",40,4,218
+"Bet Limit","Bucky","27 Sep  2023 21:34:00","Enacted","Josh","29 Sep 2023  09:01:13",35,4,218
+"Test Your Meddle","Josh","28 Sep  2023 09:21:00","Enacted","Josh","29 Sep 2023  09:02:19",23,4,218
+"Formula 1, Formula 2, etc.","JonathanDark","28 Sep  2023 13:11:00","Failed","?","29 Sep 2023  23:56:04",34,8,218
+"Odds On Favorite","Clucky","28 Sep  2023 16:16:00","Failed","Josh","30 Sep 2023  17:59:11",49,7,218
+"Double the Pleasure","Clucky","28 Sep  2023 16:43:00","Enacted","?","01 Oct 2023  09:51:54",65,7,218
+"More Odds Oddities","JonathanDark","29 Sep  2023 13:08:00","Enacted","Josh","01 Oct 2023  09:59:06",44,13,218
+"Closed Fist","Josh","29 Sep  2023 16:25:00","Enacted","Josh","01 Oct 2023  10:14:38",41,4,218
+"Odds Fixer","JonathanDark","01 Oct  2023 06:44:00","Enacted","Josh","03 Oct 2023  08:52:22",50,2,218
+"This One Has Potential","JonathanDark","01 Oct  2023 15:57:00","Failed","Josh","03 Oct 2023  08:55:50",40,15,218
+"Back Room BBQ","Clucky","01 Oct  2023 18:17:00","Failed","Josh","03 Oct 2023  20:59:35",50,9,218
+"Acca cadabra","Josh","01 Oct  2023 19:38:00","Enacted","Josh","03 Oct 2023  21:00:07",49,19,218
+"Meddle Me This","Clucky","02 Oct  2023 17:01:00","Enacted","Josh","03 Oct 2023  21:01:19",28,5,218
+"Sounder Math","Bucky","02 Oct  2023 23:32:00","Failed","Josh","03 Oct 2023  21:02:15",21,4,218
+"Compounding Problems","JonathanDark","03 Oct  2023 12:51:00","Failed","?","05 Oct 2023  22:51:15",58,9,218
+"Resolving Resolutions","Clucky","03 Oct  2023 21:31:00","Enacted","?","05 Oct 2023  22:55:43",49,11,218
+"Ombudsman","Josh","04 Oct  2023 08:54:00","Enacted","Josh","06 Oct 2023  14:30:53",53,3,218
+"Environmental Tampering","Bucky","05 Oct  2023 21:18:00","Enacted","Clucky","07 Oct 2023  00:08:24",26,5,218
+"Seems Kinda Sus","Clucky","06 Oct  2023 23:44:00","Failed","Bucky","09 Oct 2023  03:18:23",51,7,218
+"Tiny Tamper","Josh","07 Oct  2023 15:32:00","Enacted","Josh","09 Oct 2023  18:03:43",50,3,218
+"Hi, Bernation","Josh","09 Oct  2023 13:27:00","Enacted","Josh","11 Oct 2023  09:58:57",44,5,218
+"Acca Over Easy","Clucky","09 Oct  2023 16:57:00","Enacted","Bucky","11 Oct 2023  19:19:43",50,4,218
+"Holistic Accazations","Bucky","09 Oct  2023 18:12:00","Failed","Clucky","11 Oct 2023  21:18:02",51,4,218
+"Take the Money and Run","Clucky","09 Oct  2023 20:49:00","Enacted","?","12 Oct 2023  05:10:31",56,5,218
+"Skin in the Game","JonathanDark","10 Oct  2023 22:45:00","Failed","Clucky","12 Oct 2023  20:11:58",45,4,218
+"Elite sports investigators are not free","Josh","12 Oct  2023 06:14:00","Enacted","Kevan","13 Oct 2023  08:33:43",26,6,218
+"Yer A Wizard, ‘Arry","Clucky","15 Oct  2023 05:52:00","Enacted","Clucky","15 Oct 2023  19:43:29",13,10,218
+"Spells Are Fun! So Much Fun!","Clucky","15 Oct  2023 06:01:00","Enacted","?","16 Oct 2023  06:20:06",24,6,218
+"All In","Kevan","15 Oct  2023 11:03:00","Enacted","?","16 Oct 2023  06:36:42",19,14,218
+"Defense Against the Dark Arts","JonathanDark","15 Oct  2023 18:26:00","Enacted","Clucky","16 Oct 2023  16:36:01",22,10,218
+"Negative Energy","JonathanDark","15 Oct  2023 18:35:00","Enacted","Clucky","16 Oct 2023  16:37:01",22,8,218
+"Nothing Up My Sleeve","Kevan","15 Oct  2023 19:00:00","Enacted","?","16 Oct 2023  16:42:17",21,7,218
+"Wizard Teamwork makes the Wizards Dreams Work","Clucky","15 Oct  2023 19:43:00","Failed","Clucky","17 Oct 2023  02:41:54",30,9,218
+"Spell Economy","Zack","15 Oct  2023 20:35:00","Enacted","Clucky","17 Oct 2023  02:44:46",30,9,218
+"Between stimulus and response","Josh","16 Oct  2023 08:50:00","Enacted","Clucky","17 Oct 2023  03:19:29",18,6,218
+"James Dean Daydream","Clucky","16 Oct  2023 16:41:00","Enacted","?","17 Oct 2023  13:09:51",20,9,218
+"Out of Chaos comes Order","JonathanDark","16 Oct  2023 16:49:00","Failed","?","17 Oct 2023  13:13:09",20,19,218
+"Sniper No Sniping","Clucky","17 Oct  2023 02:45:00","Enacted","?","17 Oct 2023  17:17:47",14,8,218
+"And the Crowd Goes Wild","JonathanDark","17 Oct  2023 06:32:00","Enacted","?","17 Oct 2023  20:44:25",14,6,218
+"Pedantry","Josh","17 Oct  2023 08:23:00","Failed","Kevan","18 Oct 2023  07:45:58",23,16,218
+"Cleanup on Aisle 3","Clucky","17 Oct  2023 16:45:00","Enacted","?","18 Oct 2023  15:29:46",22,17,218
+"You want thingamabobs?","Brendan","17 Oct  2023 17:53:00","Enacted","?","18 Oct 2023  15:34:16",21,10,218
+"Are You Feeling What I’m Feeling?","JonathanDark","17 Oct  2023 18:18:00","Enacted","?","18 Oct 2023  22:02:10",27,13,218
+"Whatcha Gonna Do ‘Bout It?","Clucky","17 Oct  2023 18:34:00","Failed","?","18 Oct 2023  22:17:21",27,11,218
+"Free hats!","Brendan","18 Oct  2023 04:07:00","Failed","Brendan","19 Oct 2023  15:40:46",35,14,218
+"Fashion is my Passion","Snisbo","18 Oct  2023 06:30:00","Enacted","Brendan","19 Oct 2023  15:55:02",33,8,218
+"Thisdirection","Kevan","18 Oct  2023 07:40:00","Enacted","Brendan","19 Oct 2023  16:11:40",32,7,218
+"Abracadabra","Kevan","18 Oct  2023 08:32:00","Failed","?","19 Oct 2023  16:36:32",32,10,218
+"The Need for Speed","JonathanDark","18 Oct  2023 12:53:00","Enacted","?","19 Oct 2023  16:43:41",27,8,218
+"Gewgaw Power!","Clucky","18 Oct  2023 16:02:00","Failed","?","19 Oct 2023  22:38:08",30,6,218
+"Protection","Raven1207","18 Oct  2023 19:59:00","Enacted","?","19 Oct 2023  23:26:30",27,16,218
+"Wizard teamwork makes the etc etc","Brendan","19 Oct  2023 00:32:00","Failed","Brendan","20 Oct 2023  16:00:58",39,6,218
+"Self Balancing Spell List","Clucky","19 Oct  2023 03:43:00","Enacted","Brendan","20 Oct 2023  16:05:18",36,7,218
+"Leaving Your Mark","JonathanDark","19 Oct  2023 13:20:00","Failed","?","20 Oct 2023  18:20:58",29,7,218
+"Minor Magical Mendings","JonathanDark","19 Oct  2023 17:31:00","Enacted","Clucky","20 Oct 2023  19:30:54",25,5,218
+"Dressed For Success","Clucky","19 Oct  2023 22:39:00","Enacted","?","20 Oct 2023  22:27:27",23,5,218
+"Free Hats!!","Brendan","20 Oct  2023 01:01:00","Failed","?","21 Oct 2023  00:46:12",23,7,218
+"Artefacts Nouveau","Kevan","20 Oct  2023 09:29:00","Enacted","?","21 Oct 2023  00:47:28",15,6,218
+"Slower and Steadier","Brendan","20 Oct  2023 17:07:00","Enacted","?","21 Oct 2023  20:17:57",27,22,218
+"Trend Setters","JonathanDark","20 Oct  2023 18:45:00","Failed","?","21 Oct 2023  20:25:37",25,7,218
+"More Random Fixes","Clucky","20 Oct  2023 19:16:00","Enacted","Clucky","23 Oct 2023  04:21:15",57,12,218
+"Free!! Hats!!!!","Brendan","21 Oct  2023 13:33:00","Failed","Kevan","23 Oct 2023  08:18:17",42,8,218
+"Hatterday Night Feaver","Clucky","21 Oct  2023 18:22:00","Enacted","Kevan","23 Oct 2023  08:21:14",37,6,218
+"A Unique Snowflake","JonathanDark","21 Oct  2023 21:10:00","Enacted","?","23 Oct 2023  17:54:54",44,11,218
+"Sidereal Drift","Kevan","22 Oct  2023 10:36:00","Enacted","Kevan","24 Oct 2023  09:17:34",46,17,218
+"Guilded Age","Zack","22 Oct  2023 15:27:00","Failed","Kevan","24 Oct 2023  09:46:25",42,16,218
+"[Appendix] Flair","Zack","22 Oct  2023 21:44:00","Failed","?","24 Oct 2023  23:14:45",49,17,218
+"Rituals","Brendan","23 Oct  2023 03:59:00","Failed","?","24 Oct 2023  23:18:00",43,11,218
+"Less weaponized idling [Special Case]","Brendan","23 Oct  2023 16:37:00","Failed","?","24 Oct 2023  23:19:52",30,32,218
+"Crystal Kingdom","Clucky","23 Oct  2023 19:04:00","Failed","Bucky","25 Oct 2023  19:39:54",48,10,218
+"Weather War","Bucky","23 Oct  2023 20:08:00","Enacted","?","25 Oct 2023  20:24:46",48,10,218
+"Moving Frame of Refrence","Clucky","23 Oct  2023 20:51:00","Enacted","?","25 Oct 2023  20:29:35",47,9,218
+"This Round’s Banned Spell Is…","Bucky","24 Oct  2023 02:32:00","Enacted","?","25 Oct 2023  20:31:31",41,7,218
+"Myers and Briggs Wizard Sorting System","JonathanDark","24 Oct  2023 12:42:00","Enacted","?","25 Oct 2023  20:33:49",31,10,218
+"Unban list","Snisbo","24 Oct  2023 17:42:00","Failed","?","26 Oct 2023  18:31:49",48,14,218
+"[Core] A Polite Knock","JonathanDark","24 Oct  2023 19:13:00","Failed","?","26 Oct 2023  18:32:32",47,8,218
+"The Other Hand","Kevan","25 Oct  2023 11:11:00","Enacted","?","26 Oct 2023  18:33:29",31,6,218
+"Single Unban","Bucky","25 Oct  2023 23:01:00","Enacted","?","26 Oct 2023  18:36:51",19,4,218
+"Greed is Too Good","JonathanDark","26 Oct  2023 01:55:00","Enacted","?","26 Oct 2023  18:38:40",16,9,218
+"Whats your number?","Clucky","26 Oct  2023 15:52:00","Enacted","Kevan","27 Oct 2023  12:10:56",20,7,218
+"Armorrific","Clucky","26 Oct  2023 15:56:00","Enacted","Kevan","27 Oct 2023  12:19:05",20,4,218
+"Tome Improvements [Appendix]","Kevan","26 Oct  2023 17:03:00","Enacted","?","28 Oct 2023  21:08:18",52,5,218
+"Star Skimming","Kevan","27 Oct  2023 08:28:00","Enacted","?","28 Oct 2023  21:14:14",36,6,218
+"Birds of a Feather","JonathanDark","27 Oct  2023 12:42:00","Failed","Bucky","29 Oct 2023  04:05:03",39,6,218
+"Synergy Improvements","Bucky","28 Oct  2023 17:35:00","Enacted","Kevan","30 Oct 2023  09:46:46",40,5,218
+"High Achiever","JonathanDark","29 Oct  2023 07:26:00","Failed","Kevan","30 Oct 2023  09:49:32",26,8,218
+"It’s Too You","Bucky","29 Oct  2023 22:35:00","Enacted","?","01 Nov 2023  06:48:14",56,5,218
+"Top of the Class","JonathanDark","30 Oct  2023 06:45:00","Enacted","?","01 Nov 2023  06:50:44",48,9,218
+"Garment Catch-Up","Bucky","30 Oct  2023 23:13:00","Failed","Bucky","01 Nov 2023  22:23:06",47,6,218
+"Hermetic Order","Kevan","31 Oct  2023 09:39:00","Enacted","?","01 Nov 2023  23:49:45",38,9,218
+"Wishlist","Clucky","31 Oct  2023 16:52:00","Failed","?","02 Nov 2023  17:07:14",48,8,218
+"Mirror Mirror on the Wall","JonathanDark","31 Oct  2023 18:03:00","Failed","?","02 Nov 2023  17:08:35",47,9,218
+"Stay Fresh!","Clucky","01 Nov  2023 00:05:00","Failed","?","03 Nov 2023  01:35:28",49,7,218
+"Get It Sorted","JonathanDark","01 Nov  2023 06:56:00","Enacted","?","03 Nov 2023  01:36:28",42,6,218
+"Special Wizards And Tactics Team","lendunistus","01 Nov  2023 16:32:00","Enacted","?","03 Nov 2023  15:11:08",46,12,218
+"Like Clockwork","Clucky","02 Nov  2023 18:56:00","Enacted","?","04 Nov 2023  19:10:31",48,10,218
+"Fashion Makeover","JonathanDark","03 Nov  2023 05:49:00","Enacted","Clucky","05 Nov 2023  03:38:02",45,4,218
+"Specialty Shop","JonathanDark","03 Nov  2023 06:30:00","Failed","?","05 Nov 2023  07:18:07",48,11,218
+"Triangle of Magic","Clucky","03 Nov  2023 17:57:00","Enacted","Clucky","05 Nov 2023  18:20:15",48,5,218
+"Synergisitic","Clucky","04 Nov  2023 19:14:00","Enacted","?","06 Nov 2023  23:31:46",52,8,218
+"The Back Room of the Clothier","JonathanDark","05 Nov  2023 06:18:00","Enacted","Clucky","07 Nov 2023  06:59:39",48,8,218
+"The Hard Stuff","JonathanDark","05 Nov  2023 06:22:00","Failed","Clucky","07 Nov 2023  07:00:41",48,9,218
+"We Can’t Slack Off Again","lendunistus","05 Nov  2023 08:15:00","Failed","Bucky","07 Nov 2023  14:54:23",54,8,218
+"Unlocked!","Clucky","05 Nov  2023 18:21:00","Enacted","?","07 Nov 2023  19:04:26",48,6,218
+"Tome Maintenance","Zack","05 Nov  2023 22:15:00","Failed","?","07 Nov 2023  22:21:53",48,13,218
+"Immutability [Appendix]","Zack","06 Nov  2023 20:15:00","Failed","?","09 Nov 2023  00:23:01",52,6,218
+"A Fork in the Road","JonathanDark","07 Nov  2023 14:12:00","Enacted","Kevan","09 Nov 2023  15:51:25",49,7,218
+"Charging My Lazers","Clucky","07 Nov  2023 18:26:00","Failed","?","10 Nov 2023  01:13:00",54,13,218
+"Criteria are not Effects","Bucky","08 Nov  2023 23:36:00","Failed","Kevan","11 Nov 2023  08:15:14",56,9,218
+"A Wizard is Never Late","Kevan","09 Nov  2023 15:38:00","Enacted","?","12 Nov 2023  06:30:33",62,12,218
+"The Sniper’s Dream","Kevan","11 Nov  2023 08:16:00","Enacted","Kevan","12 Nov 2023  19:07:43",34,6,218
+"Like Sands Through the Hourglass","JonathanDark","12 Nov  2023 06:54:00","Failed","?","13 Nov 2023  15:23:58",32,7,218
+"Meditation","Zack","12 Nov  2023 23:24:00","Enacted","Kevan","13 Nov 2023  17:13:29",17,10,218
+"Burnout","Kevan","13 Nov  2023 14:53:00","Failed","?","15 Nov 2023  15:56:32",49,12,218
+"Big Battel Teim","Clucky","13 Nov  2023 18:09:00","Failed","?","15 Nov 2023  15:58:24",45,9,218
+"TV Highlights","Bucky","14 Nov  2023 03:09:00","Enacted","?","15 Nov 2023  15:59:24",36,11,218
+"Cost Benefit Analysis","Clucky","14 Nov  2023 23:05:00","Enacted","?","17 Nov 2023  00:01:39",48,4,218
+"More Achievements!","Clucky","15 Nov  2023 20:19:00","Enacted","Clucky","18 Nov 2023  01:05:43",52,6,218
+"Financial Independence","lendunistus","16 Nov  2023 14:07:00","Failed","Clucky","18 Nov 2023  01:17:34",35,13,218
+"Prismatic Puddle","Kevan","16 Nov  2023 14:52:00","Enacted","Clucky","18 Nov 2023  01:18:06",34,5,218
+"2x Emote Multiplier","Bucky","16 Nov  2023 20:42:00","Enacted","Kevan","18 Nov 2023  10:08:45",37,8,218
+"A Charming Period Piece","Clucky","18 Nov  2023 01:33:00","Enacted","Clucky","19 Nov 2023  19:58:19",42,5,218
+"The Core of Tracking [Core] [Special Case]","lendunistus","18 Nov  2023 08:16:00","Enacted","Kevan","20 Nov 2023  16:13:22",55,10,218
+"Special Styles Need Special Treatment","lendunistus","18 Nov  2023 08:27:00","Enacted","Kevan","20 Nov 2023  16:15:08",55,7,218
+"Clean Sweep","Kevan","19 Nov  2023 14:02:00","Failed","Kevan","22 Nov 2023  13:39:39",71,11,218
+"No Final Battle","Clucky","19 Nov  2023 19:58:00","Enacted","Kevan","22 Nov 2023  13:40:34",65,6,218
+"Tuning Fork","Kevan","20 Nov  2023 17:45:00","Enacted","Kevan","22 Nov 2023  15:38:09",45,7,218
+"Whiteout","lendunistus","22 Nov  2023 20:03:00","Enacted","Kevan","24 Nov 2023  20:04:45",48,13,218
+"Speak Friend And Enter [Core]","Kevan","23 Nov  2023 09:59:00","Enacted","Kevan","25 Nov 2023  19:13:51",57,7,218
+"Losing Strategy","JonathanDark","24 Nov  2023 21:31:00","Vetoed","Kevan","27 Nov 2023  18:27:46",68,11,218
+"Rules of Succession","Vovix","27 Nov  2023 18:31:00","Enacted","Kevan","28 Nov 2023  08:56:04",14,13,218
+"Primogeniture","Vovix","27 Nov  2023 18:33:00","Enacted","Kevan","28 Nov 2023  09:04:36",14,13,218
+"Any claim is better than no claim","Bucky","27 Nov  2023 18:46:00","Failed","Kevan","28 Nov 2023  18:06:49",23,16,218
+"Thou Who They Is Maidenless Shalt Not Proceed","lendunistus","27 Nov  2023 19:39:00","Failed","Kevan","28 Nov 2023  18:07:44",22,17,218
+"King Alan the First","Kevan","27 Nov  2023 20:15:00","Enacted","Josh","29 Nov 2023  20:39:40",48,15,218
+"A Stain Upon Your Honour","SingularByte","27 Nov  2023 20:37:00","Enacted","Josh","29 Nov 2023  20:41:27",48,29,218
+"Drama of Documents","4st","27 Nov  2023 20:58:00","Failed","Josh","29 Nov 2023  21:17:00",48,15,218
+"A prince must always seem to be very moral, even if he is not","Josh","28 Nov  2023 10:36:00","Enacted","Josh","29 Nov 2023  21:17:42",34,13,218
+"Perishable","Kevan","28 Nov  2023 13:52:00","Enacted","Josh","29 Nov 2023  21:23:08",31,7,218
+"Maybe They’re Born With It","JonathanDark","28 Nov  2023 13:56:00","Failed","Josh","29 Nov 2023  21:24:13",31,3,218
+"That Was Then, This Is Now","SingularByte","28 Nov  2023 18:36:00","Enacted","Josh","29 Nov 2023  21:25:34",26,10,218
+"Common Ground","Clucky","28 Nov  2023 23:12:00","Enacted","SingularByte","01 Dec 2023  08:07:43",56,13,218
+"Challenging Times","JonathanDark","29 Nov  2023 13:50:00","Failed","?","01 Dec 2023  14:12:35",48,17,218
+"Black Rod","Josh","29 Nov  2023 14:51:00","Enacted","?","01 Dec 2023  15:49:06",48,25,218
+"Thou Is Spouseless","lendunistus","29 Nov  2023 16:42:00","Enacted","Josh","01 Dec 2023  16:50:25",48,9,218
+"Claim to Fame","Clucky","29 Nov  2023 21:11:00","Failed","Josh","01 Dec 2023  16:55:55",43,3,218
+"Less Urgent Required Reading","SingularByte","30 Nov  2023 08:05:00","Enacted","?","01 Dec 2023  21:40:53",37,12,218
+"A Persuasive Argument","SingularByte","30 Nov  2023 09:59:00","Failed","?","01 Dec 2023  21:43:00",35,8,218
+"Stepping Aside","Kevan","30 Nov  2023 11:00:00","Enacted","Kevan","02 Dec 2023  16:26:51",53,7,218
+"Real Estate","Kevan","30 Nov  2023 11:12:00","Enacted","Kevan","02 Dec 2023  16:29:29",53,5,218
+"Influencers","JonathanDark","30 Nov  2023 13:59:00","Enacted","Kevan","02 Dec 2023  16:38:35",50,4,218
+"Imperial Style","Josh","01 Dec  2023 16:25:00","Enacted","Kevan","02 Dec 2023  16:42:21",24,7,218
+"Shoving Aside","Clucky","01 Dec  2023 17:46:00","Failed","?","03 Dec 2023  19:56:08",50,13,218
+"Reputation Trap","Clucky","01 Dec  2023 18:09:00","Enacted","?","03 Dec 2023  20:00:28",49,7,218
+"Arranged Marriage","JonathanDark","02 Dec  2023 17:31:00","Failed","?","04 Dec 2023  18:23:58",48,13,218
+"Domesday","Kevan","03 Dec  2023 12:49:00","Enacted","Kevan","04 Dec 2023  20:23:16",31,10,218
+"Jumping Straight into Marriage","SingularByte","03 Dec  2023 14:08:00","Enacted","?","04 Dec 2023  20:47:32",30,11,218
+"An Introduction","SingularByte","03 Dec  2023 14:09:00","Enacted","?","04 Dec 2023  20:54:22",30,8,218
+"Tempus Fugit","Josh","03 Dec  2023 16:26:00","Failed","Josh","05 Dec 2023  16:36:08",48,19,218
+"Dead men have no claims","Desertfrog","03 Dec  2023 17:00:00","Failed","Kevan","05 Dec 2023  17:08:45",48,9,218
+"Claimato","Josh","03 Dec  2023 18:38:00","Enacted","?","05 Dec 2023  19:51:37",49,9,218
+"The Unknown Birthday","Kevan","04 Dec  2023 13:34:00","Enacted","?","05 Dec 2023  23:06:02",33,6,218
+"As I Lay Dying","JonathanDark","04 Dec  2023 13:56:00","Failed","?","05 Dec 2023  23:07:50",33,20,218
+"A modest proposal","Clucky","04 Dec  2023 17:41:00","Enacted","?","05 Dec 2023  23:09:16",29,6,218
+"Estate Planning","Clucky","04 Dec  2023 20:21:00","Enacted","?","06 Dec 2023  22:33:53",50,12,218
+"Constitutional Cleanup","Zack","04 Dec  2023 22:29:00","Enacted","?","06 Dec 2023  22:40:55",48,9,218
+"Anon And On","Kevan","05 Dec  2023 11:34:00","Enacted","Kevan","07 Dec 2023  13:44:48",50,14,218
+"Uneasy Lies the Head that Wears a Crown","JonathanDark","05 Dec  2023 13:54:00","Enacted","Kevan","07 Dec 2023  13:46:49",47,7,218
+"Crime and Punishment","Desertfrog","05 Dec  2023 13:55:00","Enacted","?","07 Dec 2023  16:18:49",50,8,218
+"Detangling the Tyngwall","Clucky","06 Dec  2023 00:47:00","Enacted","?","08 Dec 2023  04:45:31",51,7,218
+"Promoting Democracy","Desertfrog","06 Dec  2023 11:21:00","Enacted","Kevan","08 Dec 2023  12:21:56",49,6,218
+"Expanding the Sphere of Influence","JonathanDark","06 Dec  2023 13:56:00","Enacted","?","08 Dec 2023  14:05:13",48,8,218
+"The Debate Escalates","Desertfrog","06 Dec  2023 14:53:00","Illegal","Kevan","07 Dec 2023  16:14:01",25,8,218
+"Build Back Better","Clucky","07 Dec  2023 01:06:00","Enacted","Clucky","09 Dec 2023  01:32:28",48,8,218
+"Advanced Blueprints","SingularByte","07 Dec  2023 07:26:00","Failed","?","09 Dec 2023  20:15:31",60,11,218
+"Forgotten Duchies","SingularByte","07 Dec  2023 08:31:00","Enacted","?","09 Dec 2023  20:17:17",59,7,218
+"What News?","Kevan","07 Dec  2023 09:38:00","Failed","?","10 Dec 2023  05:21:49",67,6,218
+"Patching a Hole in the Tyngwall","JonathanDark","08 Dec  2023 04:34:00","Enacted","?","10 Dec 2023  05:23:09",48,3,218
+"Always Aging","Clucky","08 Dec  2023 06:18:00","Failed","SingularByte","10 Dec 2023  09:00:49",50,13,218
+"Nameless Drones","Clucky","09 Dec  2023 01:33:00","Enacted","Kevan","10 Dec 2023  14:15:26",36,4,218
+"Right On Schedule","JonathanDark","09 Dec  2023 07:29:00","Enacted","SingularByte","11 Dec 2023  11:57:02",52,7,218
+"Yesterday’s News","Kevan","10 Dec  2023 14:10:00","Failed","Kevan","11 Dec 2023  15:25:25",25,3,218
+"Tomorrow’s News","Clucky","10 Dec  2023 19:52:00","Enacted","Kevan","11 Dec 2023  15:29:05",19,5,218
+"Benefit Increase","Clucky","10 Dec  2023 19:58:00","Failed","?","13 Dec 2023  01:02:22",53,9,218
+"Recovered Blueprints","SingularByte","11 Dec  2023 12:05:00","Failed","Kevan","13 Dec 2023  08:48:24",44,10,218
+"What, The Curtains?","Kevan","11 Dec  2023 15:34:00","Enacted","Kevan","13 Dec 2023  08:49:17",41,4,218
+"Speeding Things Up","Clucky","11 Dec  2023 20:17:00","Enacted","?","13 Dec 2023  21:34:53",49,10,218
+"One Heir, One Vote","JonathanDark","11 Dec  2023 21:21:00","Enacted","?","13 Dec 2023  21:39:16",48,4,218
+"Finding the Time for Tygnwall","JonathanDark","12 Dec  2023 14:10:00","Enacted","?","14 Dec 2023  16:09:50",49,5,218
+"Beautification Project","Clucky","13 Dec  2023 17:23:00","Failed","?","15 Dec 2023  18:15:57",48,10,218
+"Reputable Subterfuge","JonathanDark","13 Dec  2023 21:45:00","Enacted","?","15 Dec 2023  22:03:52",48,4,218
+"I’ll Be Dead For Christmas","Clucky","14 Dec  2023 06:34:00","Failed","?","16 Dec 2023  06:47:29",48,8,218
+"Name of the Father","Kevan","14 Dec  2023 10:07:00","Enacted","Clucky","16 Dec 2023  22:11:41",60,6,218
+"Honourable Acts","Desertfrog","14 Dec  2023 12:46:00","Illegal","Kevan","14 Dec 2023  15:00:04",2,1,218
+"More Claims","Desertfrog","14 Dec  2023 13:47:00","Enacted","Clucky","17 Dec 2023  03:12:25",61,7,218
+"Honourable Acts Again","Desertfrog","14 Dec  2023 16:12:00","Failed","Clucky","17 Dec 2023  03:12:49",59,5,218
+"Figurehead","Kevan","15 Dec  2023 15:31:00","Enacted","Clucky","17 Dec 2023  06:33:41",39,4,218
+"The Sum of the Parts","JonathanDark","15 Dec  2023 15:59:00","Failed","Clucky","17 Dec 2023  06:35:21",38,4,218
+"Still some good ideas here","Clucky","15 Dec  2023 18:18:00","Enacted","Clucky","17 Dec 2023  18:45:44",48,6,218
+"A Touch of the Plague","JonathanDark","15 Dec  2023 23:09:00","Failed","Clucky","18 Dec 2023  01:23:01",50,6,218
+"Making Disownment Matter","Clucky","16 Dec  2023 08:14:00","Failed","Kevan","18 Dec 2023  09:58:54",49,7,218
+"Alternate Shortcut","Clucky","17 Dec  2023 07:36:00","Illegal","Clucky","17 Dec 2023  13:40:25",6,1,218
+"The Eye of a Needle","Kevan","17 Dec  2023 10:42:00","Enacted","Kevan","18 Dec 2023  10:02:46",23,4,218
+"Queons","Kevan","17 Dec  2023 13:32:00","Enacted","Kevan","19 Dec 2023  13:39:54",48,7,218
+"Political Transparency","Desertfrog","17 Dec  2023 16:59:00","Enacted","Kevan","19 Dec 2023  17:07:05",48,5,218
+"Trying Again","Clucky","17 Dec  2023 18:57:00","Enacted","?","19 Dec 2023  20:03:42",49,6,218
+"The Ear of the King [Core]","Kevan","18 Dec  2023 11:15:00","Failed","?","27 Dec 2023  14:09:20",218,13,218
+"Rump Parliament","Kevan","19 Dec  2023 13:56:00","Failed","?","27 Dec 2023  14:09:48",192,3,218
+"Just Spending","Desertfrog","19 Dec  2023 16:15:00","Failed","?","27 Dec 2023  14:10:23",189,4,218
+"Death is Inevitable","JonathanDark","27 Dec  2023 14:13:00","Enacted","?","28 Dec 2023  06:55:18",16,6,218
+"You Too Can Be A Necromancer!","JonathanDark","27 Dec  2023 14:16:00","Enacted","?","28 Dec 2023  06:58:42",16,4,218
+"The Life and Soul of the Party","Josh","27 Dec  2023 19:25:00","Enacted","?","28 Dec 2023  19:27:41",24,8,218
+"Life Extenders","Clucky","28 Dec  2023 01:50:00","Failed","?","30 Dec 2023  07:15:27",53,11,218
+"Location, Location, Location","JonathanDark","28 Dec  2023 07:11:00","Enacted","?","30 Dec 2023  07:16:35",48,7,218
+"Without Fear or Favour [Core]","Kevan","28 Dec  2023 13:30:00","Failed","Josh","30 Dec 2023  14:34:31",49,22,218
+"The Truth","Desertfrog","28 Dec  2023 14:05:00","Enacted","Josh","30 Dec 2023  16:25:34",50,6,218
+"The Book of the Dead","Kevan","28 Dec  2023 15:29:00","Enacted","Josh","30 Dec 2023  14:39:35",47,12,218
+"Necromancy","Zack","28 Dec  2023 17:40:00","Failed","Josh","30 Dec 2023  14:40:42",45,10,218
+"Odd Omission","Josh","28 Dec  2023 21:30:00","Failed","Josh","30 Dec 2023  14:41:50",41,14,218
+"The Spoils of War","Ravenhearted","28 Dec  2023 22:05:00","Failed","Josh","30 Dec 2023  14:42:22",40,6,218
+"Matryoshka Doll","JonathanDark","28 Dec  2023 22:33:00","Enacted","Josh","30 Dec 2023  20:24:22",45,7,218
+"Travel Without Moving","Desertfrog","29 Dec  2023 15:43:00","Enacted","Josh","30 Dec 2023  20:25:23",28,12,218
+"Revised Spoils","Ravenhearted","29 Dec  2023 19:09:00","Enacted","?","31 Dec 2023  17:13:06",46,6,218
+"The Sound of Falling Sand","JonathanDark","30 Dec  2023 07:22:00","Enacted","?","31 Dec 2023  17:18:46",33,6,218
+"Casing the Joint","Josh","30 Dec  2023 10:59:00","Enacted","Josh","01 Jan 2024  17:22:10",54,14,218
+"Stars Maligned","Clucky","30 Dec  2023 21:23:00","Failed","Josh","01 Jan 2024  22:15:50",48,14,218
+"Further Fixes to Spoils","Ravenhearted","30 Dec  2023 23:19:00","Enacted","Josh","01 Jan 2024  22:17:31",46,5,218
+"The Fields of the Fallen","JonathanDark","31 Dec  2023 07:27:00","Enacted","?","02 Jan 2024  13:51:53",54,6,218
+"Just In Case","Josh","31 Dec  2023 09:58:00","Enacted","?","02 Jan 2024  13:53:43",51,11,218
+"Opening the Gates to Death","Desertfrog","31 Dec  2023 11:51:00","Enacted","?","02 Jan 2024  14:06:13",50,4,218
+"Shambling Warriors","Desertfrog","31 Dec  2023 14:44:00","Enacted","?","02 Jan 2024  16:25:47",49,5,218
+"The Eye of the Beast","Kevan","31 Dec  2023 14:49:00","Enacted","?","02 Jan 2024  16:29:33",49,3,218
+"Third case","Josh","01 Jan  2024 17:26:00","Enacted","?","03 Jan 2024  19:45:32",50,5,218
+"0 Is Still A Distance","Clucky","01 Jan  2024 22:12:00","Enacted","?","04 Jan 2024  00:49:47",50,9,218
+"Synonym Toast Crunch","Clucky","02 Jan  2024 02:11:00","Enacted","?","04 Jan 2024  00:52:36",46,5,218
+"Lower Case [Core] [Appendix]","Kevan","02 Jan  2024 11:58:00","Enacted","?","04 Jan 2024  00:54:18",36,7,218
+"Another Dimension","JonathanDark","02 Jan  2024 14:14:00","Enacted","?","04 Jan 2024  07:18:47",41,5,218
+"Diary of a Reaper","JonathanDark","02 Jan  2024 17:40:00","Enacted","?","04 Jan 2024  07:26:22",37,5,218
+"New Player Welfare","Ravenhearted","03 Jan  2024 02:00:00","Enacted","?","04 Jan 2024  07:28:18",29,4,218
+"Alternative Truths","Desertfrog","03 Jan  2024 12:01:00","Enacted","?","05 Jan 2024  13:57:54",49,2,218
+"Mystical Teleportation","Desertfrog","03 Jan  2024 16:12:00","Failed","?","05 Jan 2024  21:31:40",53,3,218
+"Pick a Card, Any Card","JonathanDark","04 Jan  2024 13:54:00","Enacted","?","07 Jan 2024  08:48:24",66,3,218
+"Order Up!","Clucky","04 Jan  2024 18:21:00","Enacted","?","07 Jan 2024  08:54:32",62,6,218
+"Ancient Power Overload","Clucky","04 Jan  2024 18:41:00","Failed","?","07 Jan 2024  08:56:04",62,6,218
+"Nothing But Sand","JonathanDark","05 Jan  2024 15:48:00","Enacted","?","07 Jan 2024  21:23:15",53,3,218
+"Wisdom of a Fool","Josh","06 Jan  2024 09:22:00","Enacted","?","08 Jan 2024  18:22:45",57,3,218
+"Death’s Domain","Josh","07 Jan  2024 11:19:00","Failed","Josh","09 Jan 2024  14:49:02",51,12,218
+"Echos of the Past","Clucky","08 Jan  2024 01:47:00","Enacted","?","09 Jan 2024  18:49:53",41,5,218
+"It Was A Graveyard Smash","Clucky","08 Jan  2024 02:03:00","Failed","?","10 Jan 2024  06:26:36",52,11,218
+"Death Rattle Dazzle","Josh","09 Jan  2024 10:02:00","Enacted","?","10 Jan 2024  17:49:20",31,8,218
+"Corpse Management","Desertfrog","09 Jan  2024 13:13:00","Failed","?","10 Jan 2024  21:54:10",32,6,218
+"Virtual Actions [Building Blocks]","Zack","09 Jan  2024 16:03:00","Enacted","?","11 Jan 2024  17:04:17",49,24,218
+"Standard Incantations [Building Blocks]","Zack","09 Jan  2024 16:15:00","Failed","?","11 Jan 2024  17:13:40",48,10,218
+"The Book Death Dare Not Touch","naught","09 Jan  2024 20:04:00","Failed","Clucky","12 Jan 2024  01:01:32",52,2,218
+"Quick Draw","Clucky","11 Jan  2024 04:12:00","Enacted","?","13 Jan 2024  06:37:13",50,3,218
+"Cheese, Gromit! Cheese!","Clucky","11 Jan  2024 04:19:00","Enacted","?","13 Jan 2024  06:40:11",50,4,218
+"Death Always Keeps Accurate Books","JonathanDark","11 Jan  2024 23:45:00","Enacted","?","13 Jan 2024  07:30:15",31,6,218
+"To The Death","JonathanDark","13 Jan  2024 07:31:00","Failed","?","15 Jan 2024  21:36:58",62,11,218
+"There can never be enough Cards","Desertfrog","13 Jan  2024 08:20:00","Enacted","?","15 Jan 2024  21:37:54",61,2,218
+"Glyphs!","Clucky","14 Jan  2024 07:33:00","Failed","?","15 Jan 2024  21:41:09",38,3,218
+"You Too Can Be a Grim Reaper!","Desertfrog","14 Jan  2024 15:03:00","Failed","?","16 Jan 2024  17:42:37",50,1,218
+"The Best Of All Glyphs","JonathanDark","14 Jan  2024 18:38:00","Enacted","?","16 Jan 2024  17:53:20",47,5,218
+"Ouch!","Clucky","16 Jan  2024 18:11:00","Enacted","?","17 Jan 2024  06:03:13",11,2,218
+"Sharing the Pain!","Clucky","16 Jan  2024 18:20:00","Enacted","?","17 Jan 2024  18:50:39",24,3,218
+"More Effective Glyphs","JonathanDark","16 Jan  2024 18:45:00","Enacted","?","17 Jan 2024  18:52:47",24,2,218
+"Death’s Heir and Inheritor","naught","16 Jan  2024 22:27:00","Enacted","?","18 Jan 2024  22:44:58",48,4,218
+"The Field is White, All Ready to Harvest…","naught","16 Jan  2024 22:33:00","Enacted","?","18 Jan 2024  22:51:57",48,11,218
+"Negative Space","JonathanDark","17 Jan  2024 07:00:00","Enacted","?","18 Jan 2024  23:05:22",40,5,218
+"Masterfully Sharp","Clucky","17 Jan  2024 07:28:00","Enacted","Clucky","19 Jan 2024  00:31:48",41,3,218
+"[Core] Matters of Urgency","JonathanDark","17 Jan  2024 20:46:00","Failed","?","19 Jan 2024  00:54:36",28,2,218
+"Reviving the Horde","Desertfrog","18 Jan  2024 13:21:00","Enacted","?","19 Jan 2024  05:41:33",16,4,218
+"Watch and Learn","Desertfrog","18 Jan  2024 14:08:00","Failed","?","19 Jan 2024  14:02:26",23,4,218
+"Clean-up always goes to the graveyard shift…","naught","18 Jan  2024 23:54:00","Enacted","?","19 Jan 2024  23:01:51",23,8,218
+"One True Death","JonathanDark","20 Jan  2024 21:18:00","Enacted","?","22 Jan 2024  03:45:11",30,4,218
+"For in the day thou eatest thereof, thou shalt surely die…","naught","22 Jan  2024 02:06:00","Failed","Josh","24 Jan 2024  22:15:48",68,8,218
+"Acting up","Clucky","22 Jan  2024 05:51:00","Vetoed","Josh","24 Jan 2024  22:16:17",64,5,218
+"User Account Control","Zack","24 Jan  2024 22:16:00","Enacted","?","25 Jan 2024  13:49:12",15,9,218
+"Nomic Shell","Zack","24 Jan  2024 22:18:00","Enacted","?","25 Jan 2024  13:54:43",15,10,218
+"[Appendix] A Sticky Situation","JonathanDark","24 Jan  2024 22:22:00","Enacted","?","25 Jan 2024  13:59:03",15,11,218
+"1337 warez","JonathanDark","25 Jan  2024 14:27:00","Enacted","?","26 Jan 2024  13:48:17",23,5,218
+"Let’s Get Cracking","JonathanDark","25 Jan  2024 18:50:00","Enacted","?","28 Jan 2024  06:25:37",59,12,218
+"Best Practices","Vovix","26 Jan  2024 17:40:00","Enacted","?","28 Jan 2024  18:05:53",48,4,218
+"sudo usermod -a -G sudo zack [Core]","Clucky","27 Jan  2024 07:18:00","Enacted","?","28 Jan 2024  20:54:41",37,9,218
+"Don’t download everything you find on the internet","Desertfrog","27 Jan  2024 13:32:00","Enacted","?","29 Jan 2024  13:58:50",48,3,218
+"Secure Channel","Zack","27 Jan  2024 14:31:00","Enacted","?","29 Jan 2024  15:27:38",48,3,218
+"Computer Security","Desertfrog","27 Jan  2024 16:05:00","Enacted","?","29 Jan 2024  16:27:28",48,3,218
+"Cracking Continued","Zack","28 Jan  2024 17:52:00","Enacted","?","30 Jan 2024  20:55:57",51,2,218
+"init.d","JonathanDark","29 Jan  2024 07:12:00","Failed","Josh","31 Jan 2024  10:05:40",50,8,218
+"Out of Power","Desertfrog","29 Jan  2024 16:11:00","Enacted","?","31 Jan 2024  16:23:16",48,6,218
+"I’m So Meta, Even This Acronym","Josh","31 Jan  2024 15:04:00","Failed","?","02 Feb 2024  22:10:46",55,12,218
+"High Voltage","Zack","31 Jan  2024 19:02:00","Enacted","?","02 Feb 2024  22:11:54",51,3,218
+"Programming","Desertfrog","01 Feb  2024 16:18:00","Enacted","?","03 Feb 2024  19:29:08",51,3,218
+"Risk & Reward","Zack","01 Feb  2024 21:35:00","Enacted","?","04 Feb 2024  18:14:32",68,3,218
+"Poison Pill","Josh","04 Feb  2024 22:55:00","Failed","?","07 Feb 2024  01:14:08",50,7,218
+"rm -rf /","Zack","04 Feb  2024 23:46:00","Enacted","?","07 Feb 2024  01:15:05",49,2,218
+"Friends Like These [Building Blocks]","Zack","05 Feb  2024 00:02:00","Failed","?","07 Feb 2024  01:18:39",49,5,218
+"Thread Quantum","JonathanDark","09 Feb  2024 05:58:00","Enacted","Josh","10 Feb 2024  14:13:51",32,7,218
+"No entrants","Josh","09 Feb  2024 10:03:00","Enacted","Josh","10 Feb 2024  14:15:09",28,4,218
+"Data Breach","Zack","09 Feb  2024 16:38:00","Enacted","Josh","11 Feb 2024  18:56:36",50,3,218
+"Clock Cycle Rate","Zack","09 Feb  2024 17:07:00","Enacted","Josh","11 Feb 2024  19:01:29",49,3,218
+"Worst Practices","Desertfrog","09 Feb  2024 17:14:00","Failed","Josh","11 Feb 2024  19:05:10",49,4,218
+"Discovery","Zack","12 Feb  2024 18:00:00","Enacted","Josh","13 Feb 2024  08:48:48",14,7,218
+"Build the Wall","JonathanDark","14 Feb  2024 14:08:00","Enacted","?","15 Feb 2024  03:12:58",13,4,218
+"A Hard Day’s Work","JonathanDark","14 Feb  2024 14:10:00","Enacted","?","15 Feb 2024  04:34:11",14,4,218
+"You Need Not Fear","Josh","14 Feb  2024 14:25:00","Enacted","?","15 Feb 2024  05:19:42",14,10,218
+"Strike The Earth!","Vovix","15 Feb  2024 06:41:00","Enacted","?","16 Feb 2024  00:43:28",18,5,218
+"Living Wage Employer","Josh","15 Feb  2024 14:45:00","Failed","?","17 Feb 2024  19:23:22",52,9,218
+"Protect the Castle!","Desertfrog","15 Feb  2024 18:52:00","Failed","?","17 Feb 2024  19:30:48",48,1,218
+"Caution - Construction Zone Ahead","JonathanDark","15 Feb  2024 19:38:00","Enacted","?","17 Feb 2024  19:31:40",47,5,218
+"If You Build It, They Will Come","JonathanDark","16 Feb  2024 14:09:00","Failed","?","19 Feb 2024  05:38:36",63,4,218
+"Bigger Walls","Desertfrog","17 Feb  2024 11:20:00","Enacted","?","20 Feb 2024  13:43:51",74,4,218
+"Property Surveyor","JonathanDark","17 Feb  2024 19:36:00","Enacted","?","20 Feb 2024  13:47:33",66,3,218
+"Nothing To Declare","Josh","18 Feb  2024 21:34:00","Failed","?","20 Feb 2024  14:57:46",41,4,218
+"The Bigger They Are","JonathanDark","19 Feb  2024 05:42:00","Enacted","Josh","20 Feb 2024  14:58:32",33,5,218
+"Untitled Battle Algorithm Proposal","Desertfrog","19 Feb  2024 16:22:00","Enacted","?","21 Feb 2024  14:03:13",45,6,218
+"Structural Integrity","JonathanDark","20 Feb  2024 21:10:00","Enacted","?","21 Feb 2024  14:06:26",16,3,218
+"Second Verse Same As The First","JonathanDark","21 Feb  2024 01:24:00","Enacted","?","21 Feb 2024  14:07:58",12,3,218
+"Accelerant","Josh","21 Feb  2024 14:10:00","Enacted","?","22 Feb 2024  18:22:13",28,5,218
+"Hypnotic Patterns","Josh","21 Feb  2024 14:21:00","Failed","?","22 Feb 2024  20:54:44",30,3,218
+"In Need of Repair","JonathanDark","21 Feb  2024 16:37:00","Enacted","Josh","23 Feb 2024  12:20:31",43,6,218
+"You Can’t Sail Through a Wall","Desertfrog","22 Feb  2024 06:58:00","Enacted","Josh","23 Feb 2024  12:26:10",29,3,218
+"Best Castles to Live In 2024","JonathanDark","22 Feb  2024 14:03:00","Enacted","?","23 Feb 2024  21:16:25",31,6,218
+"There’s only so much space to go around","naught","22 Feb  2024 19:04:00","Failed","?","23 Feb 2024  21:20:00",26,7,218
+"Fast Slow Roll","Josh","22 Feb  2024 21:16:00","Enacted","Josh","24 Feb 2024  08:39:31",35,7,218
+"In The Land Of Constant Waves The Contractor Is King","Josh","23 Feb  2024 10:05:00","Enacted","Josh","24 Feb 2024  08:40:35",22,9,218
+"Swamps aren’t known for their huge… tracts of land","naught","23 Feb  2024 12:10:00","Enacted","Josh","25 Feb 2024  07:04:55",42,6,218
+"Proposal who has land is powerful","Rubbelt","23 Feb  2024 16:44:00","Failed","Josh","23 Feb 2024  21:57:04",5,6,218
+"Living of the lands","Rubbelt","23 Feb  2024 22:13:00","Enacted","Josh","25 Feb 2024  07:07:24",32,4,218
+"Passive income","Rubbelt","24 Feb  2024 10:05:00","Failed","Josh","26 Feb 2024  12:57:16",50,4,218
+"Mantle Peace","Josh","24 Feb  2024 16:49:00","Enacted","Josh","26 Feb 2024  14:38:08",45,10,218
+"clarification","Rubbelt","24 Feb  2024 17:52:00","Illegal","Josh","24 Feb 2024  17:58:44",0,1,218
+"We are the Anvil, awaiting the Hammer’s strike","naught","24 Feb  2024 23:03:00","Failed","Josh","27 Feb 2024  07:09:39",56,4,218
+"Farm fixes","Josh","25 Feb  2024 07:15:00","Enacted","Josh","27 Feb 2024  12:14:29",52,2,218
+"clarification about losing serfs","Rubbelt","25 Feb  2024 11:19:00","Enacted","Josh","27 Feb 2024  12:17:17",48,3,218
+"Hostile Magic","Desertfrog","25 Feb  2024 13:26:00","Enacted","?","28 Feb 2024  00:22:11",58,3,218
+"Explicit Expectations","Desertfrog","25 Feb  2024 13:28:00","Failed","?","28 Feb 2024  00:29:02",59,4,218
+"Defensive Tactics","Josh","26 Feb  2024 15:59:00","Enacted","?","28 Feb 2024  17:58:28",49,3,218
+"roaming merchants","Rubbelt","27 Feb  2024 16:08:00","Failed","?","29 Feb 2024  16:50:14",48,2,218
+"forgot something…","Rubbelt","27 Feb  2024 20:15:00","Failed","Josh","29 Feb 2024  21:24:10",49,1,218
+"Serfin USA","Josh","28 Feb  2024 10:45:00","Enacted","Josh","01 Mar 2024  09:30:49",46,7,218
+"Wakey wakey","Josh","29 Feb  2024 22:01:00","Enacted","?","02 Mar 2024  22:25:31",48,3,218
+"Window Tax","Rubbelt","01 Mar  2024 17:59:00","Failed","Josh","03 Mar 2024  19:18:12",49,4,218
+"Expanding the Menagerie","JonathanDark","03 Mar  2024 07:10:00","Enacted","?","04 Mar 2024  21:46:31",38,3,218
+"Call my Architect","Josh","03 Mar  2024 21:49:00","Enacted","Josh","05 Mar 2024  14:53:32",41,3,218
+"Oversucceeding","Josh","05 Mar  2024 14:57:00","Enacted","?","07 Mar 2024  15:26:52",48,2,218
+"Snap Happy","Josh","09 Mar  2024 16:44:00","Enacted","?","10 Mar 2024  06:12:15",13,12,218
+"All Points East","Josh","09 Mar  2024 16:44:00","Enacted","?","10 Mar 2024  06:32:45",13,9,218
+"Criteria Collection","Clucky","09 Mar  2024 23:54:00","Enacted","Kevan","10 Mar 2024  13:58:46",14,5,218
+"Keep It Secret, Keep It Safe","Clucky","10 Mar  2024 00:01:00","Enacted","Clucky","11 Mar 2024  02:07:42",26,7,218
+"Mise en Abyme","Brendan","10 Mar  2024 03:55:00","Enacted","?","11 Mar 2024  04:18:48",24,7,218
+"It’s Impolite to be Trite","JonathanDark","10 Mar  2024 06:36:00","Enacted","Kevan","11 Mar 2024  12:41:08",30,4,218
+"Fixing It In Post","Kevan","10 Mar  2024 10:39:00","Enacted","Kevan","11 Mar 2024  12:42:28",26,5,218
+"Reasonable Limits","Josh","10 Mar  2024 14:25:00","Enacted","Kevan","11 Mar 2024  12:47:13",22,4,218
+"Half-Satisfied","pokes","11 Mar  2024 00:55:00","Enacted","?","11 Mar 2024  17:19:06",16,5,218
+"Up the contrast slightly… and maybe shift the hue a bit more red","naught","11 Mar  2024 01:35:00","Enacted","?","12 Mar 2024  15:52:58",38,5,218
+"Spice of Life","Clucky","11 Mar  2024 01:52:00","Failed","?","12 Mar 2024  15:57:15",38,10,218
+"Hunter/Seeker","Josh","11 Mar  2024 09:58:00","Enacted","Kevan","13 Mar 2024  11:34:52",49,13,218
+"Paper Trail","JonathanDark","11 Mar  2024 17:04:00","Enacted","Kevan","13 Mar 2024  11:35:48",42,10,218
+"Refocused Lens","JonathanDark","11 Mar  2024 17:26:00","Enacted","Kevan","13 Mar 2024  11:37:52",42,4,218
+"Western Spiral Arm","Kevan","11 Mar  2024 19:18:00","Failed","?","14 Mar 2024  05:18:54",58,11,218
+"Criteria Cleanup","Josh","11 Mar  2024 22:13:00","Failed","?","14 Mar 2024  05:44:32",55,10,218
+"Runaway games are no fun","Clucky","13 Mar  2024 04:54:00","Enacted","Clucky","15 Mar 2024  05:06:27",48,4,218
+"Daily actions are not very fun","Clucky","13 Mar  2024 05:30:00","Enacted","Clucky","15 Mar 2024  05:09:54",47,4,218
+"Delocalisation","Josh","13 Mar  2024 11:51:00","Failed","Kevan","15 Mar 2024  11:54:14",48,9,218
+"Supersaturation","Kevan","13 Mar  2024 13:59:00","Enacted","Kevan","15 Mar 2024  11:55:28",45,6,218
+"Diptych","Josh","14 Mar  2024 09:26:00","Failed","?","16 Mar 2024  11:16:54",49,10,218
+"Quite Trite","JonathanDark","14 Mar  2024 15:27:00","Enacted","?","16 Mar 2024  11:20:07",43,7,218
+"Order Up!","Clucky","15 Mar  2024 05:06:00","Enacted","?","16 Mar 2024  11:24:13",30,5,218
+"Shot Diversification","Clucky","15 Mar  2024 05:15:00","Enacted","?","16 Mar 2024  11:25:58",30,4,218
+"Catching up with the photos","Chiiika","15 Mar  2024 10:32:00","Enacted","?","17 Mar 2024  06:39:17",44,6,218
+"Patron of the Arts","JonathanDark","15 Mar  2024 12:52:00","Failed","Kevan","17 Mar 2024  17:46:50",52,4,218
+"Everybody Move In A Bit [Building Blocks]","Kevan","15 Mar  2024 15:57:00","Vetoed","Kevan","17 Mar 2024  17:47:35",49,6,218
+"Risk It For the Biscuit","Clucky","16 Mar  2024 17:55:00","Enacted","?","18 Mar 2024  23:37:06",53,3,218
+"monomethyl-p-aminophenol hemisulfate","Josh","18 Mar  2024 08:55:00","Enacted","?","19 Mar 2024  04:43:33",19,8,218
+"b-b-b-b-bonus","Clucky","19 Mar  2024 00:44:00","Enacted","?","21 Mar 2024  05:22:49",52,4,218
+"Abstraction","Josh","19 Mar  2024 09:00:00","Enacted","?","21 Mar 2024  16:39:46",55,7,218
+"Co-op No-op [Building Blocks]","Kevan","19 Mar  2024 09:35:00","Failed","?","21 Mar 2024  16:53:36",55,14,218
+"Once More Unto","Josh","19 Mar  2024 11:12:00","Failed","?","21 Mar 2024  16:55:35",53,16,218
+"Story Post: Upgrade Request for Snap 011: Poking the Waters","Clucky","19 Mar  2024 19:13:00","Enacted","Clucky","22 Mar 2024  06:34:33",59,4,218
+"Expecting the Unexpected [Building Blocks]","Kevan","20 Mar  2024 11:39:00","Enacted","?","21 Mar 2024  17:01:30",29,4,218
+"Hidden in Plain Sight","Clucky","22 Mar  2024 06:39:00","Failed","Kevan","24 Mar 2024  12:47:09",54,3,218
+"What’s the point of Points?","JonathanDark","22 Mar  2024 18:44:00","Enacted","Kevan","24 Mar 2024  12:48:58",42,4,218
+"The Dying of the Trite","Kevan","26 Mar  2024 12:01:00","Enacted","?","27 Mar 2024  16:24:16",28,6,218
+"The Public Realm","Kevan","27 Mar  2024 10:41:00","Failed","Kevan","27 Mar 2024  19:54:03",9,9,218
+"Don’t Just Google It","JonathanDark","27 Mar  2024 20:09:00","Enacted","Kevan","28 Mar 2024  16:11:17",20,3,218
+"Philosophical Opposites","JonathanDark","28 Mar  2024 05:25:00","Enacted","?","30 Mar 2024  07:00:51",49,4,218
+"And the Best Picture Award goes to…...","Nad","28 Mar  2024 12:23:00","Failed","?","30 Mar 2024  07:02:35",42,7,218
+"Square Eyes","Kevan","28 Mar  2024 19:14:00","Enacted","?","30 Mar 2024  07:03:27",35,10,218
+"Into the light!","Nad","29 Mar  2024 13:42:00","Enacted","Kevan","31 Mar 2024  17:26:02",51,9,218
+"Looping the Holes","Clucky","01 Apr  2024 18:12:00","Enacted","Kevan","02 Apr 2024  08:57:46",14,6,218
+"I Know What You Did Last Summer","Clucky","01 Apr  2024 18:28:00","Enacted","?","02 Apr 2024  15:27:19",20,10,218
+"It’s not about your feelings.","Nad","02 Apr  2024 20:34:00","Enacted","?","03 Apr 2024  13:10:49",16,4,218
+"It is a little bit about your feelings","Josh","03 Apr  2024 07:43:00","Enacted","?","04 Apr 2024  22:31:09",38,8,218
+"Aesthetics By Consensus","JonathanDark","03 Apr  2024 13:16:00","Failed","?","04 Apr 2024  22:35:15",33,7,218
+"The Peanut Gallery","Kevan","03 Apr  2024 14:09:00","Failed","?","04 Apr 2024  22:38:00",32,16,218
+"Guessing Game","JonathanDark","03 Apr  2024 16:11:00","Failed","?","04 Apr 2024  22:39:14",30,5,218
+"Beauty Bots","Nad","03 Apr  2024 18:19:00","Failed","Kevan","05 Apr 2024  19:08:00",48,15,218
+"That’s So Aesthetic","Josh","04 Apr  2024 09:14:00","Failed","Josh","06 Apr 2024  17:09:31",55,8,218
+"Idle Cooperative","Josh","05 Apr  2024 07:32:00","Enacted","?","07 Apr 2024  18:31:43",58,12,218
+"BlogNomic Idol","JonathanDark","06 Apr  2024 14:37:00","Failed","Kevan","08 Apr 2024  14:52:58",48,1,218
+"Co Op Cop Out","Clucky","06 Apr  2024 18:17:00","Failed","?","08 Apr 2024  19:34:05",49,20,218
+"The Table’s Edge [Building Blocks]","Kevan","07 Apr  2024 17:43:00","Enacted","Kevan","09 Apr 2024  08:24:58",38,10,218
+"Run on and on and on and on","Clucky","07 Apr  2024 21:48:00","Enacted","?","09 Apr 2024  22:21:37",48,5,218
+"Shutter Speed","JonathanDark","09 Apr  2024 15:19:00","Enacted","Kevan","10 Apr 2024  11:49:44",20,5,218
+"Great Snap","Nad","09 Apr  2024 21:53:00","Failed","Kevan","10 Apr 2024  11:50:23",13,5,218
+"Mento Fresh","Josh","10 Apr  2024 11:33:00","Enacted","Kevan","11 Apr 2024  08:38:56",21,4,218
+"This Is Not A Place Of Honour","Kevan","10 Apr  2024 12:03:00","Enacted","Kevan","11 Apr 2024  10:28:08",22,3,218
+"Cooperative Emperor Style","JonathanDark","11 Apr  2024 12:32:00","Enacted","?","13 Apr 2024  15:57:35",51,21,218
+"Follow-through","Josh","11 Apr  2024 13:46:00","Failed","?","13 Apr 2024  16:00:29",50,3,218
+"Get the Laminator [Appendix] [Building Blocks]","Kevan","12 Apr  2024 08:42:00","Enacted","?","13 Apr 2024  16:01:59",31,10,218
+"Imperial Freestyle","JonathanDark","12 Apr  2024 13:02:00","Failed","Kevan","14 Apr 2024  15:48:59",50,8,218
+"Everyone’s a Critic","Kevan","12 Apr  2024 17:14:00","Enacted","Kevan","14 Apr 2024  15:50:16",46,4,218
+"Change criteria for snaps","Juniper.ohyegods","13 Apr  2024 04:46:00","Failed","Kevan","14 Apr 2024  15:50:49",35,4,218
+"Anybody’s Guess","Kevan","15 Apr  2024 08:59:00","Failed","?","16 Apr 2024  21:07:25",36,8,218
+"Smoke Screen","JonathanDark","15 Apr  2024 16:42:00","Enacted","?","16 Apr 2024  21:08:37",28,3,218
+"Personal Criteria","Juniper.ohyegods","16 Apr  2024 21:06:00","Enacted","?","18 Apr 2024  21:16:13",48,8,218
+"Photography Club Recruitment Bonus","JonathanDark","17 Apr  2024 12:39:00","Enacted","?","18 Apr 2024  21:19:05",32,3,218
+"Top of the Class [Building Blocks]","Kevan","17 Apr  2024 15:30:00","Enacted","?","19 Apr 2024  16:17:53",48,8,218
+"It’s Personal","JonathanDark","18 Apr  2024 12:44:00","Enacted","?","20 Apr 2024  18:00:22",53,4,218
+"Personally Exposed","JonathanDark","18 Apr  2024 21:20:00","Enacted","?","21 Apr 2024  06:06:46",56,3,218
+"Freeze Frame","Kevan","19 Apr  2024 08:43:00","Enacted","Kevan","21 Apr 2024  15:28:23",54,2,218
+"The Bench Acknowledges","Josh","19 Apr  2024 09:04:00","Enacted","?","21 Apr 2024  18:59:22",57,7,218
+"I forgot how fast this game was","4st","22 Apr  2024 18:09:00","Enacted","?","24 Apr 2024  18:32:52",48,7,218
+"Conjunction Junction","Nad","24 Apr  2024 07:48:00","Enacted","Kevan","26 Apr 2024  09:20:28",49,22,218
+"Guessing Game 2.0","JonathanDark","24 Apr  2024 14:44:00","Failed","Kevan","28 Apr 2024  13:00:36",94,20,218
+"Set a Thief","Kevan","28 Apr  2024 12:58:00","Enacted","?","29 Apr 2024  05:34:09",16,6,218
+"The Burlap Sack","Kevan","28 Apr  2024 13:00:00","Enacted","?","29 Apr 2024  05:40:09",16,6,218
+"Papoose","Josh","28 Apr  2024 15:06:00","Enacted","?","29 Apr 2024  22:28:01",31,17,218
+"Unlimied","Josh","28 Apr  2024 15:07:00","Enacted","?","29 Apr 2024  22:38:41",31,6,218
+"Yet-To-Be-Prisoner’s Dilemma","lendunistus","28 Apr  2024 16:14:00","Failed","Kevan","30 Apr 2024  07:55:04",39,13,218
+"No Speed Rounds","Clucky","28 Apr  2024 17:00:00","Failed","Kevan","30 Apr 2024  07:55:49",38,15,218
+"We skipped step 1","Clucky","28 Apr  2024 17:11:00","Enacted","Kevan","30 Apr 2024  08:01:31",38,9,218
+"Stylish Play","JonathanDark","28 Apr  2024 17:25:00","Failed","?","30 Apr 2024  17:32:40",48,12,218
+"No more improvised burglaries","Desertfrog","29 Apr  2024 06:41:00","Failed","Kevan","01 May 2024  07:49:23",49,10,218
+"No Honour Among Thieves","JonathanDark","29 Apr  2024 12:49:00","Enacted","Kevan","01 May 2024  09:07:42",44,8,218
+"Giving the Nod","Kevan","29 Apr  2024 13:30:00","Enacted","Kevan","01 May 2024  09:09:46",43,11,218
+"Brand New Bag","Kevan","29 Apr  2024 16:16:00","Enacted","Kevan","01 May 2024  09:22:17",41,7,218
+"A Notorious Proposal","Juniper.ohyegods","29 Apr  2024 20:51:00","Failed","Kevan","01 May 2024  09:22:51",36,4,218
+"Safekeeping","4st","30 Apr  2024 00:01:00","Failed","Kevan","01 May 2024  09:24:01",33,3,218
+"Gambling","4st","30 Apr  2024 00:59:00","Enacted","Kevan","01 May 2024  09:26:55",32,10,218
+"An Even More Notorious Proposal","Juniper.ohyegods","30 Apr  2024 06:34:00","Enacted","?","01 May 2024  22:01:15",39,14,218
+"Underground Economy","JonathanDark","30 Apr  2024 17:34:00","Failed","?","02 May 2024  13:37:13",44,10,218
+"Lighter Pockets","Josh","01 May  2024 07:45:00","Failed","?","02 May 2024  14:21:52",30,19,218
+"The Pigeon Loft [Building Blocks]","Kevan","01 May  2024 10:10:00","Failed","Kevan","03 May 2024  10:15:17",48,14,218
+"Follow the Leader","JonathanDark","01 May  2024 14:42:00","Enacted","Kevan","03 May 2024  10:17:04",43,10,218
+"Empty Your Pockets","Nad","01 May  2024 15:39:00","Failed","Kevan","03 May 2024  10:17:59",42,6,218
+"Black Market Blues","Clucky","01 May  2024 15:40:00","Failed","Clucky","03 May 2024  16:06:30",48,14,218
+"Treasure Chests 2","4st","01 May  2024 19:19:00","Failed","?","03 May 2024  20:02:13",48,6,218
+"Notorious B-U-G","Clucky","01 May  2024 22:47:00","Enacted","?","03 May 2024  20:03:14",45,16,218
+"Sticking Your Neck Out","Kevan","02 May  2024 08:04:00","Enacted","?","03 May 2024  20:06:44",36,7,218
+"Bug 2: Electric Bugaloo","JonathanDark","02 May  2024 13:58:00","Enacted","?","03 May 2024  20:10:21",30,6,218
+"Self-Preservation Society","Josh","02 May  2024 14:55:00","Failed","Kevan","04 May 2024  14:57:11",48,9,218
+"Hidden Riches","Desertfrog","03 May  2024 10:15:00","Failed","Kevan","04 May 2024  14:58:43",28,10,218
+"Do Not Pass Go","Kevan","03 May  2024 14:22:00","Failed","Kevan","04 May 2024  15:01:34",24,6,218
+"Kick the Can","Clucky","03 May  2024 16:11:00","Enacted","?","05 May 2024  17:38:42",49,11,218
+"Pouch Potato","Clucky","03 May  2024 22:24:00","Failed","Clucky","06 May 2024  04:28:13",54,10,218
+"Sleep With One Eye Open","JonathanDark","03 May  2024 23:14:00","Failed","Clucky","06 May 2024  04:29:07",53,10,218
+"Shell Game","JonathanDark","03 May  2024 23:37:00","Failed","Clucky","06 May 2024  04:30:16",52,7,218
+"Fiddling Small Change","Kevan","04 May  2024 10:44:00","Failed","Kevan","06 May 2024  11:18:00",48,8,218
+"Risky Business","Kevan","05 May  2024 11:48:00","Enacted","Kevan","06 May 2024  11:20:31",23,5,218
+"Plan-et Fitness","Clucky","06 May  2024 04:22:00","Enacted","Kevan","07 May 2024  16:51:54",36,5,218
+"Pouch O’ Plenty","JonathanDark","06 May  2024 06:03:00","Enacted","Kevan","07 May 2024  16:52:57",34,4,218
+"A Narc(issist)","Juniper.ohyegods","06 May  2024 07:10:00","Failed","Kevan","08 May 2024  07:47:52",48,4,218
+"Crime Never Sleeps","Kevan","06 May  2024 12:04:00","Enacted","Kevan","08 May 2024  12:36:26",48,5,218
+"Tools of the Trade","Kevan","06 May  2024 12:19:00","Enacted","Kevan","08 May 2024  12:38:22",48,6,218
+"Notarize This!","Clucky","06 May  2024 19:13:00","Enacted","?","08 May 2024  21:04:15",49,5,218
+"Redistribution of Wealth","JonathanDark","07 May  2024 05:56:00","Failed","?","08 May 2024  21:09:42",39,5,218
+"Sticky Plans","4st","07 May  2024 17:18:00","Enacted","Kevan","09 May 2024  06:37:02",37,5,218
+"Fear Of Missing Out","JonathanDark","08 May  2024 05:09:00","Failed","Kevan","09 May 2024  06:41:06",25,6,218
+"Go Directly","Kevan","08 May  2024 13:03:00","Enacted","Kevan","10 May 2024  13:27:51",48,17,218
+"By Day…","Kevan","08 May  2024 18:17:00","Enacted","Kevan","10 May 2024  16:33:16",46,3,218
+"Unique C’est Chic","JonathanDark","08 May  2024 21:23:00","Enacted","Kevan","10 May 2024  16:34:58",43,10,218
+"An Informer (again?)","Juniper.ohyegods","09 May  2024 06:22:00","Failed","Kevan","10 May 2024  19:10:26",36,5,218
+"Emperor Recruitment [Building Blocks]","Desertfrog","09 May  2024 08:25:00","Failed","Kevan","11 May 2024  09:21:37",48,5,218
+"Greed is Good","JonathanDark","09 May  2024 16:42:00","Enacted","Kevan","11 May 2024  09:30:39",40,4,218
+"Let’s bust out of this place!","Nad","10 May  2024 14:49:00","Enacted","Kevan","11 May 2024  09:39:28",18,8,218
+"Reduced Sentence","JonathanDark","10 May  2024 16:48:00","Enacted","Kevan","13 May 2024  07:00:17",62,3,218
+"Armed and Dangerous","Clucky","11 May  2024 01:07:00","Enacted","Kevan","13 May 2024  07:03:45",53,4,218
+"Synchronise Watches","Kevan","11 May  2024 08:20:00","Enacted","Kevan","13 May 2024  07:05:58",46,4,218
+"I Smell A Rat","JonathanDark","11 May  2024 16:00:00","Enacted","Kevan","13 May 2024  07:08:24",39,5,218
+"Floreat Scelus","Kevan","12 May  2024 15:16:00","Failed","Kevan","13 May 2024  13:44:46",22,6,218
+"Rich and Reckless","Juniper.ohyegods","13 May  2024 06:45:00","Failed","?","15 May 2024  05:25:06",46,11,218
+"Takeout","Kevan","13 May  2024 07:55:00","Enacted","Kevan","15 May 2024  07:28:57",47,5,218
+"In the Shadows","Kevan","13 May  2024 14:00:00","Enacted","Kevan","15 May 2024  07:32:03",41,7,218
+"Target Practice","Clucky","13 May  2024 16:16:00","Enacted","Kevan","15 May 2024  07:39:09",39,5,218
+"Being Caught","Juniper.ohyegods","14 May  2024 10:36:00","Failed","Kevan","16 May 2024  07:57:46",45,8,218
+"Rehabilitation","JonathanDark","14 May  2024 14:53:00","Enacted","Kevan","16 May 2024  09:30:43",42,7,218
+"Caught Holding The Bag","JonathanDark","14 May  2024 14:56:00","Enacted","Kevan","16 May 2024  15:21:39",48,9,218
+"2 Armed 2 Dangerous","Clucky","14 May  2024 15:41:00","Failed","Kevan","16 May 2024  15:22:11",47,6,218
+"Richer and Grander","Juniper.ohyegods","14 May  2024 20:32:00","Illegal","?","15 May 2024  07:26:10",10,3,218
+"Taking Out The Trash","Kevan","15 May  2024 07:43:00","Enacted","Kevan","16 May 2024  15:23:15",31,3,218
+"What Was That Noise?","Kevan","15 May  2024 08:45:00","Enacted","Kevan","16 May 2024  15:24:51",30,8,218
+"Workplace Injury? Call 1-800-ITHURTS!","Clucky","15 May  2024 16:22:00","Enacted","?","17 May 2024  17:35:18",49,5,218
+"Financial Planner","JonathanDark","16 May  2024 12:39:00","Failed","?","17 May 2024  17:38:41",28,10,218
+"Must Have Been Rats","Kevan","16 May  2024 15:24:00","Enacted","?","17 May 2024  17:39:33",26,3,218
+"Countryside Villa","Clucky","16 May  2024 15:34:00","Enacted","Clucky","18 May 2024  16:10:03",48,11,218
+"Render Unto Caesar","JonathanDark","16 May  2024 15:56:00","Enacted","Clucky","18 May 2024  16:35:06",48,3,218
+"Snitch","Nad","17 May  2024 12:32:00","Enacted","Kevan","19 May 2024  12:44:23",48,3,218
+"Flexible Opportunist","JonathanDark","17 May  2024 17:57:00","Enacted","Kevan","19 May 2024  18:17:57",48,5,218
+"Sell! Sell! Sell!","Nad","17 May  2024 20:00:00","Enacted","Kevan","20 May 2024  08:51:15",60,8,218
+"Sitting this one out","Clucky","18 May  2024 16:24:00","Enacted","Kevan","20 May 2024  08:52:35",40,7,218
+"Punt Kick","Kevan","19 May  2024 08:29:00","Failed","Kevan","21 May 2024  09:08:01",48,13,218
+"More Love for the Glove","JonathanDark","20 May  2024 14:30:00","Failed","Kevan","22 May 2024  08:01:41",41,4,218
+"Two Is Too Much","JonathanDark","21 May  2024 21:24:00","Failed","Kevan","22 May 2024  08:02:49",10,4,218
+"Finding The Right Words","JonathanDark","23 May  2024 03:03:00","Enacted","?","24 May 2024  14:17:41",35,10,218
+"Fractured Fairy Tales","JonathanDark","23 May  2024 03:06:00","Enacted","?","24 May 2024  14:23:12",35,15,218
+"Collecting Ones Notes","Clucky","23 May  2024 03:22:00","Enacted","?","24 May 2024  14:26:19",35,6,218
+"Satisfactory","Clucky","23 May  2024 03:54:00","Enacted","?","24 May 2024  14:31:11",34,9,218
+"Co-authored by:","Juniper.ohyegods","23 May  2024 09:15:00","Failed","?","25 May 2024  20:08:08",58,8,218
+"Stand In Judgement","JonathanDark","24 May  2024 14:33:00","Enacted","Clucky","26 May 2024  15:18:26",48,6,218
+"Four Score And Seven Points Ago","JonathanDark","24 May  2024 14:37:00","Enacted","Clucky","26 May 2024  15:25:23",48,11,218
+"Name Change","Nad","24 May  2024 17:46:00","Enacted","Kevan","27 May 2024  09:30:07",63,8,218
+"*Insert Obama Awarding Obama Meme Here*","Clucky","24 May  2024 21:21:00","Enacted","?","27 May 2024  16:37:02",67,5,218
+"Sparks of Hope","Clucky","25 May  2024 18:49:00","Enacted","?","27 May 2024  19:23:30",48,10,218
+"Editor’s Notes","JonathanDark","26 May  2024 15:40:00","Enacted","?","28 May 2024  17:43:25",50,3,218
+"Categorical Contributions","JonathanDark","26 May  2024 17:48:00","Enacted","?","28 May 2024  17:53:16",48,6,218
+"Draw O’Clock","Clucky","27 May  2024 19:48:00","Enacted","?","29 May 2024  19:57:00",48,3,218
+"The Slush Pile","Kevan","28 May  2024 07:04:00","Enacted","Kevan","30 May 2024  10:25:44",51,8,218
+"Turn In Your Assignments","JonathanDark","28 May  2024 18:06:00","Enacted","?","30 May 2024  17:15:14",47,3,218
+"Writer’s Block","Kevan","29 May  2024 10:59:00","Enacted","Kevan","31 May 2024  11:03:18",48,6,218
+"I Just Have A Few Changes","JonathanDark","29 May  2024 12:35:00","Enacted","Kevan","31 May 2024  11:04:57",46,8,218
+"Pens Up","Clucky","30 May  2024 16:38:00","Failed","Kevan","31 May 2024  11:05:57",18,6,218
+"Making It Count","JonathanDark","31 May  2024 15:21:00","Enacted","?","01 Jun 2024  14:50:30",23,7,218
+"Cliffhangers","Kevan","01 Jun  2024 12:07:00","Enacted","?","02 Jun 2024  17:15:20",29,6,218
+"The Prize is Right","JonathanDark","02 Jun  2024 14:40:00","Failed","?","03 Jun 2024  21:21:48",30,5,218
+"Strictly Satisfying","JonathanDark","02 Jun  2024 17:17:00","Failed","?","04 Jun 2024  18:04:36",48,3,218
+"Minor Corrections","JonathanDark","03 Jun  2024 21:21:00","Enacted","?","04 Jun 2024  20:58:50",23,11,218
+"Blue Pencil","Kevan","04 Jun  2024 08:34:00","Enacted","?","04 Jun 2024  21:01:07",12,3,218
+"The Shame Ghost","Kevan","04 Jun  2024 11:15:00","Enacted","?","04 Jun 2024  23:31:48",12,4,218
+"Oh Yeah, Where Was I?","JonathanDark","04 Jun  2024 21:10:00","Enacted","?","05 Jun 2024  14:08:25",16,5,218
+"$3,000 Words","GloopyGhost","05 Jun  2024 00:10:00","Enacted","?","05 Jun 2024  14:12:54",14,7,218
+"On A Roll","JonathanDark","05 Jun  2024 12:44:00","Failed","?","07 Jun 2024  04:57:33",40,7,218
+"More Words","Desertfrog","06 Jun  2024 11:35:00","Failed","Kevan","08 Jun 2024  12:08:43",48,6,218
+"Vox Populi","JonathanDark","06 Jun  2024 12:44:00","Failed","Kevan","08 Jun 2024  13:03:13",48,7,218
+"Mantle Shelf [Core] [Building Blocks]","Kevan","07 Jun  2024 14:21:00","Enacted","Kevan","08 Jun 2024  14:42:05",24,4,218
+"Ghost Writers","Kevan","08 Jun  2024 10:57:00","Enacted","?","09 Jun 2024  07:53:24",20,10,218
+"Deadline","Nad","08 Jun  2024 21:08:00","Enacted","?","10 Jun 2024  21:57:39",48,4,218
+"Expand Your Horizons","JonathanDark","10 Jun  2024 14:39:00","Failed","?","11 Jun 2024  14:28:08",23,4,218
+"Out With The Old","JonathanDark","10 Jun  2024 14:57:00","Enacted","?","11 Jun 2024  20:48:29",29,6,218
+"Waiting Until The Last Minute","JonathanDark","11 Jun  2024 14:31:00","Enacted","?","12 Jun 2024  14:24:13",23,3,218
+"Rise of the Machines","JonathanDark","11 Jun  2024 21:16:00","Failed","?","13 Jun 2024  21:33:34",48,7,218
+"Location is Everything","Nad","12 Jun  2024 11:53:00","Enacted","?","13 Jun 2024  21:34:14",33,4,218
+"Giving Credit Where Credit Is Due","JonathanDark","12 Jun  2024 14:30:00","Enacted","?","13 Jun 2024  21:35:35",31,3,218
+"Rounding Up The Score","JonathanDark","14 Jun  2024 05:26:00","Enacted","?","15 Jun 2024  01:14:28",19,3,218
+"Is Receipt Out Of Place?","JonathanDark","14 Jun  2024 05:28:00","Failed","?","15 Jun 2024  01:15:19",19,6,218
+"Connecting the Dots","Clucky","17 Jun  2024 02:15:00","Enacted","?","17 Jun 2024  17:46:55",15,6,218
+"Challenging","Clucky","17 Jun  2024 02:22:00","Enacted","?","20 Jun 2024  16:31:37",86,6,218
+"Some Stories Are Better Than None","JonathanDark","17 Jun  2024 13:35:00","Enacted","?","20 Jun 2024  16:34:48",74,13,218
+"End of Days","Clucky","18 Jun  2024 05:35:00","Enacted","?","20 Jun 2024  16:37:07",59,2,218
+"Gambling Debts","JonathanDark","20 Jun  2024 18:04:00","Failed","?","22 Jun 2024  19:12:35",49,6,218
+"The Whole Fragment","JonathanDark","23 Jun  2024 16:02:00","Enacted","?","24 Jun 2024  14:04:04",22,5,218
+"Rising Action","GloopyGhost","24 Jun  2024 20:07:00","Failed","?","26 Jun 2024  22:27:28",50,10,218
+"Clarifying Remarks","naught","24 Jun  2024 21:52:00","Enacted","?","26 Jun 2024  22:28:19",48,3,218
+"Proofreading: No Passive Heroines","Clucky","24 Jun  2024 22:46:00","Enacted","?","26 Jun 2024  22:31:43",47,5,218
+"Efficient Turnaround Time","JonathanDark","26 Jun  2024 15:37:00","Enacted","?","27 Jun 2024  17:44:02",26,3,218
+"My kingdom for an extra sentence!","naught","26 Jun  2024 23:49:00","Enacted","?","27 Jun 2024  17:49:21",18,5,218
+"Early Submission Bonus","GloopyGhost","27 Jun  2024 16:46:00","Enacted","?","29 Jun 2024  01:17:00",32,4,218
+"Quick Response Time","JonathanDark","27 Jun  2024 17:40:00","Enacted","?","29 Jun 2024  01:18:44",31,8,218
+"End of the Plank","Clucky","30 Jun  2024 06:09:00","Failed","?","02 Jul 2024  14:05:44",55,4,218
+"The Story Arc","JonathanDark","01 Jul  2024 06:29:00","Enacted","?","03 Jul 2024  00:43:43",42,4,218
+"[Core] Writing is not idle work","naught","03 Jul  2024 00:14:00","Failed","?","05 Jul 2024  05:26:54",53,4,218
+"The Last is the L-Only One","JonathanDark","03 Jul  2024 00:48:00","Enacted","?","05 Jul 2024  05:27:39",52,3,218
+"Unleashing the Dark Forces","JonathanDark","08 Jul  2024 14:57:00","Enacted","?","10 Jul 2024  01:31:00",34,6,218
+"Peekaboo","Clucky","11 Jul  2024 19:35:00","Failed","?","13 Jul 2024  19:38:37",48,5,218
+"Situational Awareness","JonathanDark","12 Jul  2024 14:22:00","Enacted","?","13 Jul 2024  19:39:18",29,4,218
+"Announce the winner","djf1107","13 Jul  2024 17:45:00","Failed","?","13 Jul 2024  22:04:38",4,4,218
+"Understanding Your Standing","JonathanDark","13 Jul  2024 20:00:00","Failed","?","15 Jul 2024  21:26:36",49,5,218
+"Announce the winner.","djf1107","13 Jul  2024 21:39:00","Enacted","?","15 Jul 2024  21:27:10",47,4,218
+"Revelations, Chapter and Verse","JonathanDark","14 Jul  2024 18:57:00","Enacted","?","15 Jul 2024  22:17:22",27,3,218
+"End of the Line","Clucky","15 Jul  2024 06:33:00","Enacted","?","16 Jul 2024  05:22:31",22,3,218
+"Creative Participation","JonathanDark","16 Jul  2024 17:21:00","Failed","?","18 Jul 2024  18:54:57",49,4,218
+"Don’t Drag Everyone Else Down","JonathanDark","18 Jul  2024 18:55:00","Failed","?","19 Jul 2024  15:13:09",20,8,218
+"Here Be Drag-ons","Clucky","19 Jul  2024 01:42:00","Enacted","Clucky","21 Jul 2024  02:22:49",48,2,218
+"Don’t End Just Yet!! Please","ChaosGoblin","20 Jul  2024 00:41:00","Failed","?","22 Jul 2024  04:32:23",51,3,218
+"[Core] Anyone Can Help With The Chores","JonathanDark","26 Jul  2024 12:57:00","Enacted","Clucky","28 Jul 2024  03:16:51",38,12,218
+"Waiting For The Big One","JonathanDark","26 Jul  2024 13:01:00","Failed","Clucky","28 Jul 2024  03:17:45",38,5,218
+"What is a fish?","Clucky","26 Jul  2024 15:13:00","Enacted","Clucky","28 Jul 2024  03:18:56",36,10,218
+"Catch, then Identify","SingularByte","26 Jul  2024 16:52:00","Enacted","Clucky","28 Jul 2024  03:20:26",34,7,218
+"Out to sea","Darknight","26 Jul  2024 17:27:00","Enacted","Clucky","28 Jul 2024  03:24:08",33,4,218
+"VFA","Clucky","27 Jul  2024 04:08:00","Enacted","Clucky","28 Jul 2024  03:32:27",23,4,218
+"Land Ho","SingularByte","27 Jul  2024 05:17:49","Enacted","SingularByte","28 Jul 2024  05:05:39",23,6,218
+"Lost At Sea","Clucky","28 Jul  2024 03:34:00","Vetoed","SingularByte","28 Jul 2024  13:01:10",9,3,218
+"They’re Biting","SingularByte","28 Jul  2024 04:07:10","Failed","SingularByte","30 Jul 2024  03:43:47",47,5,218
+"All Fished Out","JonathanDark","28 Jul  2024 05:36:00","Failed","?","30 Jul 2024  05:18:22",47,11,218
+"When Does Fishing Season Start?","JonathanDark","28 Jul  2024 06:58:00","Enacted","?","30 Jul 2024  05:24:35",46,4,218
+"Hybridisation","SingularByte","28 Jul  2024 16:18:00","Enacted","?","30 Jul 2024  05:27:12",37,8,218
+"The Big One","Lukas","29 Jul  2024 06:46:00","Enacted","?","30 Jul 2024  05:31:24",22,4,218
+"Opening up the Ocean","Lukas","29 Jul  2024 07:19:00","Failed","?","30 Jul 2024  05:33:10",22,5,218
+"I’ve Got A Bad Feeling About This","JonathanDark","30 Jul  2024 05:33:00","Enacted","SingularByte","30 Jul 2024  20:56:23",15,6,218
+"At the Waters of Madness","JonathanDark","30 Jul  2024 05:34:00","Enacted","SingularByte","30 Jul 2024  20:58:39",15,3,218
+"Stare into the abyss","Darknight","30 Jul  2024 11:58:00","Failed","SingularByte","30 Jul 2024  21:00:49",9,5,218
+"Infinite Loop Prevention","SingularByte","30 Jul  2024 15:14:00","Enacted","?","31 Jul 2024  23:08:38",31,3,218
+"The Beast of Blackwater Bay","Lukas","30 Jul  2024 18:02:00","Enacted","?","31 Jul 2024  23:10:30",29,7,218
+"Double Up!","Clucky","31 Jul  2024 00:19:00","Enacted","?","01 Aug 2024  02:33:25",26,15,218
+"You’re So Case Insensitive","JonathanDark","31 Jul  2024 00:19:00","Enacted","?","01 Aug 2024  02:37:45",26,10,218
+"We’re All Mad Here","JonathanDark","31 Jul  2024 00:27:00","Enacted","?","01 Aug 2024  02:45:28",26,4,218
+"Disturbing","Clucky","31 Jul  2024 14:49:00","Enacted","?","01 Aug 2024  05:02:04",14,4,218
+"Loaded Up","Clucky","01 Aug  2024 03:25:00","Enacted","SingularByte","01 Aug 2024  18:30:57",15,5,218
+"Audaces Fortuna Iuvat","JonathanDark","01 Aug  2024 06:14:00","Failed","?","02 Aug 2024  04:17:53",22,6,218
+"We’re all mad here","Clucky","01 Aug  2024 06:49:00","Enacted","?","02 Aug 2024  04:18:37",21,5,218
+"Trophies","Lukas","02 Aug  2024 05:26:00","Enacted","?","04 Aug 2024  17:16:52",59,6,218
+"What’s a fishing competition without a bit of cult magic?","SingularByte","02 Aug  2024 06:17:00","Enacted","?","04 Aug 2024  17:19:57",59,6,218
+"Fish Buildup","Clucky","03 Aug  2024 02:05:00","Failed","?","05 Aug 2024  05:00:38",50,8,218
+"Fish Buildup 2: Fishing Holes","Lukas","04 Aug  2024 08:47:00","Enacted","?","05 Aug 2024  05:01:53",20,6,218
+"Short range obelisks","SingularByte","05 Aug  2024 18:23:00","Enacted","?","06 Aug 2024  14:31:36",20,7,218
+"Shipyard","Clucky","06 Aug  2024 04:40:00","Enacted","?","07 Aug 2024  16:24:49",35,5,218
+"Autonomous Beast","JonathanDark","07 Aug  2024 12:56:00","Failed","?","09 Aug 2024  14:27:21",49,8,218
+"The Lunatics are Running the Asylum","JonathanDark","07 Aug  2024 14:34:00","Enacted","?","09 Aug 2024  14:28:17",47,4,218
+"A Simpler Creature","JonathanDark","09 Aug  2024 14:39:00","Enacted","?","12 Aug 2024  02:30:45",59,4,218
+"Big 101","Clucky","13 Aug  2024 01:32:00","Enacted","?","15 Aug 2024  02:37:36",49,2,218
+"Season Ender","JonathanDark","13 Aug  2024 18:37:00","Enacted","?","15 Aug 2024  21:39:41",51,4,218
+"Funkalicious","Clucky","13 Aug  2024 18:43:00","Enacted","?","15 Aug 2024  21:41:45",50,2,218
+"Sight Unseen","Clucky","15 Aug  2024 04:42:00","Failed","?","17 Aug 2024  17:55:27",61,5,218
+"Figuratively Fishy","JonathanDark","15 Aug  2024 21:47:00","Enacted","?","17 Aug 2024  17:56:22",44,3,218
+"Variety Is Some Sort Of Spice","JonathanDark","15 Aug  2024 21:53:00","Enacted","?","17 Aug 2024  18:01:02",44,3,218
+"A Trophy","Clucky","17 Aug  2024 03:50:00","Enacted","?","17 Aug 2024  18:02:45",14,5,218
+"Forgotten Fish","JonathanDark","17 Aug  2024 18:12:00","Enacted","?","19 Aug 2024  03:51:28",33,3,218
+"Achievements","Lukas","18 Aug  2024 03:02:00","Failed","?","20 Aug 2024  06:28:57",51,4,218
+"Found at Sea","Lukas","18 Aug  2024 03:07:00","Enacted","?","20 Aug 2024  06:29:40",51,3,218
+"Time Waits For No One","JonathanDark","19 Aug  2024 15:28:00","Failed","?","20 Aug 2024  06:32:03",15,4,218
+"Diminishing Returns","JonathanDark","19 Aug  2024 21:12:00","Failed","?","20 Aug 2024  19:58:52",22,5,218
+"Moving Things Along","JonathanDark","20 Aug  2024 17:40:00","Enacted","?","21 Aug 2024  14:31:28",20,4,218
+"A slow descent into madness","Lukas","20 Aug  2024 21:54:00","Enacted","?","22 Aug 2024  23:24:56",49,3,218
+"Energizer Bunny","Clucky","21 Aug  2024 05:10:00","Enacted","?","22 Aug 2024  23:28:54",42,4,218
+"Hitting Rock Bottom","JonathanDark","21 Aug  2024 15:10:00","Enacted","?","22 Aug 2024  23:30:52",32,3,218
+"20,000 Leagues Under The Sea","JonathanDark","21 Aug  2024 15:14:00","Failed","?","22 Aug 2024  23:33:36",32,5,218
+"Retail Therapy","Clucky","22 Aug  2024 06:44:00","Enacted","?","22 Aug 2024  23:34:23",16,2,218
+"Faster Boats","Desertfrog","22 Aug  2024 07:06:00","Failed","?","23 Aug 2024  14:43:43",31,3,218
+"Relic Hunter","JonathanDark","23 Aug  2024 00:03:00","Enacted","?","23 Aug 2024  14:45:14",14,5,218
+"What Madness Lies Beneath","JonathanDark","23 Aug  2024 00:10:00","Enacted","?","23 Aug 2024  18:31:43",18,3,218
+"The beast below","Clucky","23 Aug  2024 04:51:00","Enacted","?","23 Aug 2024  18:34:26",13,5,218
+"Take A Deep Breath","JonathanDark","23 Aug  2024 15:03:00","Enacted","?","24 Aug 2024  19:27:55",28,4,218
+"Usually people lock up treasure, not the other way around","Lukas","24 Aug  2024 03:10:00","Enacted","?","24 Aug 2024  19:31:37",16,4,218
+"Getting The Bends","JonathanDark","24 Aug  2024 03:12:00","Enacted","?","24 Aug 2024  20:06:25",16,2,218
+"Free Rest","Clucky","26 Aug  2024 17:36:00","Enacted","?","27 Aug 2024  14:36:18",21,5,218
+"More Treasures","Lukas","26 Aug  2024 21:20:00","Enacted","?","27 Aug 2024  21:16:36",23,4,218
+"[Building Blocks] [Core] Building Back the Blocks","JonathanDark","28 Aug  2024 19:16:00","Enacted","?","30 Aug 2024  06:30:50",35,3,218
+"So much Churning sends me reeling","Lukas","28 Aug  2024 20:35:00","Enacted","?","30 Aug 2024  06:36:50",34,2,218
+"Heavy Cargo","JonathanDark","28 Aug  2024 22:18:00","Enacted","?","30 Aug 2024  06:38:28",32,2,218
+"Dangerous Waters","JonathanDark","30 Aug  2024 15:28:00","Enacted","?","02 Sep 2024  19:03:34",75,9,218
+"Just in case","Lukas","03 Sep  2024 20:11:00","Enacted","?","05 Sep 2024  02:07:16",29,5,218
+"Even Elder Judges Need A Side Hustle","JonathanDark","06 Sep  2024 21:16:00","Enacted","Clucky","09 Sep 2024  05:32:37",56,4,218
+"Build A Board Workshop","Clucky","10 Sep  2024 18:11:00","Enacted","?","11 Sep 2024  14:44:24",20,5,218
+"Turn Down For What","Clucky","10 Sep  2024 18:25:00","Enacted","?","11 Sep 2024  14:52:05",20,4,218
+"Deterministic Slot Machine","Lukas","10 Sep  2024 20:11:00","Enacted","?","11 Sep 2024  14:55:19",18,7,218
+"Match Makers","JonathanDark","10 Sep  2024 20:31:00","Enacted","?","11 Sep 2024  15:07:35",18,10,218
+"Do the Bump","JonathanDark","10 Sep  2024 21:03:00","Enacted","?","11 Sep 2024  15:11:26",18,8,218
+"The difference between “turn” and “rotate”?","Desertfrog","11 Sep  2024 13:01:00","Enacted","?","12 Sep 2024  02:17:24",13,4,218
+"Fruitful Matches","Desertfrog","11 Sep  2024 13:45:00","Enacted","Clucky","12 Sep 2024  15:17:58",25,5,218
+"The Gravity of the Situation","JonathanDark","11 Sep  2024 15:31:00","Enacted","?","13 Sep 2024  14:36:27",47,14,218
+"Opt In To Play","JonathanDark","11 Sep  2024 15:42:00","Enacted","?","13 Sep 2024  14:39:38",46,11,218
+"Multimatch Drifting","Clucky","11 Sep  2024 16:24:00","Enacted","?","13 Sep 2024  14:44:31",46,6,218
+"Match Un-Making","Lukas","11 Sep  2024 19:10:00","Enacted","?","13 Sep 2024  14:48:42",43,8,218
+"Now with more Fruit","Lukas","11 Sep  2024 19:40:00","Enacted","?","13 Sep 2024  14:51:26",43,7,218
+"Light It Up","Clucky","12 Sep  2024 15:24:00","Enacted","?","13 Sep 2024  16:14:58",24,8,218
+"Cellular Plains","Desertfrog","13 Sep  2024 14:30:00","Enacted","?","14 Sep 2024  18:03:11",27,7,218
+"Mighty Morphin Fruit Ninjas","Clucky","13 Sep  2024 16:24:00","Enacted","Clucky","14 Sep 2024  18:07:46",25,5,218
+"Collection Plate","Clucky","13 Sep  2024 16:36:00","Enacted","Clucky","14 Sep 2024  18:10:08",25,12,218
+"Fruit Salad","Lukas","13 Sep  2024 20:19:00","Enacted","?","15 Sep 2024  21:23:12",49,8,218
+"Optional Multi-Matching","Lukas","13 Sep  2024 20:27:00","Enacted","?","15 Sep 2024  21:25:00",48,7,218
+"Somebody Set Up Us the Bomb","JonathanDark","14 Sep  2024 17:20:00","Failed","?","15 Sep 2024  21:26:39",28,7,218
+"Fewer Stars","Clucky","14 Sep  2024 18:11:00","Enacted","?","15 Sep 2024  21:27:18",27,8,218
+"Multi-limited","Clucky","15 Sep  2024 05:28:00","Failed","?","16 Sep 2024  13:28:23",32,8,218
+"Defrost Before Cooking","JonathanDark","15 Sep  2024 05:48:00","Enacted","?","16 Sep 2024  13:29:01",31,3,218
+"When Life Gives You Lemons","JonathanDark","16 Sep  2024 14:37:00","Enacted","?","17 Sep 2024  14:40:50",24,14,218
+"Fear Of Missing Out","Desertfrog","16 Sep  2024 15:13:00","Enacted","?","17 Sep 2024  14:42:23",23,6,218
+"Consistency","Lukas","16 Sep  2024 17:48:00","Enacted","?","18 Sep 2024  21:04:15",51,6,218
+"Agricultural Achiever","JonathanDark","17 Sep  2024 21:22:00","Failed","?","20 Sep 2024  01:38:03",52,6,218
+"chain reaction","Clucky","19 Sep  2024 00:16:00","Failed","?","20 Sep 2024  14:30:37",38,5,218
+"Side Hustle","JonathanDark","19 Sep  2024 18:08:00","Enacted","?","20 Sep 2024  14:31:07",20,3,218
+"2 Chainz (2 Reactionz)","Clucky","21 Sep  2024 00:49:00","Enacted","?","22 Sep 2024  21:43:12",44,2,218
+"Making Life Easier","Desertfrog","21 Sep  2024 07:08:00","Enacted","?","22 Sep 2024  22:01:22",38,3,218
+"Queued Actions","Lukas","21 Sep  2024 23:52:00","Enacted","?","24 Sep 2024  00:03:47",48,5,218
+"More Fruity Actions","Lukas","22 Sep  2024 00:26:00","Enacted","?","24 Sep 2024  00:06:45",47,5,218
+"Benbot Clause","Clucky","23 Sep  2024 01:05:00","Enacted","?","24 Sep 2024  00:44:26",23,3,218
+"Bombs Away","Clucky","24 Sep  2024 03:48:00","Enacted","?","24 Sep 2024  17:31:37",13,3,218
+"501 Fun","Clucky","24 Sep  2024 03:53:00","Enacted","?","24 Sep 2024  17:33:47",13,6,218
+"Seeing Stars","Benbot","24 Sep  2024 12:06:00","Failed","Clucky","26 Sep 2024  15:47:34",51,5,218
+"Trapped","Clucky","24 Sep  2024 19:04:00","Failed","?","26 Sep 2024  21:36:11",50,9,218
+"Not So Much Thirst Trap","JonathanDark","25 Sep  2024 15:03:00","Failed","?","26 Sep 2024  21:37:04",30,4,218
+"Thieves’ Tools","JonathanDark","25 Sep  2024 15:11:00","Enacted","?","26 Sep 2024  21:37:35",30,6,218
+"Bolted Down","Clucky","25 Sep  2024 20:24:00","Enacted","?","26 Sep 2024  21:38:57",25,2,218
+"Open Betting Season","JonathanDark","27 Sep  2024 17:45:00","Enacted","?","29 Sep 2024  18:03:56",48,2,218
+"Versus Reversi","JonathanDark","29 Sep  2024 18:11:00","Enacted","?","30 Sep 2024  14:35:52",20,2,218
+"Do You Wanna Build A Snowman?","JonathanDark","01 Oct  2024 21:28:00","Enacted","Clucky","03 Oct 2024  22:52:56",49,4,218
+"No Zig Zag","Clucky","02 Oct  2024 00:06:00","Enacted","?","04 Oct 2024  04:01:01",51,2,218
+"Whiteout","Clucky","03 Oct  2024 23:01:00","Enacted","?","05 Oct 2024  18:47:55",43,5,218
+"The Thaw","Clucky","04 Oct  2024 04:36:00","Enacted","?","05 Oct 2024  18:49:52",38,2,218
+"Moving Target","Clucky","05 Oct  2024 18:56:00","Enacted","Clucky","07 Oct 2024  18:50:57",47,3,218
+"Stake Limits","Clucky","05 Oct  2024 23:57:00","Failed","?","07 Oct 2024  20:16:31",44,3,218
+"Ice Skating","Desertfrog","08 Oct  2024 15:29:00","Enacted","?","09 Oct 2024  04:35:40",13,3,218
+"Disarm And Disleg","Clucky","12 Oct  2024 22:31:00","Enacted","?","14 Oct 2024  14:34:00",40,3,218
+"Rewarding","Clucky","17 Oct  2024 00:56:00","Vetoed","?","20 Oct 2024  01:18:31",72,5,218
+"Genetics 101","Lukas","19 Oct  2024 23:48:00","Enacted","?","20 Oct 2024  18:43:41",18,3,218
+"Research Points","Lukas","19 Oct  2024 23:58:00","Enacted","?","20 Oct 2024  18:52:17",18,3,218
+"The Laboratory","Lukas","20 Oct  2024 00:14:00","Illegal","?","20 Oct 2024  01:16:59",1,0,218
+"Trying the lab door again","Darknight","20 Oct  2024 02:09:00","Enacted","?","20 Oct 2024  18:55:24",16,5,218
+"It’s alive!","Desertfrog","20 Oct  2024 10:42:00","Enacted","?","21 Oct 2024  04:25:05",17,3,218
+"Getting Up Close and Personal","JonathanDark","21 Oct  2024 04:19:00","Enacted","Kevan","22 Oct 2024  14:01:59",33,3,218
+"Advanced Genetics","JonathanDark","21 Oct  2024 04:22:00","Enacted","?","22 Oct 2024  14:39:24",34,6,218
+"You Are Here","Kevan","22 Oct  2024 10:59:00","Enacted","Kevan","23 Oct 2024  07:50:14",20,4,218
+"Hypothetical Genes","Desertfrog","22 Oct  2024 12:00:00","Enacted","Kevan","23 Oct 2024  08:11:41",20,4,218
+"Fixing some defects","Lukas","22 Oct  2024 13:44:00","Enacted","Kevan","23 Oct 2024  09:55:35",20,6,218
+"Waving Hands","Kevan","22 Oct  2024 13:49:00","Enacted","Kevan","24 Oct 2024  14:08:50",48,4,218
+"Secure, Contain, Protect","JonathanDark","22 Oct  2024 14:49:00","Enacted","Kevan","24 Oct 2024  14:09:48",47,6,218
+"Head Research","Kevan","23 Oct  2024 08:55:00","Enacted","Kevan","24 Oct 2024  14:14:34",29,3,218
+"Clocking In","JonathanDark","23 Oct  2024 14:58:00","Enacted","Kevan","24 Oct 2024  14:12:35",23,3,218
+"Hostile Lifeforms","JonathanDark","24 Oct  2024 16:48:00","Enacted","Kevan","25 Oct 2024  10:13:49",17,2,218
+"Rat Run","Kevan","24 Oct  2024 17:52:00","Enacted","Kevan","25 Oct 2024  14:19:59",20,3,218
+"Checking the Seals","Kevan","24 Oct  2024 18:11:00","Enacted","Kevan","25 Oct 2024  17:26:55",23,4,218
+"For ease of reference","Lukas","25 Oct  2024 15:58:00","Enacted","Kevan","27 Oct 2024  11:57:30",43,6,218
+"The Evolution Will Be Televised","JonathanDark","25 Oct  2024 18:29:00","Enacted","Kevan","27 Oct 2024  12:39:27",42,3,218
+"Dominant Traits","JonathanDark","26 Oct  2024 05:18:00","Enacted","Kevan","28 Oct 2024  09:39:58",52,3,218
+"The Perfect Organism","Kevan","27 Oct  2024 12:21:00","Enacted","Kevan","29 Oct 2024  14:59:58",50,3,218
+"Sick Day","Kevan","27 Oct  2024 13:26:00","Enacted","Kevan","29 Oct 2024  15:00:42",49,3,218
+"Preferential Treatment","JonathanDark","29 Oct  2024 01:04:00","Failed","Kevan","30 Oct 2024  12:13:34",35,5,218
+"Players Please [Building Blocks]","Kevan","29 Oct  2024 16:00:00","Enacted","Kevan","31 Oct 2024  16:09:15",48,4,218
+"How to Play the Synthesizer","Kevan","29 Oct  2024 17:48:00","Failed","Kevan","31 Oct 2024  16:09:58",46,3,218
+"Actually JonathanDark was the Name of the Scientist","Kevan","31 Oct  2024 17:49:00","Enacted","?","02 Nov 2024  03:40:31",33,3,218
+"Paging Doctor Beat","Kevan","01 Nov  2024 10:03:00","Enacted","?","02 Nov 2024  03:44:52",17,5,218
+"Curiosity Seekers","JonathanDark","02 Nov  2024 03:49:00","Enacted","?","03 Nov 2024  06:12:34",26,3,218
+"Never Cross the Streams","JonathanDark","02 Nov  2024 04:11:00","Failed","Kevan","03 Nov 2024  15:54:18",35,3,218
+"Look Busy","Kevan","02 Nov  2024 12:03:00","Enacted","Kevan","03 Nov 2024  19:33:57",31,3,218
+"The Blob","Kevan","02 Nov  2024 12:38:00","Enacted","Kevan","03 Nov 2024  19:34:50",30,4,218
+"Survival of the Fittest","JonathanDark","04 Nov  2024 06:08:00","Failed","Kevan","06 Nov 2024  09:05:04",50,5,218
+"Missing Links","JonathanDark","04 Nov  2024 06:48:00","Enacted","Kevan","06 Nov 2024  09:14:12",50,3,218
+"Legwork","Kevan","04 Nov  2024 15:06:00","Enacted","Kevan","06 Nov 2024  09:15:43",42,3,218
+"Updating the Lab Handbook","JonathanDark","06 Nov  2024 15:58:00","Enacted","Kevan","07 Nov 2024  09:40:57",17,3,218
+"The Sims - Genetic Engineer Expansion","JonathanDark","06 Nov  2024 16:09:00","Failed","Kevan","08 Nov 2024  16:43:04",48,6,218
+"Cats Are Liquid","Desertfrog","06 Nov  2024 16:49:00","Enacted","Kevan","08 Nov 2024  16:44:03",47,3,218
+"Codoff","Kevan","06 Nov  2024 19:03:00","Failed","Kevan","08 Nov 2024  19:06:52",48,5,218
+"Dormant Window","Kevan","08 Nov  2024 16:44:00","Enacted","Kevan","10 Nov 2024  16:45:36",48,5,218
+"Brushcutting","Josh","11 Nov  2024 10:36:00","Enacted","Josh","13 Nov 2024  11:12:33",48,5,218
+"What Type Of Scientific Facility Is This?","Josh","11 Nov  2024 10:45:00","Failed","Josh","13 Nov 2024  11:16:36",48,5,218
+"99% Perspiration","Kevan","12 Nov  2024 10:00:00","Enacted","Kevan","14 Nov 2024  08:19:45",46,3,218
+"Fascinating","Kevan","12 Nov  2024 11:59:00","Enacted","Kevan","14 Nov 2024  08:21:59",44,3,218
+"Midnight Oil","Kevan","14 Nov  2024 09:02:00","Enacted","Kevan","15 Nov 2024  15:04:48",30,3,218
+"Removing the Brown M&Ms [Building Blocks]","Kevan","15 Nov  2024 17:31:00","Enacted","Kevan","17 Nov 2024  16:13:52",46,5,218
+"Breakthrough","Kevan","18 Nov  2024 10:00:00","Failed","Kevan","18 Nov 2024  16:53:41",6,4,218
+"Published Research","JonathanDark","18 Nov  2024 15:11:00","Failed","Kevan","19 Nov 2024  08:54:51",17,6,218
+"Break-Even","Kevan","18 Nov  2024 16:53:00","Enacted","Kevan","19 Nov 2024  12:29:27",19,7,218
